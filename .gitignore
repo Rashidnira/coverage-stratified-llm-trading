@@ -1,5 +1,0 @@
-__pycache__/
-*.safetensors
-*.bin
-.env
-*.live.txt
