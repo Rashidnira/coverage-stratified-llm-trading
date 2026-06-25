@@ -1,0 +1,1036 @@
+{
+ "order": [
+  "Buy&Hold",
+  "News-Only (Lopez-Lira 2023)",
+  "Debate News+Social (Xiao 2025)",
+  "Reflection / Verbal-RL (Tian 2025)",
+  "Debate GPT-4o-mini (Xiao 2025)",
+  "Memory / FinMem-faithful (Yu 2025)",
+  "RL/GRPO (Xiao 2025)",
+  "Classifier N+S+Tech (D'Amico 2026)",
+  "Classifier 10-source / CLF16 (D'Amico 2026)"
+ ],
+ "short": {
+  "Buy&Hold": "B&H",
+  "News-Only (Lopez-Lira 2023)": "News-Only",
+  "Debate News+Social (Xiao 2025)": "Deb-N+S",
+  "Reflection / Verbal-RL (Tian 2025)": "Verbal-RL",
+  "Debate GPT-4o-mini (Xiao 2025)": "Deb-GPT4o",
+  "Memory / FinMem-faithful (Yu 2025)": "FinMem",
+  "RL/GRPO (Xiao 2025)": "GRPO",
+  "Classifier N+S+Tech (D'Amico 2026)": "CLF-NST",
+  "Classifier 10-source / CLF16 (D'Amico 2026)": "CLF16"
+ },
+ "result": {
+  "Buy&Hold": {
+   "AAPL": {
+    "CR": -3.6,
+    "Sharpe": -0.06,
+    "DirAcc": 47.4,
+    "Acted": 100.0
+   },
+   "TSLA": {
+    "CR": 6.2,
+    "Sharpe": 0.38,
+    "DirAcc": 47.4,
+    "Acted": 100.0
+   },
+   "MSFT": {
+    "CR": -1.4,
+    "Sharpe": 0.0,
+    "DirAcc": 48.6,
+    "Acted": 100.0
+   },
+   "AMZN": {
+    "CR": -9.1,
+    "Sharpe": -0.29,
+    "DirAcc": 52.2,
+    "Acted": 100.0
+   },
+   "GOOGL": {
+    "CR": 41.8,
+    "Sharpe": 1.52,
+    "DirAcc": 56.2,
+    "Acted": 100.0
+   },
+   "NVDA": {
+    "CR": 19.4,
+    "Sharpe": 0.67,
+    "DirAcc": 52.6,
+    "Acted": 100.0
+   },
+   "NBTB": {
+    "CR": -25.3,
+    "Sharpe": -1.14,
+    "DirAcc": 45.8,
+    "Acted": 100.0
+   },
+   "ANDE": {
+    "CR": 12.5,
+    "Sharpe": 0.5,
+    "DirAcc": 50.6,
+    "Acted": 100.0
+   },
+   "PRGS": {
+    "CR": -43.8,
+    "Sharpe": -1.6,
+    "DirAcc": 45.8,
+    "Acted": 100.0
+   },
+   "MYRG": {
+    "CR": 28.4,
+    "Sharpe": 0.82,
+    "DirAcc": 51.0,
+    "Acted": 100.0
+   },
+   "PAHC": {
+    "CR": 55.2,
+    "Sharpe": 1.19,
+    "DirAcc": 52.6,
+    "Acted": 100.0
+   },
+   "IIIN": {
+    "CR": 2.8,
+    "Sharpe": 0.26,
+    "DirAcc": 49.4,
+    "Acted": 100.0
+   },
+   "WDFC": {
+    "CR": -32.0,
+    "Sharpe": -1.17,
+    "DirAcc": 45.8,
+    "Acted": 100.0
+   },
+   "JJSF": {
+    "CR": -51.3,
+    "Sharpe": -1.92,
+    "DirAcc": 41.0,
+    "Acted": 100.0
+   },
+   "YORW": {
+    "CR": -19.5,
+    "Sharpe": -0.54,
+    "DirAcc": 46.6,
+    "Acted": 100.0
+   },
+   "MSEX": {
+    "CR": -19.5,
+    "Sharpe": -0.32,
+    "DirAcc": 46.2,
+    "Acted": 100.0
+   }
+  },
+  "News-Only (Lopez-Lira 2023)": {
+   "AAPL": {
+    "CR": 9.8,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "TSLA": {
+    "CR": -49.8,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "MSFT": {
+    "CR": 0.6,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "AMZN": {
+    "CR": -21.1,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "GOOGL": {
+    "CR": 9.3,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "NVDA": {
+    "CR": -5.3,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "NBTB": {
+    "CR": -3.5,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "ANDE": {
+    "CR": -12.2,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "PRGS": {
+    "CR": -1.1,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "MYRG": {
+    "CR": -29.8,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "PAHC": {
+    "CR": 29.6,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "IIIN": {
+    "CR": -4.4,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "WDFC": {
+    "CR": -23.9,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "JJSF": {
+    "CR": -25.4,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "YORW": {
+    "CR": -0.7,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "MSEX": {
+    "CR": 13.3,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   }
+  },
+  "Debate News+Social (Xiao 2025)": {
+   "AAPL": {
+    "CR": 9.4,
+    "Sharpe": 0.88,
+    "DirAcc": 54.5,
+    "Acted": 17.7
+   },
+   "TSLA": {
+    "CR": -37.3,
+    "Sharpe": -1.26,
+    "DirAcc": 47.2,
+    "Acted": 35.7
+   },
+   "MSFT": {
+    "CR": 9.9,
+    "Sharpe": 1.22,
+    "DirAcc": 49.4,
+    "Acted": 31.7
+   },
+   "AMZN": {
+    "CR": -0.2,
+    "Sharpe": 0.05,
+    "DirAcc": 48.9,
+    "Acted": 18.9
+   },
+   "GOOGL": {
+    "CR": 42.8,
+    "Sharpe": 2.5,
+    "DirAcc": 58.7,
+    "Acted": 36.9
+   },
+   "NVDA": {
+    "CR": -6.7,
+    "Sharpe": -0.33,
+    "DirAcc": 53.8,
+    "Acted": 32.1
+   },
+   "NBTB": {
+    "CR": 0.7,
+    "Sharpe": 0.14,
+    "DirAcc": 54.5,
+    "Acted": 13.3
+   },
+   "ANDE": {
+    "CR": 10.2,
+    "Sharpe": 0.59,
+    "DirAcc": 44.7,
+    "Acted": 15.3
+   },
+   "PRGS": {
+    "CR": 2.8,
+    "Sharpe": 0.26,
+    "DirAcc": 51.4,
+    "Acted": 14.1
+   },
+   "MYRG": {
+    "CR": -19.7,
+    "Sharpe": -1.23,
+    "DirAcc": 44.6,
+    "Acted": 26.1
+   },
+   "PAHC": {
+    "CR": 20.1,
+    "Sharpe": 0.76,
+    "DirAcc": 56.1,
+    "Acted": 26.5
+   },
+   "IIIN": {
+    "CR": 6.7,
+    "Sharpe": 0.56,
+    "DirAcc": 50.0,
+    "Acted": 15.3
+   },
+   "WDFC": {
+    "CR": -2.6,
+    "Sharpe": -0.11,
+    "DirAcc": 50.9,
+    "Acted": 21.3
+   },
+   "JJSF": {
+    "CR": -19.2,
+    "Sharpe": -2.07,
+    "DirAcc": 40.5,
+    "Acted": 14.9
+   },
+   "YORW": {
+    "CR": 1.3,
+    "Sharpe": 0.25,
+    "DirAcc": 57.1,
+    "Acted": 5.6
+   },
+   "MSEX": {
+    "CR": 4.7,
+    "Sharpe": 0.32,
+    "DirAcc": 64.9,
+    "Acted": 14.9
+   }
+  },
+  "Reflection / Verbal-RL (Tian 2025)": {
+   "AAPL": {
+    "CR": -10.3,
+    "Sharpe": -2.1,
+    "DirAcc": 31.6,
+    "Acted": 7.6
+   },
+   "TSLA": {
+    "CR": 36.1,
+    "Sharpe": 1.37,
+    "DirAcc": 51.9,
+    "Acted": 20.9
+   },
+   "MSFT": {
+    "CR": 2.1,
+    "Sharpe": 0.4,
+    "DirAcc": 44.7,
+    "Acted": 15.3
+   },
+   "AMZN": {
+    "CR": -7.8,
+    "Sharpe": -0.79,
+    "DirAcc": 46.3,
+    "Acted": 21.7
+   },
+   "GOOGL": {
+    "CR": -14.8,
+    "Sharpe": -1.62,
+    "DirAcc": 34.4,
+    "Acted": 12.9
+   },
+   "NVDA": {
+    "CR": 26.1,
+    "Sharpe": 1.34,
+    "DirAcc": 54.7,
+    "Acted": 25.7
+   },
+   "NBTB": {
+    "CR": -6.3,
+    "Sharpe": -0.57,
+    "DirAcc": 46.3,
+    "Acted": 16.5
+   },
+   "ANDE": {
+    "CR": 5.8,
+    "Sharpe": 0.37,
+    "DirAcc": 52.4,
+    "Acted": 33.7
+   },
+   "PRGS": {
+    "CR": -5.8,
+    "Sharpe": -0.1,
+    "DirAcc": 47.8,
+    "Acted": 54.6
+   },
+   "MYRG": {
+    "CR": -4.3,
+    "Sharpe": -0.21,
+    "DirAcc": 45.5,
+    "Acted": 13.3
+   },
+   "PAHC": {
+    "CR": 15.8,
+    "Sharpe": 0.82,
+    "DirAcc": 54.5,
+    "Acted": 26.5
+   },
+   "IIIN": {
+    "CR": -20.4,
+    "Sharpe": -1.7,
+    "DirAcc": 50.0,
+    "Acted": 16.1
+   },
+   "WDFC": {
+    "CR": -23.0,
+    "Sharpe": -1.58,
+    "DirAcc": 43.7,
+    "Acted": 28.5
+   },
+   "JJSF": {
+    "CR": -1.3,
+    "Sharpe": 0.04,
+    "DirAcc": 51.1,
+    "Acted": 36.9
+   },
+   "YORW": {
+    "CR": -10.8,
+    "Sharpe": -1.14,
+    "DirAcc": 43.8,
+    "Acted": 12.9
+   },
+   "MSEX": {
+    "CR": -19.8,
+    "Sharpe": -0.56,
+    "DirAcc": 47.5,
+    "Acted": 39.8
+   }
+  },
+  "Debate GPT-4o-mini (Xiao 2025)": {
+   "AAPL": {
+    "CR": 27.2,
+    "Sharpe": 1.41,
+    "DirAcc": 51.4,
+    "Acted": 69.5
+   },
+   "TSLA": {
+    "CR": -31.8,
+    "Sharpe": -0.57,
+    "DirAcc": 49.7,
+    "Acted": 75.9
+   },
+   "MSFT": {
+    "CR": -3.4,
+    "Sharpe": -0.15,
+    "DirAcc": 46.2,
+    "Acted": 79.1
+   },
+   "AMZN": {
+    "CR": -7.6,
+    "Sharpe": -0.31,
+    "DirAcc": 49.4,
+    "Acted": 64.3
+   },
+   "GOOGL": {
+    "CR": 25.3,
+    "Sharpe": 1.16,
+    "DirAcc": 57.2,
+    "Acted": 77.9
+   },
+   "NVDA": {
+    "CR": -20.1,
+    "Sharpe": -0.57,
+    "DirAcc": 49.5,
+    "Acted": 81.9
+   },
+   "NBTB": {
+    "CR": 9.0,
+    "Sharpe": 0.54,
+    "DirAcc": 56.9,
+    "Acted": 61.4
+   },
+   "ANDE": {
+    "CR": 5.0,
+    "Sharpe": 0.31,
+    "DirAcc": 46.9,
+    "Acted": 58.2
+   },
+   "PRGS": {
+    "CR": 17.9,
+    "Sharpe": 0.71,
+    "DirAcc": 57.7,
+    "Acted": 57.0
+   },
+   "MYRG": {
+    "CR": -12.2,
+    "Sharpe": -0.34,
+    "DirAcc": 50.7,
+    "Acted": 54.6
+   },
+   "PAHC": {
+    "CR": 115.9,
+    "Sharpe": 2.06,
+    "DirAcc": 56.0,
+    "Acted": 67.5
+   },
+   "IIIN": {
+    "CR": -18.0,
+    "Sharpe": -0.9,
+    "DirAcc": 47.5,
+    "Acted": 48.2
+   },
+   "WDFC": {
+    "CR": -14.7,
+    "Sharpe": -0.56,
+    "DirAcc": 51.4,
+    "Acted": 55.4
+   },
+   "JJSF": {
+    "CR": -28.1,
+    "Sharpe": -1.17,
+    "DirAcc": 50.0,
+    "Acted": 67.5
+   },
+   "YORW": {
+    "CR": 0.3,
+    "Sharpe": 0.13,
+    "DirAcc": 54.7,
+    "Acted": 51.4
+   },
+   "MSEX": {
+    "CR": 37.3,
+    "Sharpe": 1.12,
+    "DirAcc": 56.2,
+    "Acted": 57.8
+   }
+  },
+  "Memory / FinMem-faithful (Yu 2025)": {
+   "AAPL": {
+    "CR": 28.7,
+    "Sharpe": 2.12,
+    "DirAcc": 53.1,
+    "Acted": 32.5
+   },
+   "TSLA": {
+    "CR": -3.6,
+    "Sharpe": 0.12,
+    "DirAcc": 54.0,
+    "Acted": 55.0
+   },
+   "MSFT": {
+    "CR": -7.8,
+    "Sharpe": -0.77,
+    "DirAcc": 49.2,
+    "Acted": 50.6
+   },
+   "AMZN": {
+    "CR": -7.8,
+    "Sharpe": -0.56,
+    "DirAcc": 52.4,
+    "Acted": 33.7
+   },
+   "GOOGL": {
+    "CR": -39.2,
+    "Sharpe": -1.99,
+    "DirAcc": 42.7,
+    "Acted": 82.7
+   },
+   "NVDA": {
+    "CR": 1.0,
+    "Sharpe": 0.16,
+    "DirAcc": 45.5,
+    "Acted": 48.6
+   },
+   "NBTB": {
+    "CR": 9.7,
+    "Sharpe": 0.56,
+    "DirAcc": 54.3,
+    "Acted": 83.5
+   },
+   "ANDE": {
+    "CR": -36.2,
+    "Sharpe": -1.43,
+    "DirAcc": 46.3,
+    "Acted": 65.1
+   },
+   "PRGS": {
+    "CR": 6.6,
+    "Sharpe": 0.42,
+    "DirAcc": 54.3,
+    "Acted": 36.9
+   },
+   "MYRG": {
+    "CR": -43.6,
+    "Sharpe": -1.45,
+    "DirAcc": 49.3,
+    "Acted": 81.5
+   },
+   "PAHC": {
+    "CR": -19.1,
+    "Sharpe": -0.78,
+    "DirAcc": 44.8,
+    "Acted": 34.9
+   },
+   "IIIN": {
+    "CR": -37.5,
+    "Sharpe": -1.21,
+    "DirAcc": 47.3,
+    "Acted": 73.9
+   },
+   "WDFC": {
+    "CR": 16.9,
+    "Sharpe": 1.08,
+    "DirAcc": 56.7,
+    "Acted": 26.9
+   },
+   "JJSF": {
+    "CR": 10.3,
+    "Sharpe": 0.48,
+    "DirAcc": 54.3,
+    "Acted": 65.1
+   },
+   "YORW": {
+    "CR": -0.2,
+    "Sharpe": 0.14,
+    "DirAcc": 51.7,
+    "Acted": 94.8
+   },
+   "MSEX": {
+    "CR": 38.5,
+    "Sharpe": 1.25,
+    "DirAcc": 55.6,
+    "Acted": 18.1
+   }
+  },
+  "RL/GRPO (Xiao 2025)": {
+   "AAPL": {
+    "CR": -0.0,
+    "Sharpe": 0.06,
+    "DirAcc": 43.6,
+    "Acted": 37.8
+   },
+   "TSLA": {
+    "CR": -13.2,
+    "Sharpe": -0.23,
+    "DirAcc": 48.9,
+    "Acted": 35.3
+   },
+   "MSFT": {
+    "CR": -7.6,
+    "Sharpe": -1.1,
+    "DirAcc": 46.5,
+    "Acted": 34.5
+   },
+   "AMZN": {
+    "CR": -15.8,
+    "Sharpe": -1.16,
+    "DirAcc": 50.0,
+    "Acted": 33.7
+   },
+   "GOOGL": {
+    "CR": -1.2,
+    "Sharpe": 0.03,
+    "DirAcc": 55.0,
+    "Acted": 43.8
+   },
+   "NVDA": {
+    "CR": 9.9,
+    "Sharpe": 0.55,
+    "DirAcc": 47.9,
+    "Acted": 38.6
+   },
+   "NBTB": {
+    "CR": -11.4,
+    "Sharpe": -1.11,
+    "DirAcc": 57.6,
+    "Acted": 13.3
+   },
+   "ANDE": {
+    "CR": 21.6,
+    "Sharpe": 1.01,
+    "DirAcc": 58.1,
+    "Acted": 17.3
+   },
+   "PRGS": {
+    "CR": 12.7,
+    "Sharpe": 1.32,
+    "DirAcc": 61.9,
+    "Acted": 16.9
+   },
+   "MYRG": {
+    "CR": -5.6,
+    "Sharpe": -0.24,
+    "DirAcc": 51.1,
+    "Acted": 18.9
+   },
+   "PAHC": {
+    "CR": 15.9,
+    "Sharpe": 0.91,
+    "DirAcc": 52.1,
+    "Acted": 19.3
+   },
+   "IIIN": {
+    "CR": -20.7,
+    "Sharpe": -1.09,
+    "DirAcc": 48.0,
+    "Acted": 10.0
+   },
+   "WDFC": {
+    "CR": -5.0,
+    "Sharpe": -0.22,
+    "DirAcc": 48.4,
+    "Acted": 24.9
+   },
+   "JJSF": {
+    "CR": -13.4,
+    "Sharpe": -0.86,
+    "DirAcc": 50.0,
+    "Acted": 20.1
+   },
+   "YORW": {
+    "CR": -1.0,
+    "Sharpe": 0.0,
+    "DirAcc": 50.0,
+    "Acted": 27.3
+   },
+   "MSEX": {
+    "CR": 20.2,
+    "Sharpe": 1.19,
+    "DirAcc": 59.7,
+    "Acted": 24.9
+   }
+  },
+  "Classifier N+S+Tech (D'Amico 2026)": {
+   "AAPL": {
+    "CR": -4.4,
+    "Sharpe": -1.19,
+    "DirAcc": 28.6,
+    "Acted": 2.8
+   },
+   "TSLA": {
+    "CR": -62.1,
+    "Sharpe": -1.64,
+    "DirAcc": 48.6,
+    "Acted": 100.0
+   },
+   "MSFT": {
+    "CR": -0.4,
+    "Sharpe": -0.39,
+    "DirAcc": 33.3,
+    "Acted": 1.2
+   },
+   "AMZN": {
+    "CR": -13.2,
+    "Sharpe": -0.5,
+    "DirAcc": 48.1,
+    "Acted": 97.6
+   },
+   "GOOGL": {
+    "CR": -2.5,
+    "Sharpe": 0.01,
+    "DirAcc": 54.6,
+    "Acted": 78.7
+   },
+   "NVDA": {
+    "CR": 16.7,
+    "Sharpe": 0.61,
+    "DirAcc": 52.4,
+    "Acted": 99.6
+   },
+   "NBTB": {
+    "CR": 35.6,
+    "Sharpe": 1.44,
+    "DirAcc": 56.6,
+    "Acted": 100.0
+   },
+   "ANDE": {
+    "CR": -22.3,
+    "Sharpe": -0.5,
+    "DirAcc": 50.6,
+    "Acted": 100.0
+   },
+   "PRGS": {
+    "CR": 64.3,
+    "Sharpe": 1.7,
+    "DirAcc": 54.8,
+    "Acted": 96.0
+   },
+   "MYRG": {
+    "CR": -41.5,
+    "Sharpe": -1.11,
+    "DirAcc": 49.8,
+    "Acted": 100.0
+   },
+   "PAHC": {
+    "CR": -12.3,
+    "Sharpe": -0.06,
+    "DirAcc": 49.8,
+    "Acted": 100.0
+   },
+   "IIIN": {
+    "CR": -15.7,
+    "Sharpe": -0.29,
+    "DirAcc": 50.2,
+    "Acted": 100.0
+   },
+   "WDFC": {
+    "CR": -5.8,
+    "Sharpe": -0.05,
+    "DirAcc": 53.2,
+    "Acted": 99.6
+   },
+   "JJSF": {
+    "CR": 70.9,
+    "Sharpe": 1.73,
+    "DirAcc": 58.6,
+    "Acted": 100.0
+   },
+   "YORW": {
+    "CR": 5.0,
+    "Sharpe": 0.31,
+    "DirAcc": 53.0,
+    "Acted": 100.0
+   },
+   "MSEX": {
+    "CR": 38.5,
+    "Sharpe": 1.0,
+    "DirAcc": 53.8,
+    "Acted": 100.0
+   }
+  },
+  "Classifier 10-source / CLF16 (D'Amico 2026)": {
+   "AAPL": {
+    "CR": 0.0,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": 0.0
+   },
+   "TSLA": {
+    "CR": -18.7,
+    "Sharpe": -0.15,
+    "DirAcc": 49.0,
+    "Acted": 100.0
+   },
+   "MSFT": {
+    "CR": 0.8,
+    "Sharpe": 0.98,
+    "DirAcc": 100.0,
+    "Acted": 0.4
+   },
+   "AMZN": {
+    "CR": -5.9,
+    "Sharpe": -0.16,
+    "DirAcc": 54.8,
+    "Acted": 88.0
+   },
+   "GOOGL": {
+    "CR": 19.6,
+    "Sharpe": 1.01,
+    "DirAcc": 57.2,
+    "Acted": 66.7
+   },
+   "NVDA": {
+    "CR": 18.0,
+    "Sharpe": 0.64,
+    "DirAcc": 52.2,
+    "Acted": 100.0
+   },
+   "NBTB": {
+    "CR": 15.6,
+    "Sharpe": 0.74,
+    "DirAcc": 53.8,
+    "Acted": 100.0
+   },
+   "ANDE": {
+    "CR": 31.0,
+    "Sharpe": 0.92,
+    "DirAcc": 53.8,
+    "Acted": 100.0
+   },
+   "PRGS": {
+    "CR": 12.1,
+    "Sharpe": 0.71,
+    "DirAcc": 52.4,
+    "Acted": 42.2
+   },
+   "MYRG": {
+    "CR": 32.9,
+    "Sharpe": 0.9,
+    "DirAcc": 55.0,
+    "Acted": 100.0
+   },
+   "PAHC": {
+    "CR": -13.3,
+    "Sharpe": -0.07,
+    "DirAcc": 53.4,
+    "Acted": 100.0
+   },
+   "IIIN": {
+    "CR": -47.2,
+    "Sharpe": -1.59,
+    "DirAcc": 47.8,
+    "Acted": 100.0
+   },
+   "WDFC": {
+    "CR": -8.6,
+    "Sharpe": -0.18,
+    "DirAcc": 53.1,
+    "Acted": 90.8
+   },
+   "JJSF": {
+    "CR": 30.5,
+    "Sharpe": 0.97,
+    "DirAcc": 57.2,
+    "Acted": 94.8
+   },
+   "YORW": {
+    "CR": 12.8,
+    "Sharpe": 0.55,
+    "DirAcc": 53.0,
+    "Acted": 100.0
+   },
+   "MSEX": {
+    "CR": 1.5,
+    "Sharpe": 0.25,
+    "DirAcc": 53.4,
+    "Acted": 100.0
+   }
+  }
+ },
+ "EW": {
+  "Buy&Hold": {
+   "HIGH": {
+    "CR": 8.9,
+    "Sharpe": 0.4,
+    "DirAcc": 50.7,
+    "Acted": 100.0
+   },
+   "UNDER": {
+    "CR": -9.2,
+    "Sharpe": -0.4,
+    "DirAcc": 47.5,
+    "Acted": 100.0
+   }
+  },
+  "News-Only (Lopez-Lira 2023)": {
+   "HIGH": {
+    "CR": -9.4,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   },
+   "UNDER": {
+    "CR": -5.8,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": null
+   }
+  },
+  "Debate News+Social (Xiao 2025)": {
+   "HIGH": {
+    "CR": 3.0,
+    "Sharpe": 0.5,
+    "DirAcc": 52.1,
+    "Acted": 28.8
+   },
+   "UNDER": {
+    "CR": 0.5,
+    "Sharpe": -0.1,
+    "DirAcc": 51.5,
+    "Acted": 16.7
+   }
+  },
+  "Reflection / Verbal-RL (Tian 2025)": {
+   "HIGH": {
+    "CR": 5.2,
+    "Sharpe": -0.2,
+    "DirAcc": 43.9,
+    "Acted": 17.3
+   },
+   "UNDER": {
+    "CR": -7.0,
+    "Sharpe": -0.5,
+    "DirAcc": 48.3,
+    "Acted": 27.9
+   }
+  },
+  "Debate GPT-4o-mini (Xiao 2025)": {
+   "HIGH": {
+    "CR": -1.7,
+    "Sharpe": 0.2,
+    "DirAcc": 50.6,
+    "Acted": 74.8
+   },
+   "UNDER": {
+    "CR": 11.2,
+    "Sharpe": 0.2,
+    "DirAcc": 52.8,
+    "Acted": 57.9
+   }
+  },
+  "Memory / FinMem-faithful (Yu 2025)": {
+   "HIGH": {
+    "CR": -4.8,
+    "Sharpe": -0.2,
+    "DirAcc": 49.5,
+    "Acted": 50.5
+   },
+   "UNDER": {
+    "CR": -5.5,
+    "Sharpe": -0.1,
+    "DirAcc": 51.5,
+    "Acted": 58.1
+   }
+  },
+  "RL/GRPO (Xiao 2025)": {
+   "HIGH": {
+    "CR": -4.6,
+    "Sharpe": -0.3,
+    "DirAcc": 48.6,
+    "Acted": 37.3
+   },
+   "UNDER": {
+    "CR": 1.3,
+    "Sharpe": 0.1,
+    "DirAcc": 53.7,
+    "Acted": 19.3
+   }
+  },
+  "Classifier N+S+Tech (D'Amico 2026)": {
+   "HIGH": {
+    "CR": -11.0,
+    "Sharpe": -0.5,
+    "DirAcc": 44.3,
+    "Acted": 63.3
+   },
+   "UNDER": {
+    "CR": 11.7,
+    "Sharpe": 0.4,
+    "DirAcc": 53.0,
+    "Acted": 99.6
+   }
+  },
+  "Classifier 10-source / CLF16 (D'Amico 2026)": {
+   "HIGH": {
+    "CR": 2.3,
+    "Sharpe": 0.5,
+    "DirAcc": 62.6,
+    "Acted": 59.2
+   },
+   "UNDER": {
+    "CR": 6.7,
+    "Sharpe": 0.3,
+    "DirAcc": 53.3,
+    "Acted": 92.8
+   }
+  }
+ }
+}

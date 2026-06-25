@@ -1,0 +1,1028 @@
+{
+ "order": [
+  "BuyHold",
+  "FinMem",
+  "Judge-4o",
+  "Judge-nano",
+  "Verbal-RL",
+  "CLF16",
+  "SFT",
+  "GRPO",
+  "SFT->GRPO",
+  "GRPO-shuffled"
+ ],
+ "HIGH": [
+  "AAPL",
+  "TSLA",
+  "MSFT",
+  "AMZN",
+  "GOOGL",
+  "NVDA"
+ ],
+ "MID": [
+  "NBTB",
+  "ANDE",
+  "PRGS",
+  "MYRG",
+  "PAHC",
+  "IIIN",
+  "WDFC",
+  "JJSF",
+  "YORW",
+  "MSEX"
+ ],
+ "result": {
+  "AAPL": {
+   "BuyHold": {
+    "CR": -3.6014,
+    "Sharpe": -0.0593,
+    "DirAcc": 47.3896,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": 35.984,
+    "Sharpe": 0.7359,
+    "DirAcc": 52.4876,
+    "Acted": 53.8153
+   },
+   "Judge-4o": {
+    "CR": 26.2438,
+    "Sharpe": 1.4014,
+    "DirAcc": 50.6757,
+    "Acted": 59.4378
+   },
+   "Judge-nano": {
+    "CR": 14.4804,
+    "Sharpe": 0.9398,
+    "DirAcc": 48.2014,
+    "Acted": 55.8233
+   },
+   "Verbal-RL": {
+    "CR": -10.2796,
+    "Sharpe": -2.1039,
+    "DirAcc": 31.5789,
+    "Acted": 7.6305
+   },
+   "CLF16": {
+    "CR": 0.0,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": 0.0
+   },
+   "SFT": {
+    "CR": 0.0,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": 0.0
+   },
+   "GRPO": {
+    "CR": -0.0109,
+    "Sharpe": 0.064,
+    "DirAcc": 43.617,
+    "Acted": 37.751
+   },
+   "SFT->GRPO": {
+    "CR": 7.2828,
+    "Sharpe": 0.6356,
+    "DirAcc": 44.9438,
+    "Acted": 35.743
+   },
+   "GRPO-shuffled": {
+    "CR": 5.8747,
+    "Sharpe": 0.5041,
+    "DirAcc": 44.5783,
+    "Acted": 33.3333
+   }
+  },
+  "TSLA": {
+   "BuyHold": {
+    "CR": 6.2351,
+    "Sharpe": 0.3782,
+    "DirAcc": 47.3896,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": -66.3318,
+    "Sharpe": -0.62,
+    "DirAcc": 51.9192,
+    "Acted": 66.2651
+   },
+   "Judge-4o": {
+    "CR": -27.5532,
+    "Sharpe": -0.4527,
+    "DirAcc": 45.9459,
+    "Acted": 74.2972
+   },
+   "Judge-nano": {
+    "CR": -4.1049,
+    "Sharpe": 0.1323,
+    "DirAcc": 49.4318,
+    "Acted": 70.6827
+   },
+   "Verbal-RL": {
+    "CR": 36.0591,
+    "Sharpe": 1.3659,
+    "DirAcc": 51.9231,
+    "Acted": 20.8835
+   },
+   "CLF16": {
+    "CR": -18.6776,
+    "Sharpe": -0.145,
+    "DirAcc": 48.996,
+    "Acted": 100.0
+   },
+   "SFT": {
+    "CR": -55.2167,
+    "Sharpe": -1.3116,
+    "DirAcc": 45.7831,
+    "Acted": 100.0
+   },
+   "GRPO": {
+    "CR": -13.1523,
+    "Sharpe": -0.2278,
+    "DirAcc": 48.8636,
+    "Acted": 35.3414
+   },
+   "SFT->GRPO": {
+    "CR": -12.4056,
+    "Sharpe": -0.172,
+    "DirAcc": 47.2527,
+    "Acted": 36.5462
+   },
+   "GRPO-shuffled": {
+    "CR": -19.6558,
+    "Sharpe": -0.4822,
+    "DirAcc": 48.6111,
+    "Acted": 28.9157
+   }
+  },
+  "MSFT": {
+   "BuyHold": {
+    "CR": -1.4443,
+    "Sharpe": 0.0026,
+    "DirAcc": 48.5944,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": -25.0429,
+    "Sharpe": -0.724,
+    "DirAcc": 49.8911,
+    "Acted": 61.4458
+   },
+   "Judge-4o": {
+    "CR": -6.0715,
+    "Sharpe": -0.4399,
+    "DirAcc": 50.8197,
+    "Acted": 73.494
+   },
+   "Judge-nano": {
+    "CR": -22.7482,
+    "Sharpe": -2.0597,
+    "DirAcc": 44.1176,
+    "Acted": 54.6185
+   },
+   "Verbal-RL": {
+    "CR": 2.127,
+    "Sharpe": 0.396,
+    "DirAcc": 44.7368,
+    "Acted": 15.261
+   },
+   "CLF16": {
+    "CR": 0.7879,
+    "Sharpe": 0.9765,
+    "DirAcc": 100.0,
+    "Acted": 0.4016
+   },
+   "SFT": {
+    "CR": 0.0,
+    "Sharpe": null,
+    "DirAcc": null,
+    "Acted": 0.0
+   },
+   "GRPO": {
+    "CR": -7.65,
+    "Sharpe": -1.0965,
+    "DirAcc": 46.5116,
+    "Acted": 34.5382
+   },
+   "SFT->GRPO": {
+    "CR": -8.1384,
+    "Sharpe": -0.6335,
+    "DirAcc": 43.4783,
+    "Acted": 36.9478
+   },
+   "GRPO-shuffled": {
+    "CR": -16.1136,
+    "Sharpe": -1.7323,
+    "DirAcc": 45.0,
+    "Acted": 32.1285
+   }
+  },
+  "AMZN": {
+   "BuyHold": {
+    "CR": -9.0616,
+    "Sharpe": -0.2897,
+    "DirAcc": 52.2088,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": -28.4304,
+    "Sharpe": -0.5649,
+    "DirAcc": 49.2611,
+    "Acted": 54.3507
+   },
+   "Judge-4o": {
+    "CR": -18.5515,
+    "Sharpe": -0.9803,
+    "DirAcc": 49.2386,
+    "Acted": 79.1165
+   },
+   "Judge-nano": {
+    "CR": -14.3361,
+    "Sharpe": -0.7568,
+    "DirAcc": 51.497,
+    "Acted": 67.0683
+   },
+   "Verbal-RL": {
+    "CR": -7.7876,
+    "Sharpe": -0.7911,
+    "DirAcc": 46.2963,
+    "Acted": 21.6867
+   },
+   "CLF16": {
+    "CR": -5.8525,
+    "Sharpe": -0.1562,
+    "DirAcc": 54.7945,
+    "Acted": 87.9518
+   },
+   "SFT": {
+    "CR": -5.457,
+    "Sharpe": -0.192,
+    "DirAcc": 51.2048,
+    "Acted": 66.6667
+   },
+   "GRPO": {
+    "CR": -15.8425,
+    "Sharpe": -1.1635,
+    "DirAcc": 50.0,
+    "Acted": 33.7349
+   },
+   "SFT->GRPO": {
+    "CR": -18.8169,
+    "Sharpe": -1.4682,
+    "DirAcc": 47.7273,
+    "Acted": 35.3414
+   },
+   "GRPO-shuffled": {
+    "CR": -19.8283,
+    "Sharpe": -1.6523,
+    "DirAcc": 48.6486,
+    "Acted": 29.7189
+   }
+  },
+  "GOOGL": {
+   "BuyHold": {
+    "CR": 41.8364,
+    "Sharpe": 1.5249,
+    "DirAcc": 56.2249,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": -57.8737,
+    "Sharpe": -1.1806,
+    "DirAcc": 45.5556,
+    "Acted": 72.2892
+   },
+   "Judge-4o": {
+    "CR": 27.5978,
+    "Sharpe": 1.218,
+    "DirAcc": 53.11,
+    "Acted": 83.9357
+   },
+   "Judge-nano": {
+    "CR": 34.3481,
+    "Sharpe": 1.503,
+    "DirAcc": 53.9394,
+    "Acted": 66.2651
+   },
+   "Verbal-RL": {
+    "CR": -14.7936,
+    "Sharpe": -1.6171,
+    "DirAcc": 34.375,
+    "Acted": 12.8514
+   },
+   "CLF16": {
+    "CR": 19.5946,
+    "Sharpe": 1.0131,
+    "DirAcc": 57.2289,
+    "Acted": 66.6667
+   },
+   "SFT": {
+    "CR": -23.7019,
+    "Sharpe": -1.1565,
+    "DirAcc": 51.0309,
+    "Acted": 77.9116
+   },
+   "GRPO": {
+    "CR": -1.1577,
+    "Sharpe": 0.0291,
+    "DirAcc": 55.0459,
+    "Acted": 43.7751
+   },
+   "SFT->GRPO": {
+    "CR": -16.0262,
+    "Sharpe": -0.9133,
+    "DirAcc": 48.1132,
+    "Acted": 42.5703
+   },
+   "GRPO-shuffled": {
+    "CR": -14.455,
+    "Sharpe": -0.8801,
+    "DirAcc": 51.2195,
+    "Acted": 32.9317
+   }
+  },
+  "NVDA": {
+   "BuyHold": {
+    "CR": 19.3944,
+    "Sharpe": 0.669,
+    "DirAcc": 52.6104,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": -43.1734,
+    "Sharpe": -0.4847,
+    "DirAcc": 47.2917,
+    "Acted": 64.257
+   },
+   "Judge-4o": {
+    "CR": -29.5581,
+    "Sharpe": -0.8857,
+    "DirAcc": 48.8263,
+    "Acted": 85.5422
+   },
+   "Judge-nano": {
+    "CR": -36.9794,
+    "Sharpe": -1.3098,
+    "DirAcc": 48.0447,
+    "Acted": 71.8876
+   },
+   "Verbal-RL": {
+    "CR": 26.1371,
+    "Sharpe": 1.3381,
+    "DirAcc": 54.6875,
+    "Acted": 25.7028
+   },
+   "CLF16": {
+    "CR": 18.0446,
+    "Sharpe": 0.6384,
+    "DirAcc": 52.2088,
+    "Acted": 100.0
+   },
+   "SFT": {
+    "CR": 12.0289,
+    "Sharpe": 0.4972,
+    "DirAcc": 51.4056,
+    "Acted": 100.0
+   },
+   "GRPO": {
+    "CR": 9.9409,
+    "Sharpe": 0.5456,
+    "DirAcc": 47.9167,
+    "Acted": 38.5542
+   },
+   "SFT->GRPO": {
+    "CR": -7.0093,
+    "Sharpe": -0.1509,
+    "DirAcc": 49.0385,
+    "Acted": 41.7671
+   },
+   "GRPO-shuffled": {
+    "CR": 15.8607,
+    "Sharpe": 0.8868,
+    "DirAcc": 53.2468,
+    "Acted": 30.9237
+   }
+  },
+  "NBTB": {
+   "BuyHold": {
+    "CR": -25.3164,
+    "Sharpe": -1.1443,
+    "DirAcc": 45.7831,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": -32.1528,
+    "Sharpe": -0.6046,
+    "DirAcc": 53.144,
+    "Acted": 65.9973
+   },
+   "Judge-4o": {
+    "CR": -9.2068,
+    "Sharpe": -0.4104,
+    "DirAcc": 53.4884,
+    "Acted": 69.0763
+   },
+   "Judge-nano": {
+    "CR": -16.3805,
+    "Sharpe": -0.9088,
+    "DirAcc": 55.0,
+    "Acted": 48.1928
+   },
+   "Verbal-RL": {
+    "CR": -6.3093,
+    "Sharpe": -0.5725,
+    "DirAcc": 46.3415,
+    "Acted": 16.4659
+   },
+   "CLF16": {
+    "CR": 15.6354,
+    "Sharpe": 0.7424,
+    "DirAcc": 53.8153,
+    "Acted": 100.0
+   },
+   "SFT": {
+    "CR": 5.8131,
+    "Sharpe": 0.3606,
+    "DirAcc": 53.012,
+    "Acted": 100.0
+   },
+   "GRPO": {
+    "CR": -11.3547,
+    "Sharpe": -1.1083,
+    "DirAcc": 57.5758,
+    "Acted": 13.253
+   },
+   "SFT->GRPO": {
+    "CR": -12.7215,
+    "Sharpe": -1.1618,
+    "DirAcc": 60.4167,
+    "Acted": 19.2771
+   },
+   "GRPO-shuffled": {
+    "CR": -12.8262,
+    "Sharpe": -1.2164,
+    "DirAcc": 55.102,
+    "Acted": 19.6787
+   }
+  },
+  "ANDE": {
+   "BuyHold": {
+    "CR": 12.4741,
+    "Sharpe": 0.5019,
+    "DirAcc": 50.6024,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": -68.456,
+    "Sharpe": -1.2586,
+    "DirAcc": 49.5455,
+    "Acted": 58.9023
+   },
+   "Judge-4o": {
+    "CR": 18.6812,
+    "Sharpe": 0.7118,
+    "DirAcc": 55.3191,
+    "Acted": 56.6265
+   },
+   "Judge-nano": {
+    "CR": 13.1811,
+    "Sharpe": 0.5819,
+    "DirAcc": 55.4622,
+    "Acted": 47.7912
+   },
+   "Verbal-RL": {
+    "CR": 5.8136,
+    "Sharpe": 0.3715,
+    "DirAcc": 52.381,
+    "Acted": 33.7349
+   },
+   "CLF16": {
+    "CR": 31.0013,
+    "Sharpe": 0.9172,
+    "DirAcc": 53.8153,
+    "Acted": 100.0
+   },
+   "SFT": {
+    "CR": 5.5658,
+    "Sharpe": 0.3379,
+    "DirAcc": 52.6104,
+    "Acted": 100.0
+   },
+   "GRPO": {
+    "CR": 21.5821,
+    "Sharpe": 1.0129,
+    "DirAcc": 58.1395,
+    "Acted": 17.2691
+   },
+   "SFT->GRPO": {
+    "CR": 11.3053,
+    "Sharpe": 0.5979,
+    "DirAcc": 57.1429,
+    "Acted": 19.6787
+   },
+   "GRPO-shuffled": {
+    "CR": 19.0563,
+    "Sharpe": 0.8743,
+    "DirAcc": 53.8462,
+    "Acted": 20.8835
+   }
+  },
+  "PRGS": {
+   "BuyHold": {
+    "CR": -43.8108,
+    "Sharpe": -1.6015,
+    "DirAcc": 45.7831,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": 28.6219,
+    "Sharpe": 0.4719,
+    "DirAcc": 55.0,
+    "Acted": 50.8701
+   },
+   "Judge-4o": {
+    "CR": -53.6837,
+    "Sharpe": -2.3747,
+    "DirAcc": 44.5714,
+    "Acted": 70.2811
+   },
+   "Judge-nano": {
+    "CR": -8.8623,
+    "Sharpe": -0.4146,
+    "DirAcc": 55.2,
+    "Acted": 50.2008
+   },
+   "Verbal-RL": {
+    "CR": -5.8244,
+    "Sharpe": -0.1038,
+    "DirAcc": 47.7941,
+    "Acted": 54.6185
+   },
+   "CLF16": {
+    "CR": 12.1276,
+    "Sharpe": 0.7072,
+    "DirAcc": 52.381,
+    "Acted": 42.1687
+   },
+   "SFT": {
+    "CR": 15.2158,
+    "Sharpe": 0.5965,
+    "DirAcc": 52.6104,
+    "Acted": 100.0
+   },
+   "GRPO": {
+    "CR": 12.6979,
+    "Sharpe": 1.3211,
+    "DirAcc": 61.9048,
+    "Acted": 16.8675
+   },
+   "SFT->GRPO": {
+    "CR": -0.1268,
+    "Sharpe": 0.0337,
+    "DirAcc": 52.5,
+    "Acted": 16.0643
+   },
+   "GRPO-shuffled": {
+    "CR": -5.086,
+    "Sharpe": -0.5598,
+    "DirAcc": 50.0,
+    "Acted": 14.4578
+   }
+  },
+  "MYRG": {
+   "BuyHold": {
+    "CR": 28.3925,
+    "Sharpe": 0.8181,
+    "DirAcc": 51.004,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": -85.0634,
+    "Sharpe": -1.7943,
+    "DirAcc": 47.8431,
+    "Acted": 68.2731
+   },
+   "Judge-4o": {
+    "CR": -31.0535,
+    "Sharpe": -1.1048,
+    "DirAcc": 46.7105,
+    "Acted": 61.0442
+   },
+   "Judge-nano": {
+    "CR": -13.0399,
+    "Sharpe": -0.4576,
+    "DirAcc": 47.7876,
+    "Acted": 45.3815
+   },
+   "Verbal-RL": {
+    "CR": -4.2834,
+    "Sharpe": -0.2094,
+    "DirAcc": 45.4545,
+    "Acted": 13.253
+   },
+   "CLF16": {
+    "CR": 32.9041,
+    "Sharpe": 0.9042,
+    "DirAcc": 55.0201,
+    "Acted": 100.0
+   },
+   "SFT": {
+    "CR": -34.1305,
+    "Sharpe": -0.8194,
+    "DirAcc": 48.5944,
+    "Acted": 100.0
+   },
+   "GRPO": {
+    "CR": -5.569,
+    "Sharpe": -0.2434,
+    "DirAcc": 51.0638,
+    "Acted": 18.8755
+   },
+   "SFT->GRPO": {
+    "CR": -5.6701,
+    "Sharpe": -0.4425,
+    "DirAcc": 53.4884,
+    "Acted": 17.2691
+   },
+   "GRPO-shuffled": {
+    "CR": -5.4317,
+    "Sharpe": -0.2533,
+    "DirAcc": 52.381,
+    "Acted": 16.8675
+   }
+  },
+  "PAHC": {
+   "BuyHold": {
+    "CR": 55.2202,
+    "Sharpe": 1.1876,
+    "DirAcc": 52.6104,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": -72.8572,
+    "Sharpe": -1.1966,
+    "DirAcc": 47.8589,
+    "Acted": 53.1459
+   },
+   "Judge-4o": {
+    "CR": 12.6082,
+    "Sharpe": 0.4949,
+    "DirAcc": 50.5814,
+    "Acted": 69.0763
+   },
+   "Judge-nano": {
+    "CR": 111.9952,
+    "Sharpe": 2.1927,
+    "DirAcc": 55.9441,
+    "Acted": 57.4297
+   },
+   "Verbal-RL": {
+    "CR": 15.8456,
+    "Sharpe": 0.821,
+    "DirAcc": 54.5455,
+    "Acted": 26.506
+   },
+   "CLF16": {
+    "CR": -13.289,
+    "Sharpe": -0.0708,
+    "DirAcc": 53.4137,
+    "Acted": 100.0
+   },
+   "SFT": {
+    "CR": -26.4213,
+    "Sharpe": -0.4326,
+    "DirAcc": 46.1847,
+    "Acted": 100.0
+   },
+   "GRPO": {
+    "CR": 15.8673,
+    "Sharpe": 0.91,
+    "DirAcc": 52.0833,
+    "Acted": 19.2771
+   },
+   "SFT->GRPO": {
+    "CR": 39.2908,
+    "Sharpe": 1.2659,
+    "DirAcc": 52.7273,
+    "Acted": 22.0884
+   },
+   "GRPO-shuffled": {
+    "CR": 45.8606,
+    "Sharpe": 1.465,
+    "DirAcc": 51.9231,
+    "Acted": 20.8835
+   }
+  },
+  "IIIN": {
+   "BuyHold": {
+    "CR": 2.8406,
+    "Sharpe": 0.2638,
+    "DirAcc": 49.3976,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": -76.9882,
+    "Sharpe": -1.4124,
+    "DirAcc": 49.5088,
+    "Acted": 68.1392
+   },
+   "Judge-4o": {
+    "CR": -38.6758,
+    "Sharpe": -1.2876,
+    "DirAcc": 46.4286,
+    "Acted": 67.4699
+   },
+   "Judge-nano": {
+    "CR": 81.3976,
+    "Sharpe": 2.0504,
+    "DirAcc": 58.7786,
+    "Acted": 52.6104
+   },
+   "Verbal-RL": {
+    "CR": -20.357,
+    "Sharpe": -1.7013,
+    "DirAcc": 50.0,
+    "Acted": 16.0643
+   },
+   "CLF16": {
+    "CR": -47.2159,
+    "Sharpe": -1.5903,
+    "DirAcc": 47.7912,
+    "Acted": 100.0
+   },
+   "SFT": {
+    "CR": -29.0742,
+    "Sharpe": -0.7777,
+    "DirAcc": 48.996,
+    "Acted": 100.0
+   },
+   "GRPO": {
+    "CR": -20.6922,
+    "Sharpe": -1.0898,
+    "DirAcc": 48.0,
+    "Acted": 10.0402
+   },
+   "SFT->GRPO": {
+    "CR": -25.7802,
+    "Sharpe": -1.4114,
+    "DirAcc": 38.7097,
+    "Acted": 12.4498
+   },
+   "GRPO-shuffled": {
+    "CR": -24.8669,
+    "Sharpe": -1.3696,
+    "DirAcc": 33.3333,
+    "Acted": 10.8434
+   }
+  },
+  "WDFC": {
+   "BuyHold": {
+    "CR": -31.9854,
+    "Sharpe": -1.1734,
+    "DirAcc": 45.7831,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": -1.6046,
+    "Sharpe": 0.0726,
+    "DirAcc": 54.4643,
+    "Acted": 44.9799
+   },
+   "Judge-4o": {
+    "CR": -28.3311,
+    "Sharpe": -1.1467,
+    "DirAcc": 42.328,
+    "Acted": 75.9036
+   },
+   "Judge-nano": {
+    "CR": -5.3049,
+    "Sharpe": -0.1348,
+    "DirAcc": 53.0201,
+    "Acted": 59.8394
+   },
+   "Verbal-RL": {
+    "CR": -23.0319,
+    "Sharpe": -1.5829,
+    "DirAcc": 43.662,
+    "Acted": 28.5141
+   },
+   "CLF16": {
+    "CR": -8.554,
+    "Sharpe": -0.1795,
+    "DirAcc": 53.0973,
+    "Acted": 90.7631
+   },
+   "SFT": {
+    "CR": 56.4832,
+    "Sharpe": 1.6889,
+    "DirAcc": 55.4217,
+    "Acted": 100.0
+   },
+   "GRPO": {
+    "CR": -5.0146,
+    "Sharpe": -0.2153,
+    "DirAcc": 48.3871,
+    "Acted": 24.8996
+   },
+   "SFT->GRPO": {
+    "CR": -4.7414,
+    "Sharpe": -0.2195,
+    "DirAcc": 50.8197,
+    "Acted": 24.498
+   },
+   "GRPO-shuffled": {
+    "CR": -5.163,
+    "Sharpe": -0.252,
+    "DirAcc": 51.6129,
+    "Acted": 24.8996
+   }
+  },
+  "JJSF": {
+   "BuyHold": {
+    "CR": -51.3267,
+    "Sharpe": -1.9206,
+    "DirAcc": 40.9639,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": 6.8571,
+    "Sharpe": 0.2164,
+    "DirAcc": 55.7377,
+    "Acted": 57.162
+   },
+   "Judge-4o": {
+    "CR": -1.8184,
+    "Sharpe": 0.0867,
+    "DirAcc": 51.9126,
+    "Acted": 73.494
+   },
+   "Judge-nano": {
+    "CR": 4.0889,
+    "Sharpe": 0.2834,
+    "DirAcc": 54.1401,
+    "Acted": 63.0522
+   },
+   "Verbal-RL": {
+    "CR": -1.3078,
+    "Sharpe": 0.0399,
+    "DirAcc": 51.087,
+    "Acted": 36.9478
+   },
+   "CLF16": {
+    "CR": 30.5122,
+    "Sharpe": 0.9715,
+    "DirAcc": 57.2034,
+    "Acted": 94.7791
+   },
+   "SFT": {
+    "CR": 115.2899,
+    "Sharpe": 2.4236,
+    "DirAcc": 61.2903,
+    "Acted": 99.5984
+   },
+   "GRPO": {
+    "CR": -13.4403,
+    "Sharpe": -0.8572,
+    "DirAcc": 50.0,
+    "Acted": 20.0803
+   },
+   "SFT->GRPO": {
+    "CR": -5.6022,
+    "Sharpe": -0.2912,
+    "DirAcc": 52.381,
+    "Acted": 25.3012
+   },
+   "GRPO-shuffled": {
+    "CR": -5.8224,
+    "Sharpe": -0.2426,
+    "DirAcc": 50.7692,
+    "Acted": 26.1044
+   }
+  },
+  "YORW": {
+   "BuyHold": {
+    "CR": -19.4661,
+    "Sharpe": -0.5414,
+    "DirAcc": 46.5863,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": -54.5916,
+    "Sharpe": -0.8845,
+    "DirAcc": 51.3274,
+    "Acted": 75.6359
+   },
+   "Judge-4o": {
+    "CR": 19.7786,
+    "Sharpe": 0.7655,
+    "DirAcc": 51.1737,
+    "Acted": 85.5422
+   },
+   "Judge-nano": {
+    "CR": 3.0068,
+    "Sharpe": 0.2459,
+    "DirAcc": 54.5946,
+    "Acted": 74.2972
+   },
+   "Verbal-RL": {
+    "CR": -10.8188,
+    "Sharpe": -1.1366,
+    "DirAcc": 43.75,
+    "Acted": 12.8514
+   },
+   "CLF16": {
+    "CR": 12.8348,
+    "Sharpe": 0.5464,
+    "DirAcc": 53.012,
+    "Acted": 100.0
+   },
+   "SFT": {
+    "CR": 6.2246,
+    "Sharpe": 0.3509,
+    "DirAcc": 52.2088,
+    "Acted": 100.0
+   },
+   "GRPO": {
+    "CR": -1.0002,
+    "Sharpe": 0.0019,
+    "DirAcc": 50.0,
+    "Acted": 27.3092
+   },
+   "SFT->GRPO": {
+    "CR": -9.7532,
+    "Sharpe": -0.7499,
+    "DirAcc": 49.2537,
+    "Acted": 26.9076
+   },
+   "GRPO-shuffled": {
+    "CR": -12.5527,
+    "Sharpe": -1.0927,
+    "DirAcc": 50.0,
+    "Acted": 28.1124
+   }
+  },
+  "MSEX": {
+   "BuyHold": {
+    "CR": -19.4882,
+    "Sharpe": -0.3185,
+    "DirAcc": 46.1847,
+    "Acted": 100.0
+   },
+   "FinMem": {
+    "CR": 18.5261,
+    "Sharpe": 0.3383,
+    "DirAcc": 55.3125,
+    "Acted": 42.838
+   },
+   "Judge-4o": {
+    "CR": 67.6612,
+    "Sharpe": 1.5152,
+    "DirAcc": 52.9126,
+    "Acted": 82.7309
+   },
+   "Judge-nano": {
+    "CR": 8.4551,
+    "Sharpe": 0.4147,
+    "DirAcc": 52.6946,
+    "Acted": 67.0683
+   },
+   "Verbal-RL": {
+    "CR": -19.8469,
+    "Sharpe": -0.5611,
+    "DirAcc": 47.4747,
+    "Acted": 39.759
+   },
+   "CLF16": {
+    "CR": 1.5038,
+    "Sharpe": 0.2495,
+    "DirAcc": 53.4137,
+    "Acted": 100.0
+   },
+   "SFT": {
+    "CR": 46.2983,
+    "Sharpe": 1.1359,
+    "DirAcc": 54.6185,
+    "Acted": 100.0
+   },
+   "GRPO": {
+    "CR": 20.2371,
+    "Sharpe": 1.1919,
+    "DirAcc": 59.6774,
+    "Acted": 24.8996
+   },
+   "SFT->GRPO": {
+    "CR": -4.9839,
+    "Sharpe": -0.1483,
+    "DirAcc": 57.8125,
+    "Acted": 25.7028
+   },
+   "GRPO-shuffled": {
+    "CR": 17.4608,
+    "Sharpe": 1.0286,
+    "DirAcc": 60.0,
+    "Acted": 26.1044
+   }
+  }
+ }
+}
