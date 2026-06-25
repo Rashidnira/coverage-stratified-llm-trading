@@ -1,0 +1,1581 @@
+{
+ "2023-01-19": [
+  {
+   "filing_type": "10Q",
+   "ticker": "IIIN",
+   "date": "2023-01-19",
+   "quarter": "Q1",
+   "accession": "0001437749-23-001299",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "legal"
+    ],
+    "key_risks": [
+     "additional risks not currently known",
+     "material adverse effect on financial position",
+     "risks and uncertainties facing the company"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights potential unknown risks and emphasizes the possibility of material adverse effects on the company's financial health."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a stable outlook but expresses caution regarding potential unknown risks."
+   }
+  }
+ ],
+ "2023-01-20": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2023-01-20",
+   "accession": "0001437749-23-001397",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "management",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Management acknowledges a challenging quarter due to supply chain recovery issues."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "cost pressures",
+     "macro headwinds",
+     "inventory challenges"
+    ],
+    "summary": "Management acknowledges a challenging quarter due to supply chain recovery and inventory issues but maintains optimism for future growth driven by infrastructure investments."
+   }
+  }
+ ],
+ "2023-02-15": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2023-02-15",
+   "accession": "0001437749-23-003454",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Insteel Industries announces a regular quarterly dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "regular quarterly dividend",
+     "shareholder payout"
+    ],
+    "summary": "Insteel Industries announces a regular quarterly dividend, reflecting continued stability and confidence in the company's financial health."
+   }
+  }
+ ],
+ "2023-03-17": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2023-03-17",
+   "accession": "0001437749-23-006983",
+   "items_found": [
+    "1.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Insteel Industries extended its credit facility and transitioned to a new benchmark."
+   },
+   "item_1_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "credit_facility",
+    "market_impact": "positive",
+    "key_themes": [
+     "extension of credit facility",
+     "transition from LIBOR to SOFR",
+     "release of subsidiary guarantee"
+    ],
+    "summary": "Insteel Industries extended its credit facility and transitioned to a new benchmark interest rate, signaling financial stability and strategic planning."
+   }
+  }
+ ],
+ "2023-03-29": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2023-03-29",
+   "accession": "0001437749-23-008401",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "James F. Petelle remains as Vice President, Secretary and Chief Legal Officer of Insteel."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "executive_departure",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "reason if given"
+    ],
+    "summary": "James F. Petelle, Vice President, Secretary and Chief Legal Officer of Insteel Industries, Inc., announced his retirement."
+   }
+  }
+ ],
+ "2023-04-20": [
+  {
+   "filing_type": "10Q",
+   "ticker": "IIIN",
+   "date": "2023-04-20",
+   "quarter": "Q2",
+   "accession": "0001437749-23-010709",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "legal"
+    ],
+    "key_risks": [
+     "material adverse effect on financial position",
+     "additional risks not currently known",
+     "risks and uncertainties facing the company"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights potential risks that could adversely affect the company's financial condition without specifying current risks."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management highlights potential risks that could adversely affect the company's performance."
+   }
+  }
+ ],
+ "2023-04-21": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2023-04-21",
+   "accession": "0001437749-23-010775",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "other",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Insteel's leadership acknowledges significant challenges faced in the first half of 2023."
+   },
+   "item_2_02": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "macro headwinds",
+     "recovery expectations",
+     "capital investments"
+    ],
+    "summary": "Despite facing significant challenges in the first half of 2023, Insteel's leadership expresses optimism about recovery and future growth."
+   }
+  }
+ ],
+ "2023-05-17": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2023-05-17",
+   "accession": "0001437749-23-014872",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Insteel Industries announces a regular quarterly dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "regular quarterly dividend",
+     "shareholder payout"
+    ],
+    "summary": "Insteel Industries announces a regular quarterly dividend, reflecting continued stability and confidence in the company's financial health."
+   }
+  }
+ ],
+ "2023-07-20": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2023-07-20",
+   "accession": "0001437749-23-020260",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "management",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Management acknowledges reasonable performance amid challenging market conditions."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "macro headwinds",
+     "cost pressures",
+     "modest recovery"
+    ],
+    "summary": "Management acknowledges reasonable performance amid challenging market conditions, expecting a modest recovery driven by improving nonresidential and residential construction sectors."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "IIIN",
+   "date": "2023-07-20",
+   "quarter": "Q3",
+   "accession": "0001437749-23-020309",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "legal"
+    ],
+    "key_risks": [
+     "material adverse effect on financial position",
+     "additional risks not currently known",
+     "risks and uncertainties facing the company"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights potential risks that could adversely affect the company's financial condition without specifying current risks."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management highlights potential risks that could adversely affect the company's performance."
+   }
+  }
+ ],
+ "2023-08-15": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2023-08-15",
+   "accession": "0001437749-23-023857",
+   "items_found": [
+    "5.03",
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "The company announces a regular quarterly dividend, reflecting continued stability."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "regular quarterly dividend",
+     "shareholder payout"
+    ],
+    "summary": "The company announces a regular quarterly dividend, reflecting continued stability and confidence in its financial position."
+   }
+  }
+ ],
+ "2023-10-19": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2023-10-19",
+   "accession": "0001437749-23-028557",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "management",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Insteel faces significant challenges but maintains cautious optimism."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "cost pressures",
+     "macro headwinds",
+     "competitive landscape"
+    ],
+    "summary": "Despite facing significant challenges, Insteel remains cautiously optimistic about the future, noting positive customer sentiment and infrastructure spending, but acknowledges risks from higher interest rates and potential economic slowdowns."
+   }
+  }
+ ],
+ "2023-10-26": [
+  {
+   "filing_type": "10K",
+   "ticker": "IIIN",
+   "filed_date": "2023-10-26",
+   "period_end": "2023-09-30",
+   "accession": "0001437749-23-029056",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "market leadership",
+     "cost efficiency",
+     "product diversification"
+    ],
+    "growth_signals": [
+     "achieving leadership positions in markets",
+     "operating as the lowest cost producer",
+     "pursuing growth opportunities within core businesses"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "macroeconomic",
+     "competition",
+     "operational",
+     "liquidity"
+    ],
+    "key_risks": [
+     "weakening demand for products",
+     "competitive pricing pressures",
+     "reduced demand from customers",
+     "future reductions in operating cash flows",
+     "curtailment of capital and operating expenditures"
+    ]
+   },
+   "mda": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "key_themes": [
+     "decrease in net sales",
+     "decline in gross profit",
+     "competitive pricing pressures"
+    ],
+    "growth_signals": [],
+    "forward_looking": "negative"
+   },
+   "overall": {
+    "sentiment": -0.23333333333333334,
+    "tone": "cautious",
+    "summary": "Despite market leadership and cost efficiency, IIIN faces significant macroeconomic and competitive challenges that may impact future growth and liquidity."
+   }
+  }
+ ],
+ "2023-11-14": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2023-11-14",
+   "accession": "0001437749-23-031995",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The company announces both regular and special dividends."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "The company announces both regular and special dividends, reflecting strong financial position and commitment to shareholders."
+   }
+  }
+ ],
+ "2024-01-18": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2024-01-18",
+   "accession": "0001437749-24-001578",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Management expresses optimism about overcoming past challenges with improved investment."
+   },
+   "item_2_02": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "neutral",
+    "key_themes": [
+     "favorable demand profile",
+     "improving macroeconomic outlook",
+     "inventory alignment"
+    ],
+    "summary": "Management expresses optimism about overcoming past challenges with improved inventory alignment and a positive macroeconomic outlook."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "IIIN",
+   "date": "2024-01-18",
+   "quarter": "Q1",
+   "accession": "0001437749-24-001592",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The MD&A section does not provide narrative language or qualitative insights beyond reporting on common stock repurchases."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unknown",
+    "summary": ""
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The filing indicates a neutral stance with stable business conditions and no significant qualitative insights provided."
+   }
+  }
+ ],
+ "2024-02-13": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2024-02-13",
+   "accession": "0001437749-24-003898",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Insteel Industries Inc. announced a regular quarterly cash dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "regular dividend",
+     "shareholder payout"
+    ],
+    "summary": "Insteel Industries Inc. announced a regular quarterly cash dividend, reflecting continued stability and commitment to shareholders."
+   }
+  }
+ ],
+ "2024-04-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2024-04-25",
+   "accession": "0001437749-24-013111",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses optimism about improving business conditions."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "improving demand",
+     "seasonal upturn",
+     "infrastructure growth",
+     "capital investment"
+    ],
+    "summary": "Management expresses optimism about the improving business conditions and anticipates growing momentum driven by seasonal upturns and infrastructure investments."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "IIIN",
+   "date": "2024-04-25",
+   "quarter": "Q2",
+   "accession": "0001437749-24-013168",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The text primarily discusses the company's share repurchase activities without indicating significant forward-looking statements or changes in business momentum."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unknown",
+    "summary": ""
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company's narrative in the 10-Q filing for Q2 2024 is centered around stable operations with a neutral tone, focusing on share repurchase activities."
+   }
+  }
+ ],
+ "2024-05-21": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2024-05-21",
+   "accession": "0001437749-24-017820",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Insteel Industries Inc. announced a regular quarterly cash dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "regular quarterly dividend",
+     "shareholder payout"
+    ],
+    "summary": "Insteel Industries Inc. announced a regular quarterly cash dividend, reflecting continued stability and commitment to shareholders."
+   }
+  }
+ ],
+ "2024-07-18": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2024-07-18",
+   "accession": "0001437749-24-022949",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "other",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Insteel faces ongoing challenges with cost pressures and competitive pricing."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "cost pressures",
+     "macro headwinds",
+     "competitive pricing"
+    ],
+    "summary": "Despite challenges with cost pressures and competitive pricing, Insteel remains cautiously optimistic about future demand improvements and operational enhancements."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "IIIN",
+   "date": "2024-07-18",
+   "quarter": "Q3",
+   "accession": "0001437749-24-022964",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The MD&A section does not provide narrative language or qualitative insights beyond reporting on common stock repurchases."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unknown",
+    "summary": ""
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company's narrative in the 10-Q filing for Q3 2024 indicates a neutral stance with stable momentum and unknown changes in risk factors."
+   }
+  }
+ ],
+ "2024-08-13": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2024-08-13",
+   "accession": "0001437749-24-026372",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Insteel Industries Inc. announced a regular quarterly cash dividend to its shareholders."
+   },
+   "item_8_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "regular quarterly dividend",
+     "shareholder payout"
+    ],
+    "summary": "Insteel Industries Inc. announced a regular quarterly cash dividend to its shareholders."
+   }
+  }
+ ],
+ "2024-10-17": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2024-10-17",
+   "accession": "0001437749-24-031429",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "guidance",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Insteel reports a cautious outlook despite current challenges."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "macro headwinds",
+     "cost pressures",
+     "optimism for future"
+    ],
+    "summary": "Insteel reports a cautious outlook despite facing current challenges such as cost pressures and import competition, with optimism for future growth driven by anticipated improvements in business conditions."
+   }
+  }
+ ],
+ "2024-10-21": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2024-10-21",
+   "accession": "0001437749-24-031641",
+   "items_found": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.55,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Insteel Industries acquires assets from Engineered Wire Products and Liberty Steel."
+   },
+   "item_1_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "acquisition",
+    "market_impact": "positive",
+    "key_themes": [
+     "expansion",
+     "strategic growth"
+    ],
+    "summary": "Insteel Industries acquires assets from Engineered Wire Products and Liberty Steel Georgetown to expand its market presence in welded wire reinforcement products."
+   },
+   "item_7_01": {
+    "sentiment": 0.5,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "Acquisition announcement"
+    ],
+    "summary": "Insteel announced an acquisition through a press release."
+   }
+  }
+ ],
+ "2024-10-24": [
+  {
+   "filing_type": "10K",
+   "ticker": "IIIN",
+   "filed_date": "2024-10-24",
+   "period_end": "2024-09-28",
+   "accession": "0001437749-24-031988",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "market leadership",
+     "cost efficiency",
+     "acquisitions"
+    ],
+    "growth_signals": [
+     "achieving leadership positions in markets",
+     "operating as the lowest cost producer",
+     "pursuing growth opportunities",
+     "organic opportunities",
+     "strategic acquisitions"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "macroeconomic",
+     "operational",
+     "liquidity"
+    ],
+    "key_risks": [
+     "persistent competitive pricing pressures",
+     "weaker market conditions",
+     "increasing volumes of PC strand imports",
+     "adverse weather conditions",
+     "reduced operating cash flows"
+    ]
+   },
+   "mda": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "key_themes": [
+     "decrease in net sales",
+     "competitive pricing pressures",
+     "reduction in gross profit"
+    ],
+    "growth_signals": [],
+    "forward_looking": "negative"
+   },
+   "overall": {
+    "sentiment": -0.23333333333333334,
+    "tone": "cautious",
+    "summary": "Despite market leadership and cost efficiency, IIIN faces significant risks including competition and macroeconomic challenges, leading to a cautious outlook."
+   }
+  }
+ ],
+ "2024-11-12": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2024-11-12",
+   "accession": "0001437749-24-034532",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Insteel Industries announces both regular and special dividends."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial rewards",
+     "shareholder value"
+    ],
+    "summary": "Insteel Industries announces both regular and special dividends, reflecting strong financial health and commitment to rewarding shareholders."
+   }
+  }
+ ],
+ "2024-12-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2024-12-06",
+   "accession": "0001437749-24-036857",
+   "items_found": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Insteel Industries Inc. expanded its board and appointed a new director, signaling positive development."
+   },
+   "item_5_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "board_change",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "Insteel Industries Inc. expanded its board and appointed Blake K. Doyle as an independent director, signaling continued strong governance and leadership."
+   },
+   "item_7_01": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "business_update",
+    "market_impact": "positive",
+    "key_themes": [
+     "new leadership",
+     "board expansion"
+    ],
+    "summary": "The company announced the appointment of a new director, signaling positive developments in its governance structure."
+   }
+  }
+ ],
+ "2025-01-16": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2025-01-16",
+   "accession": "0001437749-25-001241",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses optimism about the improved business outlook."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "acquisition integration",
+     "margin expansion"
+    ],
+    "summary": "Management expresses optimism about the improved business outlook and the positive impact of recent acquisitions on future performance."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "IIIN",
+   "date": "2025-01-16",
+   "quarter": "Q1",
+   "accession": "0001437749-25-001254",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The MD&A section does not provide narrative language or qualitative insights beyond reporting on common stock repurchases."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unknown",
+    "summary": ""
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company's narrative in the 10-Q filing for Q1 2025 indicates a neutral stance with stable momentum and unknown changes in risk factors."
+   }
+  }
+ ],
+ "2025-02-11": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2025-02-11",
+   "accession": "0001437749-25-003418",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Insteel Industries Inc. announced a regular quarterly cash dividend to its shareholders."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "regular quarterly dividend",
+     "shareholder payout"
+    ],
+    "summary": "Insteel Industries Inc. announced a regular quarterly cash dividend to its shareholders."
+   }
+  }
+ ],
+ "2025-02-14": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2025-02-14",
+   "accession": "0001437749-25-003841",
+   "items_found": [
+    "5.02",
+    "5.07",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The company implemented a new equity incentive plan aimed at aligning employee interests."
+   },
+   "item_5_02": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "multiple_changes",
+    "market_impact": "neutral",
+    "key_themes": [
+     "leadership continuity signals",
+     "role changed"
+    ],
+    "summary": "The company implemented a new equity incentive plan aimed at aligning employee interests with shareholder value."
+   }
+  }
+ ],
+ "2025-02-28": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2025-02-28",
+   "accession": "0001437749-25-005731",
+   "items_found": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.65,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Insteel Industries Inc. expanded its board and appointed a new director, signaling positive development."
+   },
+   "item_5_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "board_change",
+    "market_impact": "positive",
+    "key_themes": [
+     "leadership continuity signals",
+     "role changed"
+    ],
+    "summary": "Insteel Industries Inc. expanded its board and appointed Eric J. Zernikow, a seasoned executive from Nucor Corporation, signaling continued strong leadership."
+   },
+   "item_7_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "business_update",
+    "market_impact": "positive",
+    "key_themes": [
+     "new leadership",
+     "board expansion"
+    ],
+    "summary": "The company announced the appointment of a new director, signaling positive developments in its governance structure."
+   }
+  }
+ ],
+ "2025-04-17": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2025-04-17",
+   "accession": "0001437749-25-012212",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses optimism about ongoing strong demand and improved margins."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "tariff benefits"
+    ],
+    "summary": "Management expresses optimism about ongoing strong demand and improved margins, attributing positive trends to better business conditions and the benefits of recent tariff policies."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "IIIN",
+   "date": "2025-04-17",
+   "quarter": "Q2",
+   "accession": "0001437749-25-012245",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The text does not provide narrative language or qualitative insights about the company's operations or future outlook."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unknown",
+    "summary": ""
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The text does not provide narrative language or qualitative insights about the company's performance."
+   }
+  }
+ ],
+ "2025-05-22": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2025-05-22",
+   "accession": "0001437749-25-018158",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "other",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Insteel Industries Inc. announced a regular quarterly cash dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "regular quarterly dividend",
+     "shareholder payout"
+    ],
+    "summary": "Insteel Industries Inc. announced a regular quarterly cash dividend, reflecting continued stability and profitability."
+   }
+  }
+ ],
+ "2025-07-17": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2025-07-17",
+   "accession": "0001437749-25-022873",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "cautious",
+    "event_category": "earnings",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Insteel reports strong earnings despite supply chain disruptions and cost pressures."
+   },
+   "item_2_02": {
+    "sentiment": 0.5,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "neutral",
+    "key_themes": [
+     "cost pressures",
+     "acquisition benefits",
+     "supply chain disruptions"
+    ],
+    "summary": "Insteel reports strong earnings despite facing supply chain disruptions and cost pressures, maintaining cautious optimism."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "IIIN",
+   "date": "2025-07-17",
+   "quarter": "Q3",
+   "accession": "0001437749-25-022906",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The text does not provide narrative language or qualitative insights beyond reporting share repurchase activities."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unknown",
+    "summary": ""
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The quarter's narrative lacks qualitative insights beyond mentioning repo activities."
+   }
+  }
+ ],
+ "2025-08-19": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2025-08-19",
+   "accession": "0001437749-25-027361",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Insteel Industries Inc. announced a regular quarterly cash dividend to its shareholders."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "regular quarterly dividend",
+     "shareholder payout"
+    ],
+    "summary": "Insteel Industries Inc. announced a regular quarterly cash dividend to its shareholders."
+   }
+  }
+ ],
+ "2025-10-16": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2025-10-16",
+   "accession": "0001437749-25-031106",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "cautious",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Insteel reported a strong fourth quarter, driven by improved market conditions."
+   },
+   "item_2_02": {
+    "sentiment": 0.5,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cost pressures",
+     "margin expansion",
+     "macro headwinds"
+    ],
+    "summary": "Insteel reported a strong fourth quarter, driven by improved market conditions and higher sales, but expressed cautious optimism due to ongoing macroeconomic uncertainties."
+   }
+  }
+ ],
+ "2025-10-23": [
+  {
+   "filing_type": "10K",
+   "ticker": "IIIN",
+   "filed_date": "2025-10-23",
+   "period_end": "2025-09-27",
+   "accession": "0001437749-25-031597",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "market leadership",
+     "cost efficiency",
+     "acquisitions"
+    ],
+    "growth_signals": [
+     "purchased substantially all of the assets of Engineered Wire Products, Inc.",
+     "purchased certain assets of O\u2019Brien Wire Products of Texas, Inc."
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "operational",
+     "financial",
+     "market"
+    ],
+    "key_risks": [
+     "restructuring charges",
+     "higher manufacturing costs",
+     "weakening conditions in construction end-markets"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "acquisitions",
+     "market leadership",
+     "cost efficiency"
+    ],
+    "growth_signals": [
+     "net sales up 22.4% YoY",
+     "gross profit up 88.3% YoY",
+     "net earnings up 112.5% YoY"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.3,
+    "tone": "optimistic",
+    "summary": "IIIN demonstrates strong financial growth and market leadership despite operational and market risks."
+   }
+  }
+ ],
+ "2025-11-12": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2025-11-12",
+   "accession": "0001437749-25-034168",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "other",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Insteel Industries announced a regular quarterly dividend along with a special dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial rewards",
+     "shareholder value"
+    ],
+    "summary": "Insteel Industries announced a regular quarterly dividend along with a special one-time dividend, reflecting strong financial health and commitment to rewarding shareholders."
+   }
+  }
+ ],
+ "2025-11-14": [
+  {
+   "filing_type": "8K",
+   "ticker": "IIIN",
+   "date": "2025-11-14",
+   "accession": "0001437749-25-035214",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The company announced changes in board composition with two members stepping down."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "board_change",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "reason if given",
+     "leadership continuity signals"
+    ],
+    "summary": "The company announced changes in board composition with two members stepping down, emphasizing no disagreements with the company's operations, policies, or practices."
+   }
+  }
+ ]
+}

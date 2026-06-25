@@ -1,0 +1,218 @@
+{
+ "2023-03-31": {
+  "source": "FUND",
+  "ticker": "AMZN",
+  "tier": "high",
+  "event_date": "2023-03-31",
+  "actionable_date": "2023-04-28",
+  "raw_signal": -0.6,
+  "direction": -1,
+  "window_days": 21,
+  "mode": "drift",
+  "vote_sign": -1,
+  "decay": "linear",
+  "meta": {
+   "valuation": "OVERVALUED",
+   "trend": "DETERIORATING",
+   "score_note": "centered -0.8..0.85, 0=neutral"
+  }
+ },
+ "2023-06-30": {
+  "source": "FUND",
+  "ticker": "AMZN",
+  "tier": "high",
+  "event_date": "2023-06-30",
+  "actionable_date": "2023-08-04",
+  "raw_signal": -0.6,
+  "direction": -1,
+  "window_days": 21,
+  "mode": "drift",
+  "vote_sign": -1,
+  "decay": "linear",
+  "meta": {
+   "valuation": "OVERVALUED",
+   "trend": "DETERIORATING",
+   "score_note": "centered -0.8..0.85, 0=neutral"
+  }
+ },
+ "2023-09-30": {
+  "source": "FUND",
+  "ticker": "AMZN",
+  "tier": "high",
+  "event_date": "2023-09-30",
+  "actionable_date": "2023-10-27",
+  "raw_signal": -0.5,
+  "direction": -1,
+  "window_days": 21,
+  "mode": "drift",
+  "vote_sign": -1,
+  "decay": "linear",
+  "meta": {
+   "valuation": "OVERVALUED",
+   "trend": "IMPROVING",
+   "score_note": "centered -0.8..0.85, 0=neutral"
+  }
+ },
+ "2023-12-31": {
+  "source": "FUND",
+  "ticker": "AMZN",
+  "tier": "high",
+  "event_date": "2023-12-31",
+  "actionable_date": "2024-02-02",
+  "raw_signal": 0.3,
+  "direction": 1,
+  "window_days": 21,
+  "mode": "drift",
+  "vote_sign": 1,
+  "decay": "linear",
+  "meta": {
+   "valuation": "OVERVALUED",
+   "trend": "IMPROVING",
+   "score_note": "centered -0.8..0.85, 0=neutral"
+  }
+ },
+ "2024-03-31": {
+  "source": "FUND",
+  "ticker": "AMZN",
+  "tier": "high",
+  "event_date": "2024-03-31",
+  "actionable_date": "2024-05-01",
+  "raw_signal": -0.5,
+  "direction": -1,
+  "window_days": 21,
+  "mode": "drift",
+  "vote_sign": -1,
+  "decay": "linear",
+  "meta": {
+   "valuation": "OVERVALUED",
+   "trend": "IMPROVING",
+   "score_note": "centered -0.8..0.85, 0=neutral"
+  }
+ },
+ "2024-06-30": {
+  "source": "FUND",
+  "ticker": "AMZN",
+  "tier": "high",
+  "event_date": "2024-06-30",
+  "actionable_date": "2024-08-02",
+  "raw_signal": 0.2,
+  "direction": 1,
+  "window_days": 21,
+  "mode": "drift",
+  "vote_sign": 1,
+  "decay": "linear",
+  "meta": {
+   "valuation": "OVERVALUED",
+   "trend": "IMPROVING",
+   "score_note": "centered -0.8..0.85, 0=neutral"
+  }
+ },
+ "2024-09-30": {
+  "source": "FUND",
+  "ticker": "AMZN",
+  "tier": "high",
+  "event_date": "2024-09-30",
+  "actionable_date": "2024-11-01",
+  "raw_signal": 0.3,
+  "direction": 1,
+  "window_days": 21,
+  "mode": "drift",
+  "vote_sign": 1,
+  "decay": "linear",
+  "meta": {
+   "valuation": "OVERVALUED",
+   "trend": "IMPROVING",
+   "score_note": "centered -0.8..0.85, 0=neutral"
+  }
+ },
+ "2024-12-31": {
+  "source": "FUND",
+  "ticker": "AMZN",
+  "tier": "high",
+  "event_date": "2024-12-31",
+  "actionable_date": "2025-02-07",
+  "raw_signal": 0.3,
+  "direction": 1,
+  "window_days": 21,
+  "mode": "drift",
+  "vote_sign": 1,
+  "decay": "linear",
+  "meta": {
+   "valuation": "OVERVALUED",
+   "trend": "IMPROVING",
+   "score_note": "centered -0.8..0.85, 0=neutral"
+  }
+ },
+ "2025-03-31": {
+  "source": "FUND",
+  "ticker": "AMZN",
+  "tier": "high",
+  "event_date": "2025-03-31",
+  "actionable_date": "2025-05-02",
+  "raw_signal": 0.5,
+  "direction": 1,
+  "window_days": 21,
+  "mode": "drift",
+  "vote_sign": 1,
+  "decay": "linear",
+  "meta": {
+   "valuation": "FAIR",
+   "trend": "IMPROVING",
+   "score_note": "centered -0.8..0.85, 0=neutral"
+  }
+ },
+ "2025-06-30": {
+  "source": "FUND",
+  "ticker": "AMZN",
+  "tier": "high",
+  "event_date": "2025-06-30",
+  "actionable_date": "2025-08-01",
+  "raw_signal": 0.3,
+  "direction": 1,
+  "window_days": 21,
+  "mode": "drift",
+  "vote_sign": 1,
+  "decay": "linear",
+  "meta": {
+   "valuation": "FAIR",
+   "trend": "IMPROVING",
+   "score_note": "centered -0.8..0.85, 0=neutral"
+  }
+ },
+ "2025-09-30": {
+  "source": "FUND",
+  "ticker": "AMZN",
+  "tier": "high",
+  "event_date": "2025-09-30",
+  "actionable_date": "2025-10-31",
+  "raw_signal": 0.3,
+  "direction": 1,
+  "window_days": 21,
+  "mode": "drift",
+  "vote_sign": 1,
+  "decay": "linear",
+  "meta": {
+   "valuation": "FAIR",
+   "trend": "IMPROVING",
+   "score_note": "centered -0.8..0.85, 0=neutral"
+  }
+ },
+ "2025-12-31": {
+  "source": "FUND",
+  "ticker": "AMZN",
+  "tier": "high",
+  "event_date": "2025-12-31",
+  "actionable_date": NaN,
+  "raw_signal": 0.2,
+  "direction": 1,
+  "window_days": 21,
+  "mode": "drift",
+  "vote_sign": 1,
+  "decay": "linear",
+  "meta": {
+   "valuation": "FAIR",
+   "trend": "STABLE",
+   "score_note": "centered -0.8..0.85, 0=neutral"
+  }
+ }
+}

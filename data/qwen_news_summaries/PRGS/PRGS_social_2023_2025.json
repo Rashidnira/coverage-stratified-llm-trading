@@ -1,0 +1,59 @@
+{
+ "2023-06-02": [
+  {
+   "post_id": "13yd8gm",
+   "date": "2023-06-02",
+   "post_score": 17,
+   "num_comments": 6,
+   "tickers_mentioned": [
+    "PRGS"
+   ],
+   "post_quality": "OPINION",
+   "sentiment": "BEARISH",
+   "confidence": 0.85,
+   "themes": [
+    "data theft",
+    "fallout expected"
+   ],
+   "rationale": "The poster expresses concern over a security flaw affecting PRGS, suggesting potential negative consequences for the company."
+  }
+ ],
+ "2025-06-29": [
+  {
+   "post_id": "1lnem3g",
+   "date": "2025-06-29",
+   "post_score": 1,
+   "num_comments": 1,
+   "tickers_mentioned": [
+    "PRGS",
+    "TSLA"
+   ],
+   "post_quality": "NEWS",
+   "sentiment": "NEUTRAL",
+   "confidence": 1.0,
+   "themes": [
+    "June jobs report",
+    "market data"
+   ],
+   "rationale": "The post provides a summary of upcoming economic events and corporate earnings without expressing a specific view on PRGS or TSLA."
+  },
+  {
+   "post_id": "1lnjbbi",
+   "date": "2025-06-29",
+   "post_score": 28,
+   "num_comments": 19,
+   "tickers_mentioned": [
+    "PRGS",
+    "TSLA"
+   ],
+   "post_quality": "NEWS",
+   "sentiment": "NEUTRAL",
+   "confidence": 1.0,
+   "themes": [
+    "independence day holiday",
+    "jobs report"
+   ],
+   "rationale": "The post provides a summary of upcoming economic events and their potential impact on the market, including Tesla's June delivery data and the Independence Day holiday."
+  }
+ ]
+}

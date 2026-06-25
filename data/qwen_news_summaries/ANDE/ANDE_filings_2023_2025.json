@@ -1,0 +1,1441 @@
+{
+ "2023-02-14": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2023-02-14",
+   "accession": "0000821026-23-000029",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The Andersons reported strong fourth quarter results, highlighting robust performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "merchandising performance",
+     "favorable market conditions"
+    ],
+    "summary": "The Andersons reported strong fourth quarter results, highlighting robust performance in their Trade segment and positive outlook for future growth."
+   }
+  }
+ ],
+ "2023-02-23": [
+  {
+   "filing_type": "10K",
+   "ticker": "ANDE",
+   "filed_date": "2023-02-23",
+   "period_end": "2022-12-31",
+   "accession": "0000821026-23-000068",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "agricultural supply chain",
+     "renewable energy",
+     "plant nutrients"
+    ],
+    "growth_signals": [
+     "expanding market knowledge and shared technology across ethanol plants",
+     "outperforming nameplate capacity in ethanol production",
+     "diverse portfolio of specialty products supporting sustainable farming"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "supply chain",
+     "geopolitical",
+     "operational"
+    ],
+    "key_risks": [
+     "commodity price volatility",
+     "natural gas supply disruptions",
+     "government regulations",
+     "international trade disputes",
+     "environmental regulations"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "agricultural commodity performance",
+     "merchandising business success",
+     "renewable energy growth"
+    ],
+    "growth_signals": [
+     "record year for Trade segment",
+     "improved results for Renewables segment",
+     "strong performance in Plant Nutrient segment"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.3,
+    "tone": "optimistic",
+    "summary": "ANDE reports strong performance across segments with optimism, despite acknowledging significant regulatory and macroeconomic risks."
+   }
+  }
+ ],
+ "2023-04-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2023-04-06",
+   "accession": "0000821026-23-000104",
+   "items_found": [
+    "1.01",
+    "2.03",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The company secured a new term loan to refinance existing debt and improve its liquidity."
+   },
+   "item_1_01": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "credit_facility",
+    "market_impact": "positive",
+    "key_themes": [
+     "repayment of existing debt",
+     "improving liquidity position"
+    ],
+    "summary": "The company secured a new term loan to refinance existing debt and improve its liquidity."
+   }
+  }
+ ],
+ "2023-04-21": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2023-04-21",
+   "accession": "0000821026-23-000109",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "other",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The Andersons, Inc. issued a press release addressing recent developments."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "recent developments",
+     "ethanol plant"
+    ],
+    "summary": "The Andersons, Inc. issued a press release addressing recent developments at their joint venture ethanol plant in Colwich, Kansas."
+   }
+  }
+ ],
+ "2023-05-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2023-05-02",
+   "accession": "0000821026-23-000114",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The company reports mixed results with strong performance in the Trade segment."
+   },
+   "item_2_02": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "macro headwinds"
+    ],
+    "summary": "The company reports mixed results with strong performance in the Trade segment offsetting losses in Renewables, while maintaining optimism about long-term growth and strategic execution."
+   }
+  }
+ ],
+ "2023-05-04": [
+  {
+   "filing_type": "10Q",
+   "ticker": "ANDE",
+   "date": "2023-05-04",
+   "quarter": "Q2",
+   "accession": "0000821026-23-000123",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unknown",
+    "summary": "No specific risk factors were highlighted in the provided text."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company reported a neutral stance with stable momentum and no significant risks or changes highlighted."
+   }
+  }
+ ],
+ "2023-08-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2023-08-01",
+   "accession": "0000821026-23-000168",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The company reports strong earnings driven by robust margins in renewables."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "strategic acquisitions"
+    ],
+    "summary": "The company reports strong earnings driven by robust margins in renewables and increased volumes in nutrient and industrial segments, with optimism about future growth through strategic acquisitions and market positioning."
+   }
+  }
+ ],
+ "2023-08-03": [
+  {
+   "filing_type": "10Q",
+   "ticker": "ANDE",
+   "date": "2023-08-03",
+   "quarter": "Q3",
+   "accession": "0000821026-23-000178",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "impact of regulatory changes",
+     "competitive pressures",
+     "economic conditions"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights potential adverse effects from regulatory changes, competitive pressures, and economic conditions."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a stable outlook but expresses caution regarding potential adverse effects from regulatory changes and competition."
+   }
+  }
+ ],
+ "2023-11-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2023-11-07",
+   "accession": "0000821026-23-000216",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The Andersons reports strong third-quarter results across key segments."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "record results",
+     "operational performance",
+     "growth strategy",
+     "balance sheet strength"
+    ],
+    "summary": "The Andersons reports strong third-quarter results across key segments, driven by record performance in renewables and solid core operations, while maintaining an optimistic outlook for the remainder of the year."
+   }
+  }
+ ],
+ "2023-11-08": [
+  {
+   "filing_type": "10Q",
+   "ticker": "ANDE",
+   "date": "2023-11-08",
+   "quarter": "Q4",
+   "accession": "0000821026-23-000218",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "potential adverse effects on financial condition and operating results",
+     "material and adverse impact on business",
+     "impact on stock price"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights broad risks that could negatively impact the company's performance and stock price."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management highlights potential risks that may affect the company's performance."
+   }
+  }
+ ],
+ "2024-02-20": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2024-02-20",
+   "accession": "0000821026-24-000055",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The Andersons reports record fourth quarter results with strong operational performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "record earnings",
+     "operational efficiency",
+     "forward growth"
+    ],
+    "summary": "The Andersons reports record fourth quarter results with strong operational performance across segments, positioning the company well for future growth."
+   }
+  }
+ ],
+ "2024-02-21": [
+  {
+   "filing_type": "10K",
+   "ticker": "ANDE",
+   "filed_date": "2024-02-21",
+   "period_end": "2023-12-31",
+   "accession": "0000821026-24-000071",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "agricultural supply chain",
+     "renewable energy",
+     "nutrient distribution"
+    ],
+    "growth_signals": [
+     "expanded ethanol production capacity",
+     "merchandising and trade portfolio of ethanol",
+     "corporate venture fund",
+     "campus recruiting efforts",
+     "diversified portfolio of physical commodities"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "supply chain",
+     "geopolitical",
+     "operational"
+    ],
+    "key_risks": [
+     "commodity price volatility",
+     "natural gas supply disruptions",
+     "government regulations",
+     "international trade disputes",
+     "environmental regulations"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "agricultural commodity pricing",
+     "ethanol plant performance",
+     "storage capacity utilization"
+    ],
+    "growth_signals": [
+     "consistent trade segment results",
+     "outstanding renewables segment earnings",
+     "decreased nutrient & industrial segment results"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": -0.2,
+    "tone": "cautious",
+    "summary": "ANDE exhibits optimism in its business themes but faces significant risks, particularly in regulatory and macroeconomic areas, leading to a cautiously balanced outlook."
+   }
+  }
+ ],
+ "2024-05-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2024-05-07",
+   "accession": "0000821026-24-000135",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.3,
+    "tone": "cautious",
+    "event_category": "earnings",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The Andersons reports mixed first quarter results with strong performance in certain areas."
+   },
+   "item_2_02": {
+    "sentiment": 0.3,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "neutral",
+    "key_themes": [
+     "macro headwinds",
+     "growth opportunities",
+     "balance sheet strength"
+    ],
+    "summary": "The Andersons reports mixed first quarter results with strong performance in renewables and nutrient & industrial segments, but faces challenges in trade due to market sluggishness and lower commodity prices."
+   }
+  }
+ ],
+ "2024-05-08": [
+  {
+   "filing_type": "10Q",
+   "ticker": "ANDE",
+   "date": "2024-05-08",
+   "quarter": "Q2",
+   "accession": "0000821026-24-000141",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "margin pressure",
+     "geopolitical risks",
+     "inventory management"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "decelerating",
+    "summary": "The company faces challenges due to lower commodity prices and geopolitical unrest, leading to cautious optimism despite improvements in certain segments."
+   },
+   "risk_factors": {
+    "sentiment": -0.75,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "operational"
+    ],
+    "key_risks": [
+     "variations in financial condition and operating results",
+     "material adverse effects on business",
+     "uncertainty in financial outcomes"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights significant uncertainties and potential adverse impacts across various aspects of the business without specifying changes from previous reports."
+   },
+   "overall": {
+    "sentiment": -0.375,
+    "tone": "cautious",
+    "business_stage": "declining",
+    "market_impact": "negative",
+    "summary": "The company is facing significant challenges and uncertainties, particularly due to lower commodity prices and geopolitical issues."
+   }
+  }
+ ],
+ "2024-05-13": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2024-05-13",
+   "accession": "0000821026-24-000145",
+   "items_found": [
+    "5.02",
+    "5.07",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Joseph E. McNeely, Group President of Nutrient and Industrial, plans to retire."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "executive_departure",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "reason if given",
+     "leadership continuity signals"
+    ],
+    "summary": "Joseph E. McNeely, Group President of Nutrient and Industrial, plans to retire by the end of the year, with no immediate successor named."
+   }
+  }
+ ],
+ "2024-06-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2024-06-07",
+   "accession": "0000821026-24-000173",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "ANDE announced a letter of intent to purchase an ownership interest in Skyland G."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "partnership",
+    "market_impact": "positive",
+    "key_themes": [
+     "ownership interest",
+     "Skyland Grain, LLC"
+    ],
+    "summary": "ANDE announced a letter of intent to purchase an ownership interest in Skyland Grain, LLC."
+   }
+  }
+ ],
+ "2024-08-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2024-08-06",
+   "accession": "0000821026-24-000179",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The Andersons reports solid second quarter results, highlighting strong performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "portfolio diversification",
+     "growth initiatives",
+     "renewable focus"
+    ],
+    "summary": "The Andersons reports solid second quarter results, highlighting strong performance in renewables and nutrient industrial segments, while maintaining optimism through strategic acquisitions and renewable projects."
+   }
+  }
+ ],
+ "2024-08-07": [
+  {
+   "filing_type": "10Q",
+   "ticker": "ANDE",
+   "date": "2024-08-07",
+   "quarter": "Q3",
+   "accession": "0000821026-24-000185",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "margin pressure",
+     "market volatility",
+     "geographic expansion"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The company reports stable business momentum across its segments, with cautious optimism amid margin pressures and market volatility."
+   },
+   "risk_factors": {
+    "sentiment": -0.75,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "operational"
+    ],
+    "key_risks": [
+     "variations in financial condition and operating results",
+     "material adverse effects on business",
+     "uncertainty in financial outcomes"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights significant uncertainties and potential adverse impacts across various aspects of the business without specifying changes from previous reports."
+   },
+   "overall": {
+    "sentiment": -0.275,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "negative",
+    "summary": "The company maintains stable business momentum but faces significant uncertainties and potential adverse impacts."
+   }
+  }
+ ],
+ "2024-08-15": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2024-08-15",
+   "accession": "0000821026-24-000194",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The Andersons, Inc. announces a new stock repurchase program aimed at enhancing"
+   },
+   "item_8_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "buyback",
+    "market_impact": "positive",
+    "key_themes": [
+     "stock repurchase",
+     "management discretion",
+     "corporate strategy"
+    ],
+    "summary": "The Andersons, Inc. announces a new stock repurchase program aimed at enhancing shareholder value."
+   }
+  }
+ ],
+ "2024-08-19": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2024-08-19",
+   "accession": "0000821026-24-000202",
+   "items_found": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "ANDE appoints William E. Krueger as the new President and CEO, along with new leadership roles for Mr. Krueger and Mr. Bowe."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "William E. Krueger is appointed as the new President and CEO, signaling a smooth transition with Patrick E. Bowe stepping down but remaining involved."
+   },
+   "item_7_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "business_update",
+    "market_impact": "positive",
+    "key_themes": [
+     "leadership changes",
+     "new executive appointments"
+    ],
+    "summary": "The company announces new leadership roles for Mr. Krueger and Mr. Bowe."
+   }
+  }
+ ],
+ "2024-11-04": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2024-11-04",
+   "accession": "0000821026-24-000221",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The Andersons reports strong third-quarter results, highlighting robust performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "portfolio diversification",
+     "growth investments"
+    ],
+    "summary": "The Andersons reports strong third-quarter results, highlighting robust performance across segments and strategic investments that bolster future growth."
+   }
+  }
+ ],
+ "2024-11-05": [
+  {
+   "filing_type": "10Q",
+   "ticker": "ANDE",
+   "date": "2024-11-05",
+   "quarter": "Q4",
+   "accession": "0000821026-24-000227",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "strong product demand",
+     "efficient operations",
+     "favorable market conditions"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "The company reports strong business performance across its segments, driven by efficient operations and favorable market conditions, with an optimistic outlook supported by anticipated early and robust harvests."
+   },
+   "risk_factors": {
+    "sentiment": -0.75,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "operational"
+    ],
+    "key_risks": [
+     "variations in financial condition and operating results",
+     "material adverse effects on business",
+     "uncertainty in financial outcomes"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights significant uncertainties and potential adverse impacts across various aspects of the business without specifying changes from previous reports."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "cautious",
+    "business_stage": "growth",
+    "market_impact": "neutral",
+    "summary": "Despite strong business performance, management cautions about significant uncertainties."
+   }
+  }
+ ],
+ "2024-11-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2024-11-06",
+   "accession": "0000821026-24-000229",
+   "items_found": [
+    "1.01",
+    "2.03",
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01",
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.55,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The Andersons, Inc. acquired a significant stake in Skyland Grain, LLC."
+   },
+   "item_1_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "acquisition",
+    "market_impact": "positive",
+    "key_themes": [
+     "expansion",
+     "strategic growth"
+    ],
+    "summary": "The Andersons, Inc. acquired a significant stake in Skyland Grain, LLC, aiming to consolidate results and secure financing to support the acquisition."
+   },
+   "item_8_01": {
+    "sentiment": 0.5,
+    "tone": "neutral",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "Purchase Agreement",
+     "Press Release"
+    ],
+    "summary": "The company has announced a Purchase Agreement through a press release."
+   }
+  }
+ ],
+ "2024-12-11": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2024-12-11",
+   "accession": "0000821026-24-000234",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The Andersons, Inc. announced new executive appointments and a restructuring."
+   },
+   "item_8_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "restructuring",
+    "market_impact": "positive",
+    "key_themes": [
+     "leadership changes",
+     "segment reorganization"
+    ],
+    "summary": "The Andersons, Inc. announced new executive appointments and a restructuring of its business segments."
+   }
+  }
+ ],
+ "2025-02-18": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2025-02-18",
+   "accession": "0000821026-25-000042",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management highlights strong performance in Trade and Renewables segments."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "merchandising improvements",
+     "ethanol production"
+    ],
+    "summary": "Management highlights strong performance in Trade and Renewables segments, with optimism for future growth despite market challenges."
+   }
+  }
+ ],
+ "2025-02-19": [
+  {
+   "filing_type": "10K",
+   "ticker": "ANDE",
+   "filed_date": "2025-02-19",
+   "period_end": "2024-12-31",
+   "accession": "0000821026-25-000050",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "agricultural supply chain",
+     "renewable energy",
+     "nutrient distribution"
+    ],
+    "growth_signals": [
+     "outperforming ethanol plant capacity",
+     "expansion of market knowledge and shared technology",
+     "diverse portfolio of specialty products"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "supply chain",
+     "geopolitical",
+     "operational"
+    ],
+    "key_risks": [
+     "commodity price volatility",
+     "natural gas supply and price fluctuations",
+     "government regulations",
+     "international trade disputes",
+     "environmental compliance"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "agricultural commodity resilience",
+     "operational restructuring",
+     "acquisition integration"
+    ],
+    "growth_signals": [
+     "increased ethanol volumes",
+     "enhanced storage capacity",
+     "improved premium ingredient business"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "optimistic",
+    "summary": "ANDE presents an optimistic outlook with growth signals in its core businesses, despite acknowledging significant risks in regulatory, macroeconomic, and operational areas."
+   }
+  }
+ ],
+ "2025-03-26": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2025-03-26",
+   "accession": "0000821026-25-000087",
+   "items_found": [
+    "5.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Christine M. Castellano, an executive at Andersons, Inc., is retiring."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "executive_departure",
+    "market_impact": "neutral",
+    "key_themes": [
+     "reason if given",
+     "leadership continuity signals"
+    ],
+    "summary": "Christine M. Castellano, an executive at Andersons, Inc., is retiring, and the company will provide her with benefits as per their severance policy."
+   }
+  }
+ ],
+ "2025-05-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2025-05-06",
+   "accession": "0000821026-25-000104",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "earnings",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The Andersons reported mixed first quarter results with strong performance in certain areas."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "neutral",
+    "key_themes": [
+     "mixed results",
+     "challenging markets",
+     "growth opportunities"
+    ],
+    "summary": "The Andersons reported mixed first quarter results with strong performance in Renewables offset by challenges in Agribusiness due to market uncertainties, while maintaining optimism about future growth and operational improvements."
+   }
+  }
+ ],
+ "2025-05-07": [
+  {
+   "filing_type": "10Q",
+   "ticker": "ANDE",
+   "date": "2025-05-07",
+   "quarter": "Q2",
+   "accession": "0000821026-25-000112",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "market uncertainty",
+     "storage capacity expansion",
+     "ethanol production efficiency"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "decelerating",
+    "summary": "Management acknowledges challenges in the agricultural sector while highlighting improvements in ethanol production and increased storage capacities."
+   },
+   "risk_factors": {
+    "sentiment": -0.75,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "operational"
+    ],
+    "key_risks": [
+     "variations in financial condition and operating results",
+     "material adverse effects on business",
+     "uncertainty in financial outcomes"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights significant uncertainties that could lead to material adverse effects on the company's performance."
+   },
+   "overall": {
+    "sentiment": -0.275,
+    "tone": "cautious",
+    "business_stage": "declining",
+    "market_impact": "negative",
+    "summary": "Management faces significant challenges and uncertainties in the agricultural sector."
+   }
+  }
+ ],
+ "2025-08-04": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2025-08-04",
+   "accession": "0000821026-25-000147",
+   "items_found": [
+    "1.01",
+    "2.01",
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01",
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.65,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The Andersons reports positive earnings and completes a strategic acquisition."
+   },
+   "item_1_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "acquisition",
+    "market_impact": "positive",
+    "key_themes": [
+     "full ownership",
+     "ethanol production",
+     "consolidation"
+    ],
+    "summary": "The Andersons, Inc. acquired full ownership of The Andersons Marathon Holdings LLC, solidifying control over four ethanol plants."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strategic acquisition",
+     "renewable fuels",
+     "portfolio optimization"
+    ],
+    "summary": "The Andersons reports positive earnings and highlights a strategic acquisition that aligns with their growth strategy in renewables, while also emphasizing ongoing projects and operational improvements."
+   }
+  }
+ ],
+ "2025-08-05": [
+  {
+   "filing_type": "10Q",
+   "ticker": "ANDE",
+   "date": "2025-08-05",
+   "quarter": "Q3",
+   "accession": "0000821026-25-000150",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "weak customer demand",
+     "agricultural commodity pricing",
+     "ethanol plant efficiency"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "decelerating",
+    "summary": "Despite challenges in grain markets and margin pressures, the company anticipates future opportunities driven by favorable grain availability and ethanol demand."
+   },
+   "risk_factors": {
+    "sentiment": -0.75,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "operational"
+    ],
+    "key_risks": [
+     "variations in financial condition and operating results",
+     "material adverse effects on business",
+     "uncertainty in financial outcomes"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights significant uncertainties that could lead to material adverse effects on the company's performance."
+   },
+   "overall": {
+    "sentiment": -0.275,
+    "tone": "cautious",
+    "business_stage": "declining",
+    "market_impact": "negative",
+    "summary": "The company faces significant challenges and uncertainties, leading to a cautious outlook."
+   }
+  }
+ ],
+ "2025-08-22": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2025-08-22",
+   "accession": "0000821026-25-000161",
+   "items_found": [
+    "5.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The Andersons, Inc. appointed Steven Oakland as a new director, signaling continuity."
+   },
+   "item_5_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "board_change",
+    "market_impact": "neutral",
+    "key_themes": [
+     "new director appointment",
+     "leadership continuity signals"
+    ],
+    "summary": "The Andersons, Inc. appointed Steven Oakland as a new director, signaling continued stability in leadership."
+   }
+  }
+ ],
+ "2025-11-04": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2025-11-04",
+   "accession": "0000821026-25-000199",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses optimism about the company's future growth prospects."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "investment in growth",
+     "tax credit benefits"
+    ],
+    "summary": "Management expresses optimism about the company's future growth prospects, driven by strong operating performance and strategic investments."
+   }
+  }
+ ],
+ "2025-11-05": [
+  {
+   "filing_type": "10Q",
+   "ticker": "ANDE",
+   "date": "2025-11-05",
+   "quarter": "Q4",
+   "accession": "0000821026-25-000204",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "trade policy uncertainty",
+     "low prices and volatility",
+     "renewable growth opportunities"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "decelerating",
+    "summary": "Despite challenges in the agribusiness sector due to trade uncertainties and low prices, the company remains cautiously optimistic about long-term prospects in renewables."
+   },
+   "risk_factors": {
+    "sentiment": -0.75,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "operational"
+    ],
+    "key_risks": [
+     "variations in financial condition and operating results",
+     "material adverse effects on business",
+     "uncertainty in financial outcomes"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights significant uncertainties that could lead to material adverse effects on the company's performance."
+   },
+   "overall": {
+    "sentiment": -0.275,
+    "tone": "cautious",
+    "business_stage": "declining",
+    "market_impact": "negative",
+    "summary": "The company faces significant challenges and uncertainties in the agribusiness sector."
+   }
+  }
+ ],
+ "2025-12-09": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2025-12-09",
+   "accession": "0000821026-25-000214",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The company is holding an investor day presentation with a webcast."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "investor_day",
+    "market_impact": "neutral",
+    "key_themes": [
+     "presentation",
+     "webcast"
+    ],
+    "summary": "The company is holding an investor day presentation with a webcast."
+   }
+  }
+ ],
+ "2025-12-11": [
+  {
+   "filing_type": "8K",
+   "ticker": "ANDE",
+   "date": "2025-12-11",
+   "accession": "0000821026-25-000217",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "guidance",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The Company announced its growth target for 2028, signaling optimism about future prospects."
+   },
+   "item_7_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "business_update",
+    "market_impact": "positive",
+    "key_themes": [
+     "growth target",
+     "future outlook"
+    ],
+    "summary": "The Company announced its growth target for 2028, signaling optimism about future performance."
+   }
+  }
+ ]
+}

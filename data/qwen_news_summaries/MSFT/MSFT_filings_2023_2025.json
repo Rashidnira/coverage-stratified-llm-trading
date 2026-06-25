@@ -1,0 +1,1362 @@
+{
+ "2023-01-18": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2023-01-18",
+   "accession": "0001193125-23-009934",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "event_category": "management",
+    "market_impact": "negative",
+    "urgency": "high",
+    "summary": "Microsoft announces workforce reductions and cost-cutting measures."
+   },
+   "item_7_01": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "event_type": "business_update",
+    "market_impact": "negative",
+    "key_themes": [
+     "workforce reduction",
+     "cost-cutting measures",
+     "macroeconomic challenges"
+    ],
+    "summary": "Microsoft announces workforce reductions and cost-cutting measures in response to economic conditions."
+   }
+  }
+ ],
+ "2023-01-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2023-01-24",
+   "accession": "0001193125-23-014230",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Microsoft highlights strong cloud performance and commitment to AI innovation."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "cloud strength",
+     "AI innovation",
+     "operational excellence"
+    ],
+    "summary": "Microsoft highlights strong cloud performance and commitment to AI innovation, signaling continued growth despite some declines."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSFT",
+   "date": "2023-01-24",
+   "quarter": "Q1",
+   "accession": "0001564590-23-000733",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "technology",
+     "operational"
+    ],
+    "key_risks": [
+     "intense competition",
+     "rapid technological changes",
+     "cloud service execution risks"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Microsoft highlights ongoing competitive pressures and rapid technological shifts, emphasizing execution challenges in cloud services."
+   },
+   "overall": {
+    "sentiment": -0.3,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Microsoft faces continued competitive pressures and rapid technological shifts, maintaining a cautious outlook."
+   }
+  }
+ ],
+ "2023-04-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2023-04-25",
+   "accession": "0001193125-23-115280",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Microsoft reports strong cloud revenue growth and highlights innovative advancements."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cloud momentum",
+     "innovation"
+    ],
+    "summary": "Microsoft reports strong cloud revenue growth and highlights innovative advancements in AI, reflecting robust business momentum."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSFT",
+   "date": "2023-04-25",
+   "quarter": "Q2",
+   "accession": "0000950170-23-014423",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "macroeconomic",
+     "supply_chain"
+    ],
+    "key_risks": [
+     "competitive pressures from rivals",
+     "global economic conditions",
+     "reliance on third-party suppliers"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Microsoft highlights ongoing competitive pressures, dependence on global economic stability, and supply chain vulnerabilities."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Microsoft reports stable operations amid ongoing competitive pressures and economic uncertainties."
+   }
+  }
+ ],
+ "2023-07-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2023-07-25",
+   "accession": "0000950170-23-034400",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Microsoft reports strong quarterly results driven by robust cloud performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cloud strength",
+     "AI focus"
+    ],
+    "summary": "Microsoft reports strong quarterly results driven by robust cloud performance and emphasizes its leadership in the AI platform shift."
+   }
+  }
+ ],
+ "2023-07-27": [
+  {
+   "filing_type": "10K",
+   "ticker": "MSFT",
+   "filed_date": "2023-07-27",
+   "period_end": "2023-06-30",
+   "accession": "0000950170-23-035122",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "key_themes": [
+     "AI infrastructure",
+     "cloud services",
+     "productivity tools"
+    ],
+    "growth_signals": [
+     "investment in AI capabilities",
+     "expansion of cloud business",
+     "development of mixed reality solutions",
+     "extension of infrastructure to space",
+     "acquisition of Activision Blizzard"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "operational",
+     "business_model",
+     "execution",
+     "fraud"
+    ],
+    "key_risks": [
+     "intense competition",
+     "cloud-based services execution risks",
+     "costs of innovation",
+     "reputation damage from fraud",
+     "investment risks"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "cloud revenue growth",
+     "AI investment",
+     "workforce adjustment"
+    ],
+    "growth_signals": [
+     "Microsoft Cloud revenue increased 22%",
+     "Office Commercial products and cloud services revenue increased 10%",
+     "Dynamics products and cloud services revenue increased 16%"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.43333333333333335,
+    "tone": "optimistic",
+    "summary": "Microsoft reports strong growth in cloud and productivity services, while acknowledging significant competitive and operational challenges."
+   }
+  }
+ ],
+ "2023-10-11": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2023-10-11",
+   "accession": "0001193125-23-254151",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Microsoft has received notices from the IRS regarding potential tax adjustments."
+   },
+   "item_8_01": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "event_type": "litigation_update",
+    "market_impact": "negative",
+    "key_themes": [
+     "tax audit",
+     "disagreement with IRS",
+     "potential legal action"
+    ],
+    "summary": "Microsoft has received notices from the IRS regarding potential tax adjustments for past years, leading to a disagreement and expected legal contestation."
+   }
+  }
+ ],
+ "2023-10-16": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2023-10-16",
+   "accession": "0001104659-23-109428",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "deal",
+    "market_impact": "neutral",
+    "urgency": "medium",
+    "summary": "Microsoft has initiated exchange offers and consent solicitations."
+   },
+   "item_8_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "exchange offers",
+     "consent solicitations",
+     "merger"
+    ],
+    "summary": "Microsoft has initiated exchange offers and consent solicitations related to the merger with Activision Blizzard."
+   }
+  }
+ ],
+ "2023-10-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2023-10-24",
+   "accession": "0000950170-23-054848",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Microsoft reports robust earnings driven by strong cloud performance and AI advancements."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "AI integration",
+     "cloud growth"
+    ],
+    "summary": "Microsoft reports robust earnings driven by strong cloud performance and AI advancements."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSFT",
+   "date": "2023-10-24",
+   "quarter": "Q4",
+   "accession": "0000950170-23-054855",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "macroeconomic",
+     "operational"
+    ],
+    "key_risks": [
+     "competitive pressures from rivals",
+     "global economic conditions",
+     "costs associated with cloud and AI investments"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Microsoft highlights ongoing competitive pressures, economic volatility, and operational challenges linked to technological investments."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Microsoft reports stable operations amid ongoing competitive pressures and economic uncertainty."
+   }
+  }
+ ],
+ "2023-11-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2023-11-06",
+   "accession": "0001193125-23-271376",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "neutral",
+    "event_category": "deal",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Microsoft completed exchange offers and consent solicitations related to Activis."
+   },
+   "item_8_01": {
+    "sentiment": 0.5,
+    "tone": "neutral",
+    "event_type": "restructuring",
+    "market_impact": "neutral",
+    "key_themes": [
+     "exchange offers",
+     "consent solicitations",
+     "indenture amendments"
+    ],
+    "summary": "Microsoft completed exchange offers and consent solicitations related to Activision Blizzard notes."
+   }
+  }
+ ],
+ "2024-01-19": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2024-01-19",
+   "accession": "0001193125-24-011295",
+   "items_found": [
+    "1.05",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "other",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Microsoft provided a blog post regarding an incident."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "incident communication",
+     "transparency"
+    ],
+    "summary": "Microsoft provided a blog post regarding an incident."
+   }
+  }
+ ],
+ "2024-01-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2024-01-30",
+   "accession": "0000950170-24-008809",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Microsoft reports strong earnings driven by cloud services and AI integration."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "cloud strength",
+     "AI integration",
+     "revenue growth",
+     "customer acquisition"
+    ],
+    "summary": "Microsoft reports strong earnings driven by cloud services and AI integration, highlighting robust revenue growth and customer wins."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSFT",
+   "date": "2024-01-30",
+   "quarter": "Q1",
+   "accession": "0000950170-24-008814",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "cloud service growth",
+     "AI investment",
+     "competitive landscape"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Microsoft highlights strong growth in cloud services and AI investments, while acknowledging competitive pressures and economic challenges."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "technology"
+    ],
+    "key_risks": [
+     "intense competition",
+     "rapid technological changes",
+     "business model shifts"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Microsoft highlights ongoing intense competition and rapid technological changes as key risks, emphasizing the need to innovate and adapt."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Microsoft reports strong growth in cloud services and AI investments despite facing intense competition and rapid technological changes."
+   }
+  }
+ ],
+ "2024-04-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2024-04-25",
+   "accession": "0000950170-24-048268",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Microsoft reports robust growth driven by strong cloud performance and AI advancements."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cloud growth",
+     "AI transformation"
+    ],
+    "summary": "Microsoft reports robust growth driven by strong cloud performance and AI advancements."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSFT",
+   "date": "2024-04-25",
+   "quarter": "Q2",
+   "accession": "0000950170-24-048288",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "cloud service growth",
+     "AI investment",
+     "competitive landscape"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Microsoft highlights strong growth in cloud services and AI investments, while acknowledging competitive pressures and economic challenges."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "technology"
+    ],
+    "key_risks": [
+     "intense competition",
+     "rapid technological changes",
+     "business model shifts"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Microsoft highlights ongoing intense competition and rapid technological changes as key risks, emphasizing the need to innovate and adapt."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Microsoft reports strong growth in cloud services and AI investments despite facing intense competition and rapid technological changes."
+   }
+  }
+ ],
+ "2024-07-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2024-07-30",
+   "accession": "0000950170-24-087835",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Microsoft reports robust earnings driven by strong cloud performance and ongoing"
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cloud momentum",
+     "innovation focus"
+    ],
+    "summary": "Microsoft reports robust earnings driven by strong cloud performance and ongoing innovation."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "MSFT",
+   "filed_date": "2024-07-30",
+   "period_end": "2024-06-30",
+   "accession": "0000950170-24-087843",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "key_themes": [
+     "AI infrastructure",
+     "productivity tools",
+     "cloud services"
+    ],
+    "growth_signals": [
+     "Copilot for Microsoft 365",
+     "Azure AI",
+     "GitHub Copilot",
+     "Windows 11",
+     "Xbox Game Pass"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "operational",
+     "legal",
+     "regulatory",
+     "cybersecurity"
+    ],
+    "key_risks": [
+     "intense competition",
+     "shifting user needs",
+     "cloud-based and AI services execution risks",
+     "fraudulent activities",
+     "significant investments in new technology"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "cloud revenue growth",
+     "acquisition of Activision Blizzard",
+     "investment in AI"
+    ],
+    "growth_signals": [
+     "Microsoft Cloud revenue increased 23%",
+     "Office Commercial products and cloud services revenue increased 14%",
+     "Dynamics products and cloud services revenue increased 19%"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "summary": "Microsoft reports strong growth in cloud and productivity tools, while acknowledging significant competitive and operational challenges."
+   }
+  }
+ ],
+ "2024-08-21": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2024-08-21",
+   "accession": "0001193125-24-204403",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.3,
+    "tone": "neutral",
+    "event_category": "other",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Microsoft posted presentation materials for fiscal year 2025 investor metrics."
+   },
+   "item_7_01": {
+    "sentiment": 0.3,
+    "tone": "neutral",
+    "event_type": "investor_day",
+    "market_impact": "neutral",
+    "key_themes": [
+     "Fiscal Year 2025 metrics",
+     "Investor Relations update"
+    ],
+    "summary": "Microsoft posted presentation materials for fiscal year 2025 investor metrics."
+   }
+  }
+ ],
+ "2024-10-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2024-10-30",
+   "accession": "0000950170-24-118955",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Microsoft reports strong first quarter results driven by robust cloud services."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "AI-driven transformation",
+     "cloud growth"
+    ],
+    "summary": "Microsoft reports strong first quarter results driven by robust cloud services and AI integration, highlighting continued business momentum and customer adoption."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSFT",
+   "date": "2024-10-30",
+   "quarter": "Q4",
+   "accession": "0000950170-24-118967",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "cloud service growth",
+     "AI investment",
+     "competitive landscape"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Microsoft highlights strong growth in cloud services and AI investments, while acknowledging competitive pressures and economic challenges."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "technology"
+    ],
+    "key_risks": [
+     "intense competition",
+     "rapidly evolving technology",
+     "business model competition"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Microsoft highlights ongoing challenges from intense competition and rapid technological changes, emphasizing the need to innovate and adapt."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Microsoft reports strong growth in cloud services and AI investments despite facing intense competition and technological challenges."
+   }
+  }
+ ],
+ "2024-12-03": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2024-12-03",
+   "accession": "0000950170-24-132722",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "regulatory",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Microsoft announces changes to its segment reporting to better align with how it"
+   },
+   "item_8_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "restructuring",
+    "market_impact": "neutral",
+    "key_themes": [
+     "segment reporting changes",
+     "alignment with business management"
+    ],
+    "summary": "Microsoft announces changes to its segment reporting to better align with how it manages its business."
+   }
+  }
+ ],
+ "2024-12-11": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2024-12-11",
+   "accession": "0001193125-24-275524",
+   "items_found": [
+    "5.07",
+    "7.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "event_category": "guidance",
+    "market_impact": "negative",
+    "urgency": "high",
+    "summary": "Microsoft anticipates recording a significant impairment charge."
+   },
+   "item_7_01": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "event_type": "business_update",
+    "market_impact": "negative",
+    "key_themes": [
+     "impairment charge",
+     "strategic reevaluation",
+     "uncertainty"
+    ],
+    "summary": "Microsoft anticipates recording a significant impairment charge due to GM's decision to realign its autonomous driving strategy."
+   }
+  }
+ ],
+ "2025-01-22": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2025-01-22",
+   "accession": "0001193125-25-010492",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "medium",
+    "summary": "Christopher D. Young is stepping down from his executive position at Microsoft."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "executive_departure",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "reason if given",
+     "leadership continuity signals"
+    ],
+    "summary": "Christopher D. Young is stepping down from his executive position at Microsoft, but will continue in a supporting role until March."
+   }
+  }
+ ],
+ "2025-01-29": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2025-01-29",
+   "accession": "0000950170-25-010484",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Microsoft reports strong earnings driven by robust cloud and AI growth"
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cloud and ai growth",
+     "innovation"
+    ],
+    "summary": "Microsoft reports strong earnings driven by robust cloud and AI growth, highlighting ongoing innovation and commitment to customer success."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSFT",
+   "date": "2025-01-29",
+   "quarter": "Q1",
+   "accession": "0000950170-25-010491",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "strong product demand",
+     "AI investment",
+     "competitive landscape"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Microsoft highlights strong business momentum, driven by robust demand for its cloud and AI offerings, while emphasizing ongoing investments and adaptation to industry shifts."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "technology"
+    ],
+    "key_risks": [
+     "intense competition",
+     "rapid technological changes",
+     "business model competition"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Microsoft faces significant competition and rapid technological changes, particularly in cloud-based and AI services."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Despite facing significant competition and rapid technological changes, Microsoft reports strong business momentum driven by robust demand."
+   }
+  }
+ ],
+ "2025-04-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2025-04-30",
+   "accession": "0000950170-25-061032",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Microsoft reports strong third-quarter results driven by robust cloud and AI growth."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cloud and ai growth",
+     "innovation"
+    ],
+    "summary": "Microsoft reports strong third-quarter results driven by robust cloud and AI growth, highlighting continued innovation and customer demand."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSFT",
+   "date": "2025-04-30",
+   "quarter": "Q2",
+   "accession": "0000950170-25-061046",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "strong product demand",
+     "AI investment",
+     "macro headwinds"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Microsoft highlights strong business performance and continued investment in AI, while acknowledging challenges posed by economic conditions and competition."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "technology"
+    ],
+    "key_risks": [
+     "intense competition",
+     "rapid technological changes",
+     "business model competition"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Microsoft highlights ongoing challenges from intense competition and rapid technological changes, emphasizing the need to innovate and adapt."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Microsoft reports strong business performance despite ongoing competitive challenges."
+   }
+  }
+ ],
+ "2025-07-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2025-07-30",
+   "accession": "0000950170-25-100226",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Microsoft reports strong quarterly results driven by robust cloud and AI growth"
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "cloud and ai strength",
+     "business transformation",
+     "innovation"
+    ],
+    "summary": "Microsoft reports strong quarterly results driven by robust cloud and AI growth, highlighting ongoing business transformation and innovation."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "MSFT",
+   "filed_date": "2025-07-30",
+   "period_end": "2025-06-30",
+   "accession": "0000950170-25-100235",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "key_themes": [
+     "AI infrastructure",
+     "cloud computing",
+     "sustainability"
+    ],
+    "growth_signals": [
+     "transforming the workplace",
+     "building and running cloud-based services",
+     "applying AI and ambient intelligence",
+     "providing training on generative AI",
+     "inventing new gaming experiences"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "operational",
+     "legal",
+     "cybersecurity",
+     "business_model"
+    ],
+    "key_risks": [
+     "intense competition",
+     "shifting to cloud-based and AI services",
+     "fraudulent activities",
+     "significant investments in new technology",
+     "acquisitions and strategic alliances"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "cloud revenue growth",
+     "AI and OpenAI partnership",
+     "international operations"
+    ],
+    "growth_signals": [
+     "Microsoft Cloud revenue increased 23%",
+     "Azure and other cloud services revenue growth of 34%",
+     "Dynamics 365 revenue growth of 19%"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.4,
+    "tone": "optimistic",
+    "summary": "Microsoft demonstrates strong business optimism and growth in cloud and AI services, despite acknowledging significant operational and competitive risks."
+   }
+  }
+ ],
+ "2025-09-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2025-09-30",
+   "accession": "0001193125-25-225125",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Carlos A. Rodriguez announced he will not seek re-election to the Microsoft Board."
+   },
+   "item_5_02": {
+    "sentiment": 0.2,
+    "tone": "neutral",
+    "event_type": "board_change",
+    "market_impact": "neutral",
+    "key_themes": [
+     "reason if given",
+     "leadership continuity signals"
+    ],
+    "summary": "Carlos A. Rodriguez announced he will not seek re-election to the Microsoft Board of Directors due to personal reasons."
+   }
+  }
+ ],
+ "2025-10-29": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2025-10-29",
+   "accession": "0001193125-25-256310",
+   "items_found": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.65,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "Microsoft reports strong performance and updates on strategic partnerships."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cloud and ai growth",
+     "investment in ai"
+    ],
+    "summary": "Microsoft reports strong first quarter results driven by robust cloud and AI growth, reflecting increasing customer demand and strategic investments."
+   },
+   "item_7_01": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "business_update",
+    "market_impact": "positive",
+    "key_themes": [
+     "Microsoft-OpenAI partnership",
+     "first quarter fiscal year 2026 results"
+    ],
+    "summary": "Microsoft announces updates on its partnership with OpenAI and shares results for the first quarter of fiscal year 2026."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSFT",
+   "date": "2025-10-29",
+   "quarter": "Q4",
+   "accession": "0001193125-25-256321",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "cloud service growth",
+     "AI investment",
+     "competitive landscape"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Microsoft highlights strong growth in cloud services and AI investments, while acknowledging competitive pressures and economic uncertainties."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "technology"
+    ],
+    "key_risks": [
+     "intense competition",
+     "rapid technological changes",
+     "business model competition"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Microsoft highlights ongoing challenges from intense competition and rapid technological changes, emphasizing the need to innovate and adapt."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Microsoft reports strong growth in cloud services and AI investments despite facing intense competition and technological challenges."
+   }
+  }
+ ],
+ "2025-12-08": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSFT",
+   "date": "2025-12-08",
+   "accession": "0001193125-25-311196",
+   "items_found": [
+    "5.02",
+    "5.07"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "regulatory",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The text describes the approval of the 2026 Stock Plan at the annual meeting."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "board_change",
+    "market_impact": "neutral",
+    "key_themes": [
+     "leadership continuity signals"
+    ],
+    "summary": "The text describes the approval of the 2026 Stock Plan at the annual meeting without mentioning any management changes."
+   }
+  }
+ ]
+}

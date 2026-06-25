@@ -1,0 +1,5259 @@
+{
+ "2023-01-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.06181,
+  "market_20d_ret": -0.06412,
+  "sector_minus_market": 0.00231,
+  "relation": "leading"
+ },
+ "2023-01-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02891,
+  "market_20d_ret": -0.03962,
+  "sector_minus_market": 0.0107,
+  "relation": "leading"
+ },
+ "2023-01-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00125,
+  "market_20d_ret": -0.03669,
+  "sector_minus_market": 0.03794,
+  "relation": "leading"
+ },
+ "2023-01-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02275,
+  "market_20d_ret": -0.01292,
+  "sector_minus_market": 0.03568,
+  "relation": "leading"
+ },
+ "2023-01-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02646,
+  "market_20d_ret": -0.02115,
+  "sector_minus_market": 0.0476,
+  "relation": "leading"
+ },
+ "2023-01-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03896,
+  "market_20d_ret": -0.00687,
+  "sector_minus_market": 0.04582,
+  "relation": "leading"
+ },
+ "2023-01-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03827,
+  "market_20d_ret": -0.0086,
+  "sector_minus_market": 0.04687,
+  "relation": "leading"
+ },
+ "2023-01-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03234,
+  "market_20d_ret": -0.01246,
+  "sector_minus_market": 0.0448,
+  "relation": "leading"
+ },
+ "2023-01-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04937,
+  "market_20d_ret": -0.00225,
+  "sector_minus_market": 0.05162,
+  "relation": "leading"
+ },
+ "2023-01-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.08172,
+  "market_20d_ret": 0.02089,
+  "sector_minus_market": 0.06083,
+  "relation": "leading"
+ },
+ "2023-01-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06881,
+  "market_20d_ret": 0.02145,
+  "sector_minus_market": 0.04736,
+  "relation": "leading"
+ },
+ "2023-01-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.09998,
+  "market_20d_ret": 0.02268,
+  "sector_minus_market": 0.0773,
+  "relation": "leading"
+ },
+ "2023-01-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.12667,
+  "market_20d_ret": 0.04031,
+  "sector_minus_market": 0.08636,
+  "relation": "leading"
+ },
+ "2023-01-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.13152,
+  "market_20d_ret": 0.03728,
+  "sector_minus_market": 0.09423,
+  "relation": "leading"
+ },
+ "2023-01-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.13815,
+  "market_20d_ret": 0.05117,
+  "sector_minus_market": 0.08698,
+  "relation": "leading"
+ },
+ "2023-01-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.13117,
+  "market_20d_ret": 0.04555,
+  "sector_minus_market": 0.08563,
+  "relation": "leading"
+ },
+ "2023-01-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.15917,
+  "market_20d_ret": 0.06122,
+  "sector_minus_market": 0.09795,
+  "relation": "leading"
+ },
+ "2023-01-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.18445,
+  "market_20d_ret": 0.07705,
+  "sector_minus_market": 0.1074,
+  "relation": "leading"
+ },
+ "2023-01-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.13446,
+  "market_20d_ret": 0.04473,
+  "sector_minus_market": 0.08973,
+  "relation": "leading"
+ },
+ "2023-01-31": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.14774,
+  "market_20d_ret": 0.06289,
+  "sector_minus_market": 0.08485,
+  "relation": "leading"
+ },
+ "2023-02-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.14647,
+  "market_20d_ret": 0.07872,
+  "sector_minus_market": 0.06775,
+  "relation": "leading"
+ },
+ "2023-02-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.19931,
+  "market_20d_ret": 0.08604,
+  "sector_minus_market": 0.11327,
+  "relation": "leading"
+ },
+ "2023-02-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.17362,
+  "market_20d_ret": 0.0869,
+  "sector_minus_market": 0.08672,
+  "relation": "leading"
+ },
+ "2023-02-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.14087,
+  "market_20d_ret": 0.05605,
+  "sector_minus_market": 0.08483,
+  "relation": "leading"
+ },
+ "2023-02-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.16026,
+  "market_20d_ret": 0.07046,
+  "sector_minus_market": 0.0898,
+  "relation": "leading"
+ },
+ "2023-02-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.10714,
+  "market_20d_ret": 0.05139,
+  "sector_minus_market": 0.05576,
+  "relation": "leading"
+ },
+ "2023-02-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07518,
+  "market_20d_ret": 0.02925,
+  "sector_minus_market": 0.04593,
+  "relation": "leading"
+ },
+ "2023-02-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05328,
+  "market_20d_ret": 0.02791,
+  "sector_minus_market": 0.02536,
+  "relation": "leading"
+ },
+ "2023-02-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06476,
+  "market_20d_ret": 0.03596,
+  "sector_minus_market": 0.0288,
+  "relation": "leading"
+ },
+ "2023-02-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0752,
+  "market_20d_ret": 0.03738,
+  "sector_minus_market": 0.03782,
+  "relation": "leading"
+ },
+ "2023-02-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.09838,
+  "market_20d_ret": 0.05745,
+  "sector_minus_market": 0.04093,
+  "relation": "leading"
+ },
+ "2023-02-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07613,
+  "market_20d_ret": 0.05054,
+  "sector_minus_market": 0.0256,
+  "relation": "leading"
+ },
+ "2023-02-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04237,
+  "market_20d_ret": 0.02875,
+  "sector_minus_market": 0.01363,
+  "relation": "leading"
+ },
+ "2023-02-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00185,
+  "market_20d_ret": -0.00384,
+  "sector_minus_market": 0.00569,
+  "relation": "leading"
+ },
+ "2023-02-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00668,
+  "market_20d_ret": -0.00415,
+  "sector_minus_market": 0.01083,
+  "relation": "leading"
+ },
+ "2023-02-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00148,
+  "market_20d_ret": 0.00077,
+  "sector_minus_market": -0.00225,
+  "relation": "lagging"
+ },
+ "2023-02-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03041,
+  "market_20d_ret": -0.02068,
+  "sector_minus_market": -0.00973,
+  "relation": "lagging"
+ },
+ "2023-02-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.034,
+  "market_20d_ret": -0.0196,
+  "sector_minus_market": -0.01441,
+  "relation": "lagging"
+ },
+ "2023-02-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01691,
+  "market_20d_ret": -0.01081,
+  "sector_minus_market": -0.0061,
+  "relation": "lagging"
+ },
+ "2023-03-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03613,
+  "market_20d_ret": -0.02888,
+  "sector_minus_market": -0.00725,
+  "relation": "lagging"
+ },
+ "2023-03-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0384,
+  "market_20d_ret": -0.03162,
+  "sector_minus_market": -0.00678,
+  "relation": "lagging"
+ },
+ "2023-03-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.07796,
+  "market_20d_ret": -0.03021,
+  "sector_minus_market": -0.04775,
+  "relation": "lagging"
+ },
+ "2023-03-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.05911,
+  "market_20d_ret": -0.01911,
+  "sector_minus_market": -0.04,
+  "relation": "lagging"
+ },
+ "2023-03-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.05739,
+  "market_20d_ret": -0.02821,
+  "sector_minus_market": -0.02918,
+  "relation": "lagging"
+ },
+ "2023-03-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0741,
+  "market_20d_ret": -0.03919,
+  "sector_minus_market": -0.03491,
+  "relation": "lagging"
+ },
+ "2023-03-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.06557,
+  "market_20d_ret": -0.04649,
+  "sector_minus_market": -0.01909,
+  "relation": "lagging"
+ },
+ "2023-03-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.05821,
+  "market_20d_ret": -0.05203,
+  "sector_minus_market": -0.00618,
+  "relation": "lagging"
+ },
+ "2023-03-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04913,
+  "market_20d_ret": -0.05558,
+  "sector_minus_market": 0.00646,
+  "relation": "leading"
+ },
+ "2023-03-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03588,
+  "market_20d_ret": -0.05111,
+  "sector_minus_market": 0.01523,
+  "relation": "leading"
+ },
+ "2023-03-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02583,
+  "market_20d_ret": -0.05661,
+  "sector_minus_market": 0.03079,
+  "relation": "leading"
+ },
+ "2023-03-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01297,
+  "market_20d_ret": -0.04317,
+  "sector_minus_market": 0.03019,
+  "relation": "leading"
+ },
+ "2023-03-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00722,
+  "market_20d_ret": -0.0448,
+  "sector_minus_market": 0.03758,
+  "relation": "leading"
+ },
+ "2023-03-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00129,
+  "market_20d_ret": -0.0332,
+  "sector_minus_market": 0.03448,
+  "relation": "leading"
+ },
+ "2023-03-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04571,
+  "market_20d_ret": -0.00045,
+  "sector_minus_market": 0.04616,
+  "relation": "leading"
+ },
+ "2023-03-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02529,
+  "market_20d_ret": -0.01613,
+  "sector_minus_market": 0.04142,
+  "relation": "leading"
+ },
+ "2023-03-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04675,
+  "market_20d_ret": -0.01869,
+  "sector_minus_market": 0.06545,
+  "relation": "leading"
+ },
+ "2023-03-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06696,
+  "market_20d_ret": -0.00159,
+  "sector_minus_market": 0.06855,
+  "relation": "leading"
+ },
+ "2023-03-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05756,
+  "market_20d_ret": -0.00312,
+  "sector_minus_market": 0.06067,
+  "relation": "leading"
+ },
+ "2023-03-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04715,
+  "market_20d_ret": -0.00167,
+  "sector_minus_market": 0.04882,
+  "relation": "leading"
+ },
+ "2023-03-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06922,
+  "market_20d_ret": 0.01675,
+  "sector_minus_market": 0.05247,
+  "relation": "leading"
+ },
+ "2023-03-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06429,
+  "market_20d_ret": 0.01481,
+  "sector_minus_market": 0.04949,
+  "relation": "leading"
+ },
+ "2023-03-31": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06151,
+  "market_20d_ret": 0.01287,
+  "sector_minus_market": 0.04865,
+  "relation": "leading"
+ },
+ "2023-04-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06591,
+  "market_20d_ret": 0.01602,
+  "sector_minus_market": 0.04989,
+  "relation": "leading"
+ },
+ "2023-04-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.08025,
+  "market_20d_ret": 0.02611,
+  "sector_minus_market": 0.05414,
+  "relation": "leading"
+ },
+ "2023-04-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07614,
+  "market_20d_ret": 0.02176,
+  "sector_minus_market": 0.05438,
+  "relation": "leading"
+ },
+ "2023-04-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.11472,
+  "market_20d_ret": 0.04503,
+  "sector_minus_market": 0.06969,
+  "relation": "leading"
+ },
+ "2023-04-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.12822,
+  "market_20d_ret": 0.06141,
+  "sector_minus_market": 0.06681,
+  "relation": "leading"
+ },
+ "2023-04-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.12534,
+  "market_20d_ret": 0.06321,
+  "sector_minus_market": 0.06213,
+  "relation": "leading"
+ },
+ "2023-04-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.08297,
+  "market_20d_ret": 0.04166,
+  "sector_minus_market": 0.04131,
+  "relation": "leading"
+ },
+ "2023-04-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.09374,
+  "market_20d_ret": 0.06214,
+  "sector_minus_market": 0.0316,
+  "relation": "leading"
+ },
+ "2023-04-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06935,
+  "market_20d_ret": 0.04128,
+  "sector_minus_market": 0.02808,
+  "relation": "leading"
+ },
+ "2023-04-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07346,
+  "market_20d_ret": 0.06141,
+  "sector_minus_market": 0.01205,
+  "relation": "leading"
+ },
+ "2023-04-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06007,
+  "market_20d_ret": 0.05199,
+  "sector_minus_market": 0.00808,
+  "relation": "leading"
+ },
+ "2023-04-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03012,
+  "market_20d_ret": 0.03818,
+  "sector_minus_market": -0.00806,
+  "relation": "lagging"
+ },
+ "2023-04-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03768,
+  "market_20d_ret": 0.05042,
+  "sector_minus_market": -0.01273,
+  "relation": "lagging"
+ },
+ "2023-04-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0236,
+  "market_20d_ret": 0.0484,
+  "sector_minus_market": -0.0248,
+  "relation": "lagging"
+ },
+ "2023-04-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0173,
+  "market_20d_ret": 0.04265,
+  "sector_minus_market": -0.02535,
+  "relation": "lagging"
+ },
+ "2023-04-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0071,
+  "market_20d_ret": 0.02419,
+  "sector_minus_market": -0.01709,
+  "relation": "lagging"
+ },
+ "2023-04-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00465,
+  "market_20d_ret": 0.02214,
+  "sector_minus_market": -0.01749,
+  "relation": "lagging"
+ },
+ "2023-04-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04911,
+  "market_20d_ret": 0.02756,
+  "sector_minus_market": 0.02155,
+  "relation": "leading"
+ },
+ "2023-04-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05309,
+  "market_20d_ret": 0.03029,
+  "sector_minus_market": 0.0228,
+  "relation": "leading"
+ },
+ "2023-05-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03312,
+  "market_20d_ret": 0.01495,
+  "sector_minus_market": 0.01817,
+  "relation": "leading"
+ },
+ "2023-05-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00979,
+  "market_20d_ret": -0.00027,
+  "sector_minus_market": 0.01006,
+  "relation": "leading"
+ },
+ "2023-05-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00274,
+  "market_20d_ret": -0.00159,
+  "sector_minus_market": 0.00433,
+  "relation": "leading"
+ },
+ "2023-05-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01014,
+  "market_20d_ret": -0.00606,
+  "sector_minus_market": -0.00408,
+  "relation": "lagging"
+ },
+ "2023-05-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01018,
+  "market_20d_ret": 0.00841,
+  "sector_minus_market": -0.01859,
+  "relation": "lagging"
+ },
+ "2023-05-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00204,
+  "market_20d_ret": 0.00764,
+  "sector_minus_market": -0.0056,
+  "relation": "lagging"
+ },
+ "2023-05-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00171,
+  "market_20d_ret": 0.00295,
+  "sector_minus_market": -0.00466,
+  "relation": "lagging"
+ },
+ "2023-05-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01775,
+  "market_20d_ret": 0.01176,
+  "sector_minus_market": 0.00598,
+  "relation": "leading"
+ },
+ "2023-05-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00692,
+  "market_20d_ret": -0.00324,
+  "sector_minus_market": 0.01016,
+  "relation": "leading"
+ },
+ "2023-05-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0081,
+  "market_20d_ret": -0.00211,
+  "sector_minus_market": 0.01021,
+  "relation": "leading"
+ },
+ "2023-05-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01868,
+  "market_20d_ret": -0.00225,
+  "sector_minus_market": 0.02093,
+  "relation": "leading"
+ },
+ "2023-05-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0227,
+  "market_20d_ret": -0.00956,
+  "sector_minus_market": 0.03226,
+  "relation": "leading"
+ },
+ "2023-05-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04299,
+  "market_20d_ret": 0.00263,
+  "sector_minus_market": 0.04036,
+  "relation": "leading"
+ },
+ "2023-05-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07281,
+  "market_20d_ret": 0.01785,
+  "sector_minus_market": 0.05496,
+  "relation": "leading"
+ },
+ "2023-05-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06448,
+  "market_20d_ret": 0.01557,
+  "sector_minus_market": 0.04891,
+  "relation": "leading"
+ },
+ "2023-05-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07531,
+  "market_20d_ret": 0.01493,
+  "sector_minus_market": 0.06038,
+  "relation": "leading"
+ },
+ "2023-05-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07879,
+  "market_20d_ret": 0.01973,
+  "sector_minus_market": 0.05907,
+  "relation": "leading"
+ },
+ "2023-05-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.08534,
+  "market_20d_ret": 0.01664,
+  "sector_minus_market": 0.06869,
+  "relation": "leading"
+ },
+ "2023-05-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02576,
+  "market_20d_ret": 0.00543,
+  "sector_minus_market": 0.02033,
+  "relation": "leading"
+ },
+ "2023-05-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03773,
+  "market_20d_ret": 0.00983,
+  "sector_minus_market": 0.0279,
+  "relation": "leading"
+ },
+ "2023-05-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03957,
+  "market_20d_ret": 0.01124,
+  "sector_minus_market": 0.02833,
+  "relation": "leading"
+ },
+ "2023-05-31": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05886,
+  "market_20d_ret": 0.01706,
+  "sector_minus_market": 0.0418,
+  "relation": "leading"
+ },
+ "2023-06-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07737,
+  "market_20d_ret": 0.03382,
+  "sector_minus_market": 0.04355,
+  "relation": "leading"
+ },
+ "2023-06-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.09634,
+  "market_20d_ret": 0.05625,
+  "sector_minus_market": 0.04008,
+  "relation": "leading"
+ },
+ "2023-06-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.08555,
+  "market_20d_ret": 0.03507,
+  "sector_minus_market": 0.05048,
+  "relation": "leading"
+ },
+ "2023-06-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07909,
+  "market_20d_ret": 0.03705,
+  "sector_minus_market": 0.04205,
+  "relation": "leading"
+ },
+ "2023-06-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07378,
+  "market_20d_ret": 0.03801,
+  "sector_minus_market": 0.03577,
+  "relation": "leading"
+ },
+ "2023-06-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06975,
+  "market_20d_ret": 0.03943,
+  "sector_minus_market": 0.03031,
+  "relation": "leading"
+ },
+ "2023-06-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0595,
+  "market_20d_ret": 0.04312,
+  "sector_minus_market": 0.01639,
+  "relation": "leading"
+ },
+ "2023-06-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07118,
+  "market_20d_ret": 0.05396,
+  "sector_minus_market": 0.01722,
+  "relation": "leading"
+ },
+ "2023-06-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06968,
+  "market_20d_ret": 0.05726,
+  "sector_minus_market": 0.01242,
+  "relation": "leading"
+ },
+ "2023-06-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07276,
+  "market_20d_ret": 0.06564,
+  "sector_minus_market": 0.00712,
+  "relation": "leading"
+ },
+ "2023-06-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07667,
+  "market_20d_ret": 0.06592,
+  "sector_minus_market": 0.01075,
+  "relation": "leading"
+ },
+ "2023-06-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04891,
+  "market_20d_ret": 0.04826,
+  "sector_minus_market": 0.00066,
+  "relation": "leading"
+ },
+ "2023-06-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04941,
+  "market_20d_ret": 0.04434,
+  "sector_minus_market": 0.00508,
+  "relation": "leading"
+ },
+ "2023-06-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02959,
+  "market_20d_ret": 0.03856,
+  "sector_minus_market": -0.00898,
+  "relation": "lagging"
+ },
+ "2023-06-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05072,
+  "market_20d_ret": 0.05414,
+  "sector_minus_market": -0.00342,
+  "relation": "lagging"
+ },
+ "2023-06-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05325,
+  "market_20d_ret": 0.05381,
+  "sector_minus_market": -0.00056,
+  "relation": "lagging"
+ },
+ "2023-06-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04273,
+  "market_20d_ret": 0.04049,
+  "sector_minus_market": 0.00224,
+  "relation": "leading"
+ },
+ "2023-06-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03917,
+  "market_20d_ret": 0.03845,
+  "sector_minus_market": 0.00072,
+  "relation": "leading"
+ },
+ "2023-06-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04217,
+  "market_20d_ret": 0.03858,
+  "sector_minus_market": 0.00359,
+  "relation": "leading"
+ },
+ "2023-06-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03687,
+  "market_20d_ret": 0.04849,
+  "sector_minus_market": -0.01162,
+  "relation": "lagging"
+ },
+ "2023-06-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03338,
+  "market_20d_ret": 0.05087,
+  "sector_minus_market": -0.01749,
+  "relation": "lagging"
+ },
+ "2023-07-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03556,
+  "market_20d_ret": 0.03709,
+  "sector_minus_market": -0.00153,
+  "relation": "lagging"
+ },
+ "2023-07-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04085,
+  "market_20d_ret": 0.03753,
+  "sector_minus_market": 0.00332,
+  "relation": "leading"
+ },
+ "2023-07-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02841,
+  "market_20d_ret": 0.02717,
+  "sector_minus_market": 0.00123,
+  "relation": "leading"
+ },
+ "2023-07-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03636,
+  "market_20d_ret": 0.02813,
+  "sector_minus_market": 0.00822,
+  "relation": "leading"
+ },
+ "2023-07-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02841,
+  "market_20d_ret": 0.02454,
+  "sector_minus_market": 0.00387,
+  "relation": "leading"
+ },
+ "2023-07-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04599,
+  "market_20d_ret": 0.02922,
+  "sector_minus_market": 0.01678,
+  "relation": "leading"
+ },
+ "2023-07-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04626,
+  "market_20d_ret": 0.02817,
+  "sector_minus_market": 0.01809,
+  "relation": "leading"
+ },
+ "2023-07-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05813,
+  "market_20d_ret": 0.02954,
+  "sector_minus_market": 0.02859,
+  "relation": "leading"
+ },
+ "2023-07-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04635,
+  "market_20d_ret": 0.02768,
+  "sector_minus_market": 0.01867,
+  "relation": "leading"
+ },
+ "2023-07-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02632,
+  "market_20d_ret": 0.01862,
+  "sector_minus_market": 0.0077,
+  "relation": "leading"
+ },
+ "2023-07-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04199,
+  "market_20d_ret": 0.03352,
+  "sector_minus_market": 0.00847,
+  "relation": "leading"
+ },
+ "2023-07-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05005,
+  "market_20d_ret": 0.04122,
+  "sector_minus_market": 0.00883,
+  "relation": "leading"
+ },
+ "2023-07-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03956,
+  "market_20d_ret": 0.03964,
+  "sector_minus_market": -8e-05,
+  "relation": "lagging"
+ },
+ "2023-07-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02118,
+  "market_20d_ret": 0.0359,
+  "sector_minus_market": -0.01471,
+  "relation": "lagging"
+ },
+ "2023-07-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02529,
+  "market_20d_ret": 0.04845,
+  "sector_minus_market": -0.02316,
+  "relation": "lagging"
+ },
+ "2023-07-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03895,
+  "market_20d_ret": 0.05563,
+  "sector_minus_market": -0.01668,
+  "relation": "lagging"
+ },
+ "2023-07-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03768,
+  "market_20d_ret": 0.04434,
+  "sector_minus_market": -0.00666,
+  "relation": "lagging"
+ },
+ "2023-07-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04168,
+  "market_20d_ret": 0.03689,
+  "sector_minus_market": 0.00479,
+  "relation": "leading"
+ },
+ "2023-07-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06798,
+  "market_20d_ret": 0.04293,
+  "sector_minus_market": 0.02505,
+  "relation": "leading"
+ },
+ "2023-07-31": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05701,
+  "market_20d_ret": 0.03273,
+  "sector_minus_market": 0.02427,
+  "relation": "leading"
+ },
+ "2023-08-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05207,
+  "market_20d_ret": 0.02859,
+  "sector_minus_market": 0.02347,
+  "relation": "leading"
+ },
+ "2023-08-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02447,
+  "market_20d_ret": 0.0158,
+  "sector_minus_market": 0.00867,
+  "relation": "leading"
+ },
+ "2023-08-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03002,
+  "market_20d_ret": 0.02088,
+  "sector_minus_market": 0.00914,
+  "relation": "leading"
+ },
+ "2023-08-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03136,
+  "market_20d_ret": 0.01883,
+  "sector_minus_market": 0.01253,
+  "relation": "leading"
+ },
+ "2023-08-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05009,
+  "market_20d_ret": 0.02513,
+  "sector_minus_market": 0.02496,
+  "relation": "leading"
+ },
+ "2023-08-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02924,
+  "market_20d_ret": 0.01422,
+  "sector_minus_market": 0.01502,
+  "relation": "leading"
+ },
+ "2023-08-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00599,
+  "market_20d_ret": -0.00061,
+  "sector_minus_market": 0.00659,
+  "relation": "leading"
+ },
+ "2023-08-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00516,
+  "market_20d_ret": -0.00812,
+  "sector_minus_market": 0.00296,
+  "relation": "leading"
+ },
+ "2023-08-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00045,
+  "market_20d_ret": -0.00808,
+  "sector_minus_market": 0.00763,
+  "relation": "leading"
+ },
+ "2023-08-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01046,
+  "market_20d_ret": -0.00606,
+  "sector_minus_market": 0.01652,
+  "relation": "leading"
+ },
+ "2023-08-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00534,
+  "market_20d_ret": -0.02488,
+  "sector_minus_market": 0.01954,
+  "relation": "leading"
+ },
+ "2023-08-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01998,
+  "market_20d_ret": -0.03418,
+  "sector_minus_market": 0.0142,
+  "relation": "leading"
+ },
+ "2023-08-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01163,
+  "market_20d_ret": -0.03514,
+  "sector_minus_market": 0.02351,
+  "relation": "leading"
+ },
+ "2023-08-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00763,
+  "market_20d_ret": -0.03468,
+  "sector_minus_market": 0.02705,
+  "relation": "leading"
+ },
+ "2023-08-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00228,
+  "market_20d_ret": -0.03272,
+  "sector_minus_market": 0.03043,
+  "relation": "leading"
+ },
+ "2023-08-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00546,
+  "market_20d_ret": -0.03796,
+  "sector_minus_market": 0.0325,
+  "relation": "leading"
+ },
+ "2023-08-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00493,
+  "market_20d_ret": -0.0274,
+  "sector_minus_market": 0.02247,
+  "relation": "leading"
+ },
+ "2023-08-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03216,
+  "market_20d_ret": -0.03448,
+  "sector_minus_market": 0.00232,
+  "relation": "leading"
+ },
+ "2023-08-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04985,
+  "market_20d_ret": -0.0371,
+  "sector_minus_market": -0.01275,
+  "relation": "lagging"
+ },
+ "2023-08-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03794,
+  "market_20d_ret": -0.03283,
+  "sector_minus_market": -0.00511,
+  "relation": "lagging"
+ },
+ "2023-08-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01528,
+  "market_20d_ret": -0.01604,
+  "sector_minus_market": 0.00075,
+  "relation": "leading"
+ },
+ "2023-08-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00371,
+  "market_20d_ret": 0.00196,
+  "sector_minus_market": 0.00175,
+  "relation": "leading"
+ },
+ "2023-08-31": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00729,
+  "market_20d_ret": 0.00336,
+  "sector_minus_market": 0.00392,
+  "relation": "leading"
+ },
+ "2023-09-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00015,
+  "market_20d_ret": 0.0098,
+  "sector_minus_market": -0.00965,
+  "relation": "lagging"
+ },
+ "2023-09-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01526,
+  "market_20d_ret": -0.00326,
+  "sector_minus_market": -0.012,
+  "relation": "lagging"
+ },
+ "2023-09-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0156,
+  "market_20d_ret": -0.00564,
+  "sector_minus_market": -0.00996,
+  "relation": "lagging"
+ },
+ "2023-09-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0067,
+  "market_20d_ret": -0.00202,
+  "sector_minus_market": -0.00468,
+  "relation": "lagging"
+ },
+ "2023-09-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00712,
+  "market_20d_ret": -0.00087,
+  "sector_minus_market": -0.00624,
+  "relation": "lagging"
+ },
+ "2023-09-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01266,
+  "market_20d_ret": 0.00628,
+  "sector_minus_market": 0.00638,
+  "relation": "leading"
+ },
+ "2023-09-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00518,
+  "market_20d_ret": -0.00473,
+  "sector_minus_market": -0.00045,
+  "relation": "lagging"
+ },
+ "2023-09-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00701,
+  "market_20d_ret": 0.00817,
+  "sector_minus_market": -0.00116,
+  "relation": "lagging"
+ },
+ "2023-09-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03338,
+  "market_20d_ret": 0.02438,
+  "sector_minus_market": 0.009,
+  "relation": "leading"
+ },
+ "2023-09-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03147,
+  "market_20d_ret": 0.01623,
+  "sector_minus_market": 0.01525,
+  "relation": "leading"
+ },
+ "2023-09-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0384,
+  "market_20d_ret": 0.01633,
+  "sector_minus_market": 0.02206,
+  "relation": "leading"
+ },
+ "2023-09-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03171,
+  "market_20d_ret": 0.00767,
+  "sector_minus_market": 0.02404,
+  "relation": "leading"
+ },
+ "2023-09-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01764,
+  "market_20d_ret": 0.00112,
+  "sector_minus_market": 0.01652,
+  "relation": "leading"
+ },
+ "2023-09-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0109,
+  "market_20d_ret": -0.02627,
+  "sector_minus_market": 0.01537,
+  "relation": "leading"
+ },
+ "2023-09-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00725,
+  "market_20d_ret": -0.01481,
+  "sector_minus_market": 0.02206,
+  "relation": "leading"
+ },
+ "2023-09-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00863,
+  "market_20d_ret": -0.01759,
+  "sector_minus_market": 0.02622,
+  "relation": "leading"
+ },
+ "2023-09-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01462,
+  "market_20d_ret": -0.03812,
+  "sector_minus_market": 0.0235,
+  "relation": "leading"
+ },
+ "2023-09-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03352,
+  "market_20d_ret": -0.05145,
+  "sector_minus_market": 0.01794,
+  "relation": "leading"
+ },
+ "2023-09-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02299,
+  "market_20d_ret": -0.04987,
+  "sector_minus_market": 0.02688,
+  "relation": "leading"
+ },
+ "2023-09-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02948,
+  "market_20d_ret": -0.05078,
+  "sector_minus_market": 0.02131,
+  "relation": "leading"
+ },
+ "2023-10-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01304,
+  "market_20d_ret": -0.05293,
+  "sector_minus_market": 0.03988,
+  "relation": "leading"
+ },
+ "2023-10-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0262,
+  "market_20d_ret": -0.06155,
+  "sector_minus_market": 0.03535,
+  "relation": "leading"
+ },
+ "2023-10-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01384,
+  "market_20d_ret": -0.04832,
+  "sector_minus_market": 0.03447,
+  "relation": "leading"
+ },
+ "2023-10-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01342,
+  "market_20d_ret": -0.04575,
+  "sector_minus_market": 0.03232,
+  "relation": "leading"
+ },
+ "2023-10-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00175,
+  "market_20d_ret": -0.03587,
+  "sector_minus_market": 0.03761,
+  "relation": "leading"
+ },
+ "2023-10-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00252,
+  "market_20d_ret": -0.03604,
+  "sector_minus_market": 0.03352,
+  "relation": "leading"
+ },
+ "2023-10-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01382,
+  "market_20d_ret": -0.02567,
+  "sector_minus_market": 0.0395,
+  "relation": "leading"
+ },
+ "2023-10-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01973,
+  "market_20d_ret": -0.02282,
+  "sector_minus_market": 0.04255,
+  "relation": "leading"
+ },
+ "2023-10-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00615,
+  "market_20d_ret": -0.03708,
+  "sector_minus_market": 0.03093,
+  "relation": "leading"
+ },
+ "2023-10-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00404,
+  "market_20d_ret": -0.02677,
+  "sector_minus_market": 0.02273,
+  "relation": "leading"
+ },
+ "2023-10-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01128,
+  "market_20d_ret": -0.01711,
+  "sector_minus_market": 0.02839,
+  "relation": "leading"
+ },
+ "2023-10-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01409,
+  "market_20d_ret": -0.01511,
+  "sector_minus_market": 0.0292,
+  "relation": "leading"
+ },
+ "2023-10-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01037,
+  "market_20d_ret": -0.01922,
+  "sector_minus_market": 0.02959,
+  "relation": "leading"
+ },
+ "2023-10-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02192,
+  "market_20d_ret": -0.0115,
+  "sector_minus_market": 0.03342,
+  "relation": "leading"
+ },
+ "2023-10-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01372,
+  "market_20d_ret": -0.02144,
+  "sector_minus_market": 0.03516,
+  "relation": "leading"
+ },
+ "2023-10-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01657,
+  "market_20d_ret": -0.02723,
+  "sector_minus_market": 0.0438,
+  "relation": "leading"
+ },
+ "2023-10-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04012,
+  "market_20d_ret": -0.00528,
+  "sector_minus_market": 0.04541,
+  "relation": "leading"
+ },
+ "2023-10-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00751,
+  "market_20d_ret": -0.01995,
+  "sector_minus_market": 0.01244,
+  "relation": "leading"
+ },
+ "2023-10-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03973,
+  "market_20d_ret": -0.03727,
+  "sector_minus_market": -0.00247,
+  "relation": "lagging"
+ },
+ "2023-10-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03782,
+  "market_20d_ret": -0.0393,
+  "sector_minus_market": 0.00148,
+  "relation": "leading"
+ },
+ "2023-10-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02528,
+  "market_20d_ret": -0.02743,
+  "sector_minus_market": 0.00215,
+  "relation": "leading"
+ },
+ "2023-10-31": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0069,
+  "market_20d_ret": -0.00804,
+  "sector_minus_market": 0.00114,
+  "relation": "leading"
+ },
+ "2023-11-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00182,
+  "market_20d_ret": -0.00471,
+  "sector_minus_market": 0.00289,
+  "relation": "leading"
+ },
+ "2023-11-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01279,
+  "market_20d_ret": 0.01475,
+  "sector_minus_market": -0.00196,
+  "relation": "lagging"
+ },
+ "2023-11-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00971,
+  "market_20d_ret": 0.01199,
+  "sector_minus_market": -0.00227,
+  "relation": "lagging"
+ },
+ "2023-11-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0037,
+  "market_20d_ret": 0.00787,
+  "sector_minus_market": -0.01156,
+  "relation": "lagging"
+ },
+ "2023-11-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00412,
+  "market_20d_ret": 0.0055,
+  "sector_minus_market": -0.00962,
+  "relation": "lagging"
+ },
+ "2023-11-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01777,
+  "market_20d_ret": 0.00213,
+  "sector_minus_market": -0.01991,
+  "relation": "lagging"
+ },
+ "2023-11-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00634,
+  "market_20d_ret": 0.00042,
+  "sector_minus_market": -0.00675,
+  "relation": "lagging"
+ },
+ "2023-11-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02087,
+  "market_20d_ret": 0.02111,
+  "sector_minus_market": -0.00024,
+  "relation": "lagging"
+ },
+ "2023-11-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00249,
+  "market_20d_ret": 0.00952,
+  "sector_minus_market": -0.00702,
+  "relation": "lagging"
+ },
+ "2023-11-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01521,
+  "market_20d_ret": 0.02915,
+  "sector_minus_market": -0.01394,
+  "relation": "lagging"
+ },
+ "2023-11-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03809,
+  "market_20d_ret": 0.04526,
+  "sector_minus_market": -0.00717,
+  "relation": "lagging"
+ },
+ "2023-11-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04379,
+  "market_20d_ret": 0.05581,
+  "sector_minus_market": -0.01202,
+  "relation": "lagging"
+ },
+ "2023-11-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05337,
+  "market_20d_ret": 0.07028,
+  "sector_minus_market": -0.01691,
+  "relation": "lagging"
+ },
+ "2023-11-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05967,
+  "market_20d_ret": 0.08039,
+  "sector_minus_market": -0.02072,
+  "relation": "lagging"
+ },
+ "2023-11-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04375,
+  "market_20d_ret": 0.06997,
+  "sector_minus_market": -0.02622,
+  "relation": "lagging"
+ },
+ "2023-11-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.09995,
+  "market_20d_ret": 0.08974,
+  "sector_minus_market": 0.01022,
+  "relation": "leading"
+ },
+ "2023-11-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.12066,
+  "market_20d_ret": 0.10362,
+  "sector_minus_market": 0.01703,
+  "relation": "leading"
+ },
+ "2023-11-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.11777,
+  "market_20d_ret": 0.10665,
+  "sector_minus_market": 0.01112,
+  "relation": "leading"
+ },
+ "2023-11-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.09784,
+  "market_20d_ret": 0.09466,
+  "sector_minus_market": 0.00318,
+  "relation": "leading"
+ },
+ "2023-11-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.08436,
+  "market_20d_ret": 0.08706,
+  "sector_minus_market": -0.0027,
+  "relation": "lagging"
+ },
+ "2023-11-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06243,
+  "market_20d_ret": 0.07983,
+  "sector_minus_market": -0.01739,
+  "relation": "lagging"
+ },
+ "2023-12-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05065,
+  "market_20d_ret": 0.06579,
+  "sector_minus_market": -0.01514,
+  "relation": "lagging"
+ },
+ "2023-12-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02442,
+  "market_20d_ret": 0.05061,
+  "sector_minus_market": -0.02619,
+  "relation": "lagging"
+ },
+ "2023-12-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02241,
+  "market_20d_ret": 0.04799,
+  "sector_minus_market": -0.02558,
+  "relation": "lagging"
+ },
+ "2023-12-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01432,
+  "market_20d_ret": 0.04081,
+  "sector_minus_market": -0.02649,
+  "relation": "lagging"
+ },
+ "2023-12-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04049,
+  "market_20d_ret": 0.04798,
+  "sector_minus_market": -0.00749,
+  "relation": "lagging"
+ },
+ "2023-12-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0457,
+  "market_20d_ret": 0.06076,
+  "sector_minus_market": -0.01506,
+  "relation": "lagging"
+ },
+ "2023-12-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02147,
+  "market_20d_ret": 0.04852,
+  "sector_minus_market": -0.02705,
+  "relation": "lagging"
+ },
+ "2023-12-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02796,
+  "market_20d_ret": 0.05432,
+  "sector_minus_market": -0.02636,
+  "relation": "lagging"
+ },
+ "2023-12-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02103,
+  "market_20d_ret": 0.04851,
+  "sector_minus_market": -0.02749,
+  "relation": "lagging"
+ },
+ "2023-12-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0205,
+  "market_20d_ret": 0.04966,
+  "sector_minus_market": -0.02916,
+  "relation": "lagging"
+ },
+ "2023-12-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01341,
+  "market_20d_ret": 0.04242,
+  "sector_minus_market": -0.02901,
+  "relation": "lagging"
+ },
+ "2023-12-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02606,
+  "market_20d_ret": 0.04698,
+  "sector_minus_market": -0.02092,
+  "relation": "lagging"
+ },
+ "2023-12-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02495,
+  "market_20d_ret": 0.0453,
+  "sector_minus_market": -0.02035,
+  "relation": "lagging"
+ },
+ "2023-12-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02048,
+  "market_20d_ret": 0.03307,
+  "sector_minus_market": -0.01259,
+  "relation": "lagging"
+ },
+ "2023-12-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02217,
+  "market_20d_ret": 0.03886,
+  "sector_minus_market": -0.01669,
+  "relation": "lagging"
+ },
+ "2023-12-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02577,
+  "market_20d_ret": 0.0403,
+  "sector_minus_market": -0.01454,
+  "relation": "lagging"
+ },
+ "2023-12-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03615,
+  "market_20d_ret": 0.04658,
+  "sector_minus_market": -0.01043,
+  "relation": "lagging"
+ },
+ "2023-12-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0338,
+  "market_20d_ret": 0.04744,
+  "sector_minus_market": -0.01364,
+  "relation": "lagging"
+ },
+ "2023-12-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04417,
+  "market_20d_ret": 0.04857,
+  "sector_minus_market": -0.0044,
+  "relation": "lagging"
+ },
+ "2023-12-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04398,
+  "market_20d_ret": 0.04143,
+  "sector_minus_market": 0.00255,
+  "relation": "leading"
+ },
+ "2024-01-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03601,
+  "market_20d_ret": 0.02951,
+  "sector_minus_market": 0.0065,
+  "relation": "leading"
+ },
+ "2024-01-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04258,
+  "market_20d_ret": 0.0265,
+  "sector_minus_market": 0.01608,
+  "relation": "leading"
+ },
+ "2024-01-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04393,
+  "market_20d_ret": 0.02339,
+  "sector_minus_market": 0.02054,
+  "relation": "leading"
+ },
+ "2024-01-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05104,
+  "market_20d_ret": 0.02894,
+  "sector_minus_market": 0.0221,
+  "relation": "leading"
+ },
+ "2024-01-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04547,
+  "market_20d_ret": 0.03572,
+  "sector_minus_market": 0.00975,
+  "relation": "leading"
+ },
+ "2024-01-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03844,
+  "market_20d_ret": 0.02973,
+  "sector_minus_market": 0.00871,
+  "relation": "leading"
+ },
+ "2024-01-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0562,
+  "market_20d_ret": 0.03154,
+  "sector_minus_market": 0.02467,
+  "relation": "leading"
+ },
+ "2024-01-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04842,
+  "market_20d_ret": 0.0264,
+  "sector_minus_market": 0.02202,
+  "relation": "leading"
+ },
+ "2024-01-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04375,
+  "market_20d_ret": 0.01313,
+  "sector_minus_market": 0.03061,
+  "relation": "leading"
+ },
+ "2024-01-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03329,
+  "market_20d_ret": 0.00619,
+  "sector_minus_market": 0.0271,
+  "relation": "leading"
+ },
+ "2024-01-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02956,
+  "market_20d_ret": 0.00631,
+  "sector_minus_market": 0.02325,
+  "relation": "leading"
+ },
+ "2024-01-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02942,
+  "market_20d_ret": 0.00958,
+  "sector_minus_market": 0.01984,
+  "relation": "leading"
+ },
+ "2024-01-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03285,
+  "market_20d_ret": 0.01598,
+  "sector_minus_market": 0.01687,
+  "relation": "leading"
+ },
+ "2024-01-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04298,
+  "market_20d_ret": 0.03244,
+  "sector_minus_market": 0.01054,
+  "relation": "leading"
+ },
+ "2024-01-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04298,
+  "market_20d_ret": 0.02572,
+  "sector_minus_market": 0.01725,
+  "relation": "leading"
+ },
+ "2024-01-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0493,
+  "market_20d_ret": 0.02479,
+  "sector_minus_market": 0.02452,
+  "relation": "leading"
+ },
+ "2024-01-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06229,
+  "market_20d_ret": 0.02603,
+  "sector_minus_market": 0.03626,
+  "relation": "leading"
+ },
+ "2024-01-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06557,
+  "market_20d_ret": 0.02287,
+  "sector_minus_market": 0.04269,
+  "relation": "leading"
+ },
+ "2024-01-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07155,
+  "market_20d_ret": 0.03059,
+  "sector_minus_market": 0.04096,
+  "relation": "leading"
+ },
+ "2024-01-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07074,
+  "market_20d_ret": 0.03278,
+  "sector_minus_market": 0.03796,
+  "relation": "leading"
+ },
+ "2024-01-31": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05024,
+  "market_20d_ret": 0.02164,
+  "sector_minus_market": 0.0286,
+  "relation": "leading"
+ },
+ "2024-02-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06502,
+  "market_20d_ret": 0.04354,
+  "sector_minus_market": 0.02148,
+  "relation": "leading"
+ },
+ "2024-02-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.11151,
+  "market_20d_ret": 0.05793,
+  "sector_minus_market": 0.05358,
+  "relation": "leading"
+ },
+ "2024-02-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.09134,
+  "market_20d_ret": 0.05264,
+  "sector_minus_market": 0.0387,
+  "relation": "leading"
+ },
+ "2024-02-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07135,
+  "market_20d_ret": 0.04083,
+  "sector_minus_market": 0.03052,
+  "relation": "leading"
+ },
+ "2024-02-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07903,
+  "market_20d_ret": 0.05111,
+  "sector_minus_market": 0.02792,
+  "relation": "leading"
+ },
+ "2024-02-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07314,
+  "market_20d_ret": 0.04566,
+  "sector_minus_market": 0.02748,
+  "relation": "leading"
+ },
+ "2024-02-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07788,
+  "market_20d_ret": 0.05217,
+  "sector_minus_market": 0.02571,
+  "relation": "leading"
+ },
+ "2024-02-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07601,
+  "market_20d_ret": 0.05098,
+  "sector_minus_market": 0.02503,
+  "relation": "leading"
+ },
+ "2024-02-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0669,
+  "market_20d_ret": 0.04032,
+  "sector_minus_market": 0.02658,
+  "relation": "leading"
+ },
+ "2024-02-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.09062,
+  "market_20d_ret": 0.05564,
+  "sector_minus_market": 0.03498,
+  "relation": "leading"
+ },
+ "2024-02-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.08628,
+  "market_20d_ret": 0.05356,
+  "sector_minus_market": 0.03272,
+  "relation": "leading"
+ },
+ "2024-02-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05506,
+  "market_20d_ret": 0.0354,
+  "sector_minus_market": 0.01965,
+  "relation": "leading"
+ },
+ "2024-02-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05135,
+  "market_20d_ret": 0.02753,
+  "sector_minus_market": 0.02382,
+  "relation": "leading"
+ },
+ "2024-02-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03988,
+  "market_20d_ret": 0.02547,
+  "sector_minus_market": 0.01441,
+  "relation": "leading"
+ },
+ "2024-02-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04896,
+  "market_20d_ret": 0.04555,
+  "sector_minus_market": 0.00341,
+  "relation": "leading"
+ },
+ "2024-02-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02957,
+  "market_20d_ret": 0.04061,
+  "sector_minus_market": -0.01104,
+  "relation": "lagging"
+ },
+ "2024-02-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01133,
+  "market_20d_ret": 0.03812,
+  "sector_minus_market": -0.02679,
+  "relation": "lagging"
+ },
+ "2024-02-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01111,
+  "market_20d_ret": 0.03188,
+  "sector_minus_market": -0.02077,
+  "relation": "lagging"
+ },
+ "2024-02-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01105,
+  "market_20d_ret": 0.03131,
+  "sector_minus_market": -0.02026,
+  "relation": "lagging"
+ },
+ "2024-02-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04586,
+  "market_20d_ret": 0.05219,
+  "sector_minus_market": -0.00633,
+  "relation": "lagging"
+ },
+ "2024-03-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04383,
+  "market_20d_ret": 0.04834,
+  "sector_minus_market": -0.00451,
+  "relation": "lagging"
+ },
+ "2024-03-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00966,
+  "market_20d_ret": 0.03631,
+  "sector_minus_market": -0.04597,
+  "relation": "lagging"
+ },
+ "2024-03-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00369,
+  "market_20d_ret": 0.0297,
+  "sector_minus_market": -0.03339,
+  "relation": "lagging"
+ },
+ "2024-03-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00077,
+  "market_20d_ret": 0.03192,
+  "sector_minus_market": -0.03116,
+  "relation": "lagging"
+ },
+ "2024-03-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0118,
+  "market_20d_ret": 0.03355,
+  "sector_minus_market": -0.02174,
+  "relation": "lagging"
+ },
+ "2024-03-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00645,
+  "market_20d_ret": 0.02689,
+  "sector_minus_market": -0.02044,
+  "relation": "lagging"
+ },
+ "2024-03-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00341,
+  "market_20d_ret": 0.02011,
+  "sector_minus_market": -0.0167,
+  "relation": "lagging"
+ },
+ "2024-03-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00907,
+  "market_20d_ret": 0.03154,
+  "sector_minus_market": -0.02247,
+  "relation": "lagging"
+ },
+ "2024-03-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02529,
+  "market_20d_ret": 0.0443,
+  "sector_minus_market": -0.01902,
+  "relation": "lagging"
+ },
+ "2024-03-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00679,
+  "market_20d_ret": 0.03285,
+  "sector_minus_market": -0.02607,
+  "relation": "lagging"
+ },
+ "2024-03-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01135,
+  "market_20d_ret": 0.01558,
+  "sector_minus_market": -0.02692,
+  "relation": "lagging"
+ },
+ "2024-03-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02493,
+  "market_20d_ret": 0.02673,
+  "sector_minus_market": -0.00179,
+  "relation": "lagging"
+ },
+ "2024-03-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02611,
+  "market_20d_ret": 0.03815,
+  "sector_minus_market": -0.01204,
+  "relation": "lagging"
+ },
+ "2024-03-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03938,
+  "market_20d_ret": 0.0468,
+  "sector_minus_market": -0.00742,
+  "relation": "lagging"
+ },
+ "2024-03-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02441,
+  "market_20d_ret": 0.02897,
+  "sector_minus_market": -0.00455,
+  "relation": "lagging"
+ },
+ "2024-03-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02912,
+  "market_20d_ret": 0.02631,
+  "sector_minus_market": 0.00281,
+  "relation": "leading"
+ },
+ "2024-03-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04074,
+  "market_20d_ret": 0.02723,
+  "sector_minus_market": 0.01351,
+  "relation": "leading"
+ },
+ "2024-03-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03018,
+  "market_20d_ret": 0.02344,
+  "sector_minus_market": 0.00674,
+  "relation": "leading"
+ },
+ "2024-03-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04261,
+  "market_20d_ret": 0.0334,
+  "sector_minus_market": 0.0092,
+  "relation": "leading"
+ },
+ "2024-03-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03177,
+  "market_20d_ret": 0.0295,
+  "sector_minus_market": 0.00226,
+  "relation": "leading"
+ },
+ "2024-04-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03115,
+  "market_20d_ret": 0.01815,
+  "sector_minus_market": 0.013,
+  "relation": "leading"
+ },
+ "2024-04-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04321,
+  "market_20d_ret": 0.01277,
+  "sector_minus_market": 0.03044,
+  "relation": "leading"
+ },
+ "2024-04-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06006,
+  "market_20d_ret": 0.02411,
+  "sector_minus_market": 0.03594,
+  "relation": "leading"
+ },
+ "2024-04-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04425,
+  "market_20d_ret": 0.00651,
+  "sector_minus_market": 0.03774,
+  "relation": "leading"
+ },
+ "2024-04-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03805,
+  "market_20d_ret": 0.00703,
+  "sector_minus_market": 0.03102,
+  "relation": "leading"
+ },
+ "2024-04-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03975,
+  "market_20d_ret": 0.01368,
+  "sector_minus_market": 0.02607,
+  "relation": "leading"
+ },
+ "2024-04-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04284,
+  "market_20d_ret": 0.01573,
+  "sector_minus_market": 0.02712,
+  "relation": "leading"
+ },
+ "2024-04-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0256,
+  "market_20d_ret": -0.00515,
+  "sector_minus_market": 0.03075,
+  "relation": "leading"
+ },
+ "2024-04-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03281,
+  "market_20d_ret": 0.00393,
+  "sector_minus_market": 0.02887,
+  "relation": "leading"
+ },
+ "2024-04-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01823,
+  "market_20d_ret": -0.00796,
+  "sector_minus_market": 0.02619,
+  "relation": "leading"
+ },
+ "2024-04-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01548,
+  "market_20d_ret": -0.01055,
+  "sector_minus_market": 0.02603,
+  "relation": "leading"
+ },
+ "2024-04-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0083,
+  "market_20d_ret": -0.01819,
+  "sector_minus_market": 0.00989,
+  "relation": "leading"
+ },
+ "2024-04-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0088,
+  "market_20d_ret": -0.0294,
+  "sector_minus_market": 0.0206,
+  "relation": "leading"
+ },
+ "2024-04-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01556,
+  "market_20d_ret": -0.04027,
+  "sector_minus_market": 0.02471,
+  "relation": "leading"
+ },
+ "2024-04-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0267,
+  "market_20d_ret": -0.05178,
+  "sector_minus_market": 0.02508,
+  "relation": "leading"
+ },
+ "2024-04-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02738,
+  "market_20d_ret": -0.04123,
+  "sector_minus_market": 0.01385,
+  "relation": "leading"
+ },
+ "2024-04-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0092,
+  "market_20d_ret": -0.02717,
+  "sector_minus_market": 0.01797,
+  "relation": "leading"
+ },
+ "2024-04-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00651,
+  "market_20d_ret": -0.02583,
+  "sector_minus_market": 0.01931,
+  "relation": "leading"
+ },
+ "2024-04-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04683,
+  "market_20d_ret": -0.03762,
+  "sector_minus_market": -0.00921,
+  "relation": "lagging"
+ },
+ "2024-04-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01898,
+  "market_20d_ret": -0.02831,
+  "sector_minus_market": 0.00933,
+  "relation": "leading"
+ },
+ "2024-04-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03779,
+  "market_20d_ret": -0.02317,
+  "sector_minus_market": -0.01462,
+  "relation": "lagging"
+ },
+ "2024-04-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.05234,
+  "market_20d_ret": -0.0325,
+  "sector_minus_market": -0.01984,
+  "relation": "lagging"
+ },
+ "2024-05-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.05108,
+  "market_20d_ret": -0.0367,
+  "sector_minus_market": -0.01439,
+  "relation": "lagging"
+ },
+ "2024-05-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0284,
+  "market_20d_ret": -0.01567,
+  "sector_minus_market": -0.01273,
+  "relation": "lagging"
+ },
+ "2024-05-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02799,
+  "market_20d_ret": -0.01377,
+  "sector_minus_market": -0.01422,
+  "relation": "lagging"
+ },
+ "2024-05-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0149,
+  "market_20d_ret": -0.00414,
+  "sector_minus_market": -0.01076,
+  "relation": "lagging"
+ },
+ "2024-05-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01489,
+  "market_20d_ret": -0.0042,
+  "sector_minus_market": -0.01069,
+  "relation": "lagging"
+ },
+ "2024-05-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00866,
+  "market_20d_ret": 0.00597,
+  "sector_minus_market": -0.01463,
+  "relation": "lagging"
+ },
+ "2024-05-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01234,
+  "market_20d_ret": 0.00419,
+  "sector_minus_market": -0.01652,
+  "relation": "lagging"
+ },
+ "2024-05-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00566,
+  "market_20d_ret": 0.01956,
+  "sector_minus_market": -0.0139,
+  "relation": "lagging"
+ },
+ "2024-05-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01669,
+  "market_20d_ret": 0.03263,
+  "sector_minus_market": -0.01594,
+  "relation": "lagging"
+ },
+ "2024-05-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02474,
+  "market_20d_ret": 0.03926,
+  "sector_minus_market": -0.01452,
+  "relation": "lagging"
+ },
+ "2024-05-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03214,
+  "market_20d_ret": 0.0584,
+  "sector_minus_market": -0.02625,
+  "relation": "lagging"
+ },
+ "2024-05-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02638,
+  "market_20d_ret": 0.0584,
+  "sector_minus_market": -0.03201,
+  "relation": "lagging"
+ },
+ "2024-05-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03951,
+  "market_20d_ret": 0.06925,
+  "sector_minus_market": -0.02974,
+  "relation": "lagging"
+ },
+ "2024-05-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04109,
+  "market_20d_ret": 0.06071,
+  "sector_minus_market": -0.01962,
+  "relation": "lagging"
+ },
+ "2024-05-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02414,
+  "market_20d_ret": 0.05085,
+  "sector_minus_market": -0.02671,
+  "relation": "lagging"
+ },
+ "2024-05-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02474,
+  "market_20d_ret": 0.04832,
+  "sector_minus_market": -0.02358,
+  "relation": "lagging"
+ },
+ "2024-05-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05054,
+  "market_20d_ret": 0.04463,
+  "sector_minus_market": 0.00591,
+  "relation": "leading"
+ },
+ "2024-05-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03545,
+  "market_20d_ret": 0.04167,
+  "sector_minus_market": -0.00622,
+  "relation": "lagging"
+ },
+ "2024-05-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04938,
+  "market_20d_ret": 0.03872,
+  "sector_minus_market": 0.01066,
+  "relation": "leading"
+ },
+ "2024-05-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06152,
+  "market_20d_ret": 0.04805,
+  "sector_minus_market": 0.01347,
+  "relation": "leading"
+ },
+ "2024-05-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04836,
+  "market_20d_ret": 0.04449,
+  "sector_minus_market": 0.00387,
+  "relation": "leading"
+ },
+ "2024-05-31": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04901,
+  "market_20d_ret": 0.04423,
+  "sector_minus_market": 0.00478,
+  "relation": "leading"
+ },
+ "2024-06-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04214,
+  "market_20d_ret": 0.03229,
+  "sector_minus_market": 0.00985,
+  "relation": "leading"
+ },
+ "2024-06-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0321,
+  "market_20d_ret": 0.02288,
+  "sector_minus_market": 0.00922,
+  "relation": "leading"
+ },
+ "2024-06-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04349,
+  "market_20d_ret": 0.0339,
+  "sector_minus_market": 0.0096,
+  "relation": "leading"
+ },
+ "2024-06-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04578,
+  "market_20d_ret": 0.03378,
+  "sector_minus_market": 0.012,
+  "relation": "leading"
+ },
+ "2024-06-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03343,
+  "market_20d_ret": 0.02661,
+  "sector_minus_market": 0.00682,
+  "relation": "leading"
+ },
+ "2024-06-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03448,
+  "market_20d_ret": 0.02845,
+  "sector_minus_market": 0.00602,
+  "relation": "leading"
+ },
+ "2024-06-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03834,
+  "market_20d_ret": 0.03079,
+  "sector_minus_market": 0.00755,
+  "relation": "leading"
+ },
+ "2024-06-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03146,
+  "market_20d_ret": 0.03451,
+  "sector_minus_market": -0.00305,
+  "relation": "lagging"
+ },
+ "2024-06-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01612,
+  "market_20d_ret": 0.02392,
+  "sector_minus_market": -0.0078,
+  "relation": "lagging"
+ },
+ "2024-06-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02013,
+  "market_20d_ret": 0.02665,
+  "sector_minus_market": -0.00652,
+  "relation": "lagging"
+ },
+ "2024-06-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02324,
+  "market_20d_ret": 0.03334,
+  "sector_minus_market": -0.01009,
+  "relation": "lagging"
+ },
+ "2024-06-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01424,
+  "market_20d_ret": 0.03477,
+  "sector_minus_market": -0.02053,
+  "relation": "lagging"
+ },
+ "2024-06-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01994,
+  "market_20d_ret": 0.02943,
+  "sector_minus_market": -0.00949,
+  "relation": "lagging"
+ },
+ "2024-06-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02535,
+  "market_20d_ret": 0.02771,
+  "sector_minus_market": -0.00236,
+  "relation": "lagging"
+ },
+ "2024-06-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0406,
+  "market_20d_ret": 0.0319,
+  "sector_minus_market": 0.00869,
+  "relation": "leading"
+ },
+ "2024-06-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03891,
+  "market_20d_ret": 0.02907,
+  "sector_minus_market": 0.00984,
+  "relation": "leading"
+ },
+ "2024-06-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03728,
+  "market_20d_ret": 0.02963,
+  "sector_minus_market": 0.00764,
+  "relation": "leading"
+ },
+ "2024-06-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04874,
+  "market_20d_ret": 0.03853,
+  "sector_minus_market": 0.01021,
+  "relation": "leading"
+ },
+ "2024-06-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04256,
+  "market_20d_ret": 0.04135,
+  "sector_minus_market": 0.00121,
+  "relation": "leading"
+ },
+ "2024-07-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02721,
+  "market_20d_ret": 0.03407,
+  "sector_minus_market": -0.00686,
+  "relation": "lagging"
+ },
+ "2024-07-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03227,
+  "market_20d_ret": 0.04019,
+  "sector_minus_market": -0.00791,
+  "relation": "lagging"
+ },
+ "2024-07-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02869,
+  "market_20d_ret": 0.04366,
+  "sector_minus_market": -0.01497,
+  "relation": "lagging"
+ },
+ "2024-07-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03605,
+  "market_20d_ret": 0.03735,
+  "sector_minus_market": -0.0013,
+  "relation": "lagging"
+ },
+ "2024-07-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02612,
+  "market_20d_ret": 0.03857,
+  "sector_minus_market": -0.01244,
+  "relation": "lagging"
+ },
+ "2024-07-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03638,
+  "market_20d_ret": 0.04084,
+  "sector_minus_market": -0.00446,
+  "relation": "lagging"
+ },
+ "2024-07-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04033,
+  "market_20d_ret": 0.0479,
+  "sector_minus_market": -0.00758,
+  "relation": "lagging"
+ },
+ "2024-07-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02417,
+  "market_20d_ret": 0.03637,
+  "sector_minus_market": -0.0122,
+  "relation": "lagging"
+ },
+ "2024-07-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02303,
+  "market_20d_ret": 0.03441,
+  "sector_minus_market": -0.01138,
+  "relation": "lagging"
+ },
+ "2024-07-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03564,
+  "market_20d_ret": 0.03517,
+  "sector_minus_market": 0.00047,
+  "relation": "leading"
+ },
+ "2024-07-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03506,
+  "market_20d_ret": 0.04068,
+  "sector_minus_market": -0.00562,
+  "relation": "lagging"
+ },
+ "2024-07-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01462,
+  "market_20d_ret": 0.01799,
+  "sector_minus_market": -0.00336,
+  "relation": "lagging"
+ },
+ "2024-07-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02006,
+  "market_20d_ret": 0.0076,
+  "sector_minus_market": 0.01246,
+  "relation": "leading"
+ },
+ "2024-07-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0112,
+  "market_20d_ret": 0.00364,
+  "sector_minus_market": 0.00756,
+  "relation": "leading"
+ },
+ "2024-07-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0089,
+  "market_20d_ret": 0.01862,
+  "sector_minus_market": -0.00972,
+  "relation": "lagging"
+ },
+ "2024-07-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00412,
+  "market_20d_ret": 0.02034,
+  "sector_minus_market": -0.01622,
+  "relation": "lagging"
+ },
+ "2024-07-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03293,
+  "market_20d_ret": -0.00661,
+  "sector_minus_market": -0.02632,
+  "relation": "lagging"
+ },
+ "2024-07-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04421,
+  "market_20d_ret": -0.01302,
+  "sector_minus_market": -0.03119,
+  "relation": "lagging"
+ },
+ "2024-07-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03181,
+  "market_20d_ret": -0.00353,
+  "sector_minus_market": -0.02828,
+  "relation": "lagging"
+ },
+ "2024-07-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01424,
+  "market_20d_ret": 0.00099,
+  "sector_minus_market": -0.01523,
+  "relation": "lagging"
+ },
+ "2024-07-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0061,
+  "market_20d_ret": -0.00612,
+  "sector_minus_market": 3e-05,
+  "relation": "leading"
+ },
+ "2024-07-31": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00314,
+  "market_20d_ret": 0.00328,
+  "sector_minus_market": -0.00642,
+  "relation": "lagging"
+ },
+ "2024-08-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00058,
+  "market_20d_ret": -0.01532,
+  "sector_minus_market": 0.0159,
+  "relation": "leading"
+ },
+ "2024-08-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03441,
+  "market_20d_ret": -0.0392,
+  "sector_minus_market": 0.00478,
+  "relation": "leading"
+ },
+ "2024-08-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.05358,
+  "market_20d_ret": -0.06825,
+  "sector_minus_market": 0.01467,
+  "relation": "leading"
+ },
+ "2024-08-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04539,
+  "market_20d_ret": -0.06058,
+  "sector_minus_market": 0.01519,
+  "relation": "leading"
+ },
+ "2024-08-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.05638,
+  "market_20d_ret": -0.076,
+  "sector_minus_market": 0.01961,
+  "relation": "leading"
+ },
+ "2024-08-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02425,
+  "market_20d_ret": -0.04642,
+  "sector_minus_market": 0.02216,
+  "relation": "leading"
+ },
+ "2024-08-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01274,
+  "market_20d_ret": -0.04822,
+  "sector_minus_market": 0.03547,
+  "relation": "leading"
+ },
+ "2024-08-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02309,
+  "market_20d_ret": -0.05033,
+  "sector_minus_market": 0.02724,
+  "relation": "leading"
+ },
+ "2024-08-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01301,
+  "market_20d_ret": -0.0404,
+  "sector_minus_market": 0.02739,
+  "relation": "leading"
+ },
+ "2024-08-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00362,
+  "market_20d_ret": -0.02368,
+  "sector_minus_market": 0.02006,
+  "relation": "leading"
+ },
+ "2024-08-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00597,
+  "market_20d_ret": 0.00074,
+  "sector_minus_market": 0.00522,
+  "relation": "leading"
+ },
+ "2024-08-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01351,
+  "market_20d_ret": 0.00969,
+  "sector_minus_market": 0.00382,
+  "relation": "leading"
+ },
+ "2024-08-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02071,
+  "market_20d_ret": 0.00894,
+  "sector_minus_market": 0.01177,
+  "relation": "leading"
+ },
+ "2024-08-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02144,
+  "market_20d_ret": 0.00888,
+  "sector_minus_market": 0.01256,
+  "relation": "leading"
+ },
+ "2024-08-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0533,
+  "market_20d_ret": 0.03583,
+  "sector_minus_market": 0.01747,
+  "relation": "leading"
+ },
+ "2024-08-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05757,
+  "market_20d_ret": 0.03308,
+  "sector_minus_market": 0.02449,
+  "relation": "leading"
+ },
+ "2024-08-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0454,
+  "market_20d_ret": 0.03249,
+  "sector_minus_market": 0.01291,
+  "relation": "leading"
+ },
+ "2024-08-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03861,
+  "market_20d_ret": 0.02943,
+  "sector_minus_market": 0.00918,
+  "relation": "leading"
+ },
+ "2024-08-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03208,
+  "market_20d_ret": 0.03609,
+  "sector_minus_market": -0.00401,
+  "relation": "lagging"
+ },
+ "2024-08-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01317,
+  "market_20d_ret": 0.0136,
+  "sector_minus_market": -0.00043,
+  "relation": "lagging"
+ },
+ "2024-08-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00697,
+  "market_20d_ret": 0.02825,
+  "sector_minus_market": -0.02128,
+  "relation": "lagging"
+ },
+ "2024-08-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03045,
+  "market_20d_ret": 0.05776,
+  "sector_minus_market": -0.02731,
+  "relation": "lagging"
+ },
+ "2024-09-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04143,
+  "market_20d_ret": 0.06707,
+  "sector_minus_market": -0.02564,
+  "relation": "lagging"
+ },
+ "2024-09-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02438,
+  "market_20d_ret": 0.05516,
+  "sector_minus_market": -0.03078,
+  "relation": "lagging"
+ },
+ "2024-09-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03283,
+  "market_20d_ret": 0.05967,
+  "sector_minus_market": -0.02684,
+  "relation": "lagging"
+ },
+ "2024-09-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00852,
+  "market_20d_ret": 0.0183,
+  "sector_minus_market": -0.02682,
+  "relation": "lagging"
+ },
+ "2024-09-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01267,
+  "market_20d_ret": 0.02518,
+  "sector_minus_market": -0.03785,
+  "relation": "lagging"
+ },
+ "2024-09-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00603,
+  "market_20d_ret": 0.0291,
+  "sector_minus_market": -0.03513,
+  "relation": "lagging"
+ },
+ "2024-09-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0147,
+  "market_20d_ret": 0.02284,
+  "sector_minus_market": -0.03754,
+  "relation": "lagging"
+ },
+ "2024-09-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0095,
+  "market_20d_ret": 0.02821,
+  "sector_minus_market": -0.01871,
+  "relation": "lagging"
+ },
+ "2024-09-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01012,
+  "market_20d_ret": 0.01616,
+  "sector_minus_market": -0.00605,
+  "relation": "lagging"
+ },
+ "2024-09-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01762,
+  "market_20d_ret": 0.01539,
+  "sector_minus_market": 0.00223,
+  "relation": "leading"
+ },
+ "2024-09-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00619,
+  "market_20d_ret": 0.00618,
+  "sector_minus_market": 1e-05,
+  "relation": "leading"
+ },
+ "2024-09-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00608,
+  "market_20d_ret": 0.00483,
+  "sector_minus_market": 0.00125,
+  "relation": "leading"
+ },
+ "2024-09-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01542,
+  "market_20d_ret": 0.01848,
+  "sector_minus_market": -0.00306,
+  "relation": "lagging"
+ },
+ "2024-09-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02313,
+  "market_20d_ret": 0.02163,
+  "sector_minus_market": 0.0015,
+  "relation": "leading"
+ },
+ "2024-09-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01828,
+  "market_20d_ret": 0.01341,
+  "sector_minus_market": 0.00487,
+  "relation": "leading"
+ },
+ "2024-09-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02076,
+  "market_20d_ret": 0.01874,
+  "sector_minus_market": 0.00202,
+  "relation": "leading"
+ },
+ "2024-09-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01989,
+  "market_20d_ret": 0.0151,
+  "sector_minus_market": 0.00479,
+  "relation": "leading"
+ },
+ "2024-09-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03246,
+  "market_20d_ret": 0.02508,
+  "sector_minus_market": 0.00739,
+  "relation": "leading"
+ },
+ "2024-09-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04085,
+  "market_20d_ret": 0.0235,
+  "sector_minus_market": 0.01735,
+  "relation": "leading"
+ },
+ "2024-09-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03841,
+  "market_20d_ret": 0.01788,
+  "sector_minus_market": 0.02053,
+  "relation": "leading"
+ },
+ "2024-10-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05862,
+  "market_20d_ret": 0.02996,
+  "sector_minus_market": 0.02866,
+  "relation": "leading"
+ },
+ "2024-10-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06041,
+  "market_20d_ret": 0.03251,
+  "sector_minus_market": 0.0279,
+  "relation": "leading"
+ },
+ "2024-10-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05368,
+  "market_20d_ret": 0.03313,
+  "sector_minus_market": 0.02055,
+  "relation": "leading"
+ },
+ "2024-10-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.08817,
+  "market_20d_ret": 0.06037,
+  "sector_minus_market": 0.0278,
+  "relation": "leading"
+ },
+ "2024-10-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06897,
+  "market_20d_ret": 0.03915,
+  "sector_minus_market": 0.02982,
+  "relation": "leading"
+ },
+ "2024-10-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07864,
+  "market_20d_ret": 0.04443,
+  "sector_minus_market": 0.03422,
+  "relation": "leading"
+ },
+ "2024-10-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07453,
+  "market_20d_ret": 0.04098,
+  "sector_minus_market": 0.03355,
+  "relation": "leading"
+ },
+ "2024-10-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04698,
+  "market_20d_ret": 0.03048,
+  "sector_minus_market": 0.01651,
+  "relation": "leading"
+ },
+ "2024-10-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04414,
+  "market_20d_ret": 0.03126,
+  "sector_minus_market": 0.01288,
+  "relation": "leading"
+ },
+ "2024-10-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03811,
+  "market_20d_ret": 0.03816,
+  "sector_minus_market": -5e-05,
+  "relation": "lagging"
+ },
+ "2024-10-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0404,
+  "market_20d_ret": 0.02968,
+  "sector_minus_market": 0.01072,
+  "relation": "leading"
+ },
+ "2024-10-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04054,
+  "market_20d_ret": 0.03723,
+  "sector_minus_market": 0.00332,
+  "relation": "leading"
+ },
+ "2024-10-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02176,
+  "market_20d_ret": 0.01991,
+  "sector_minus_market": 0.00185,
+  "relation": "leading"
+ },
+ "2024-10-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02932,
+  "market_20d_ret": 0.02875,
+  "sector_minus_market": 0.00057,
+  "relation": "leading"
+ },
+ "2024-10-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02297,
+  "market_20d_ret": 0.02451,
+  "sector_minus_market": -0.00154,
+  "relation": "lagging"
+ },
+ "2024-10-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01961,
+  "market_20d_ret": 0.02104,
+  "sector_minus_market": -0.00143,
+  "relation": "lagging"
+ },
+ "2024-10-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01506,
+  "market_20d_ret": 0.01395,
+  "sector_minus_market": 0.00111,
+  "relation": "leading"
+ },
+ "2024-10-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01285,
+  "market_20d_ret": 0.01213,
+  "sector_minus_market": 0.00073,
+  "relation": "leading"
+ },
+ "2024-10-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00933,
+  "market_20d_ret": 0.01325,
+  "sector_minus_market": -0.00391,
+  "relation": "lagging"
+ },
+ "2024-10-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01139,
+  "market_20d_ret": 0.01232,
+  "sector_minus_market": -0.00093,
+  "relation": "lagging"
+ },
+ "2024-10-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02012,
+  "market_20d_ret": 0.02313,
+  "sector_minus_market": -0.00301,
+  "relation": "lagging"
+ },
+ "2024-10-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02949,
+  "market_20d_ret": 0.0196,
+  "sector_minus_market": 0.00989,
+  "relation": "leading"
+ },
+ "2024-10-31": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02403,
+  "market_20d_ret": 0.00144,
+  "sector_minus_market": 0.02259,
+  "relation": "leading"
+ },
+ "2024-11-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01673,
+  "market_20d_ret": -0.00339,
+  "sector_minus_market": 0.02011,
+  "relation": "leading"
+ },
+ "2024-11-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0271,
+  "market_20d_ret": 0.00354,
+  "sector_minus_market": 0.02356,
+  "relation": "leading"
+ },
+ "2024-11-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02941,
+  "market_20d_ret": 0.00616,
+  "sector_minus_market": 0.02325,
+  "relation": "leading"
+ },
+ "2024-11-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05438,
+  "market_20d_ret": 0.02408,
+  "sector_minus_market": 0.03029,
+  "relation": "leading"
+ },
+ "2024-11-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07616,
+  "market_20d_ret": 0.03381,
+  "sector_minus_market": 0.04235,
+  "relation": "leading"
+ },
+ "2024-11-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06359,
+  "market_20d_ret": 0.03211,
+  "sector_minus_market": 0.03148,
+  "relation": "leading"
+ },
+ "2024-11-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06461,
+  "market_20d_ret": 0.02471,
+  "sector_minus_market": 0.0399,
+  "relation": "leading"
+ },
+ "2024-11-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06711,
+  "market_20d_ret": 0.02953,
+  "sector_minus_market": 0.03758,
+  "relation": "leading"
+ },
+ "2024-11-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06825,
+  "market_20d_ret": 0.02557,
+  "sector_minus_market": 0.04268,
+  "relation": "leading"
+ },
+ "2024-11-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07211,
+  "market_20d_ret": 0.01889,
+  "sector_minus_market": 0.05322,
+  "relation": "leading"
+ },
+ "2024-11-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04297,
+  "market_20d_ret": 0.00198,
+  "sector_minus_market": 0.04098,
+  "relation": "leading"
+ },
+ "2024-11-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05744,
+  "market_20d_ret": 0.00774,
+  "sector_minus_market": 0.0497,
+  "relation": "leading"
+ },
+ "2024-11-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06286,
+  "market_20d_ret": 0.01197,
+  "sector_minus_market": 0.05089,
+  "relation": "leading"
+ },
+ "2024-11-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07784,
+  "market_20d_ret": 0.02164,
+  "sector_minus_market": 0.0562,
+  "relation": "leading"
+ },
+ "2024-11-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0714,
+  "market_20d_ret": 0.02491,
+  "sector_minus_market": 0.04648,
+  "relation": "leading"
+ },
+ "2024-11-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06637,
+  "market_20d_ret": 0.02844,
+  "sector_minus_market": 0.03793,
+  "relation": "leading"
+ },
+ "2024-11-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06508,
+  "market_20d_ret": 0.02875,
+  "sector_minus_market": 0.03633,
+  "relation": "leading"
+ },
+ "2024-11-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05905,
+  "market_20d_ret": 0.03245,
+  "sector_minus_market": 0.0266,
+  "relation": "leading"
+ },
+ "2024-11-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05407,
+  "market_20d_ret": 0.03245,
+  "sector_minus_market": 0.02162,
+  "relation": "leading"
+ },
+ "2024-11-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0691,
+  "market_20d_ret": 0.05963,
+  "sector_minus_market": 0.00947,
+  "relation": "leading"
+ },
+ "2024-12-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0737,
+  "market_20d_ret": 0.05707,
+  "sector_minus_market": 0.01663,
+  "relation": "leading"
+ },
+ "2024-12-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.086,
+  "market_20d_ret": 0.05984,
+  "sector_minus_market": 0.02616,
+  "relation": "leading"
+ },
+ "2024-12-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07658,
+  "market_20d_ret": 0.05368,
+  "sector_minus_market": 0.02289,
+  "relation": "leading"
+ },
+ "2024-12-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04832,
+  "market_20d_ret": 0.02643,
+  "sector_minus_market": 0.02189,
+  "relation": "leading"
+ },
+ "2024-12-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04428,
+  "market_20d_ret": 0.02048,
+  "sector_minus_market": 0.0238,
+  "relation": "leading"
+ },
+ "2024-12-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02703,
+  "market_20d_ret": 0.01085,
+  "sector_minus_market": 0.01618,
+  "relation": "leading"
+ },
+ "2024-12-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03732,
+  "market_20d_ret": 0.00675,
+  "sector_minus_market": 0.03058,
+  "relation": "leading"
+ },
+ "2024-12-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04951,
+  "market_20d_ret": 0.01769,
+  "sector_minus_market": 0.03181,
+  "relation": "leading"
+ },
+ "2024-12-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05103,
+  "market_20d_ret": 0.01196,
+  "sector_minus_market": 0.03907,
+  "relation": "leading"
+ },
+ "2024-12-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03965,
+  "market_20d_ret": 0.0183,
+  "sector_minus_market": 0.02135,
+  "relation": "leading"
+ },
+ "2024-12-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06495,
+  "market_20d_ret": 0.03592,
+  "sector_minus_market": 0.02903,
+  "relation": "leading"
+ },
+ "2024-12-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04662,
+  "market_20d_ret": 0.02744,
+  "sector_minus_market": 0.01918,
+  "relation": "leading"
+ },
+ "2024-12-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01013,
+  "market_20d_ret": -0.00681,
+  "sector_minus_market": 0.01694,
+  "relation": "leading"
+ },
+ "2024-12-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00092,
+  "market_20d_ret": -0.00745,
+  "sector_minus_market": 0.00838,
+  "relation": "leading"
+ },
+ "2024-12-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00896,
+  "market_20d_ret": -0.00424,
+  "sector_minus_market": 0.01321,
+  "relation": "leading"
+ },
+ "2024-12-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01667,
+  "market_20d_ret": -0.00138,
+  "sector_minus_market": 0.01805,
+  "relation": "leading"
+ },
+ "2024-12-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02103,
+  "market_20d_ret": 0.00631,
+  "sector_minus_market": 0.01472,
+  "relation": "leading"
+ },
+ "2024-12-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01593,
+  "market_20d_ret": 0.00115,
+  "sector_minus_market": 0.01479,
+  "relation": "leading"
+ },
+ "2024-12-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00557,
+  "market_20d_ret": -0.00638,
+  "sector_minus_market": 0.01195,
+  "relation": "leading"
+ },
+ "2024-12-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01034,
+  "market_20d_ret": -0.02378,
+  "sector_minus_market": 0.01344,
+  "relation": "leading"
+ },
+ "2024-12-31": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02165,
+  "market_20d_ret": -0.02907,
+  "sector_minus_market": 0.00742,
+  "relation": "leading"
+ },
+ "2025-01-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02477,
+  "market_20d_ret": -0.03191,
+  "sector_minus_market": 0.00714,
+  "relation": "leading"
+ },
+ "2025-01-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.021,
+  "market_20d_ret": -0.02585,
+  "sector_minus_market": 0.00485,
+  "relation": "leading"
+ },
+ "2025-01-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00813,
+  "market_20d_ret": -0.01863,
+  "sector_minus_market": 0.0105,
+  "relation": "leading"
+ },
+ "2025-01-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0281,
+  "market_20d_ret": -0.03156,
+  "sector_minus_market": 0.00346,
+  "relation": "leading"
+ },
+ "2025-01-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01283,
+  "market_20d_ret": -0.02512,
+  "sector_minus_market": 0.01229,
+  "relation": "leading"
+ },
+ "2025-01-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04257,
+  "market_20d_ret": -0.03701,
+  "sector_minus_market": -0.00556,
+  "relation": "lagging"
+ },
+ "2025-01-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.05757,
+  "market_20d_ret": -0.04292,
+  "sector_minus_market": -0.01466,
+  "relation": "lagging"
+ },
+ "2025-01-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.06247,
+  "market_20d_ret": -0.03664,
+  "sector_minus_market": -0.02583,
+  "relation": "lagging"
+ },
+ "2025-01-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03554,
+  "market_20d_ret": -0.01892,
+  "sector_minus_market": -0.01662,
+  "relation": "lagging"
+ },
+ "2025-01-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0447,
+  "market_20d_ret": -0.02497,
+  "sector_minus_market": -0.01973,
+  "relation": "lagging"
+ },
+ "2025-01-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0291,
+  "market_20d_ret": -0.0111,
+  "sector_minus_market": -0.018,
+  "relation": "lagging"
+ },
+ "2025-01-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00845,
+  "market_20d_ret": 0.0286,
+  "sector_minus_market": -0.02015,
+  "relation": "lagging"
+ },
+ "2025-01-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02133,
+  "market_20d_ret": 0.0347,
+  "sector_minus_market": -0.01338,
+  "relation": "lagging"
+ },
+ "2025-01-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01846,
+  "market_20d_ret": 0.03146,
+  "sector_minus_market": -0.013,
+  "relation": "lagging"
+ },
+ "2025-01-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02209,
+  "market_20d_ret": 0.02233,
+  "sector_minus_market": -0.00024,
+  "relation": "lagging"
+ },
+ "2025-01-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01775,
+  "market_20d_ret": -0.00321,
+  "sector_minus_market": 0.02096,
+  "relation": "leading"
+ },
+ "2025-01-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02403,
+  "market_20d_ret": 0.00529,
+  "sector_minus_market": 0.01874,
+  "relation": "leading"
+ },
+ "2025-01-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0378,
+  "market_20d_ret": 0.01143,
+  "sector_minus_market": 0.02637,
+  "relation": "leading"
+ },
+ "2025-01-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04983,
+  "market_20d_ret": 0.02859,
+  "sector_minus_market": 0.02124,
+  "relation": "leading"
+ },
+ "2025-01-31": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05754,
+  "market_20d_ret": 0.02686,
+  "sector_minus_market": 0.03068,
+  "relation": "leading"
+ },
+ "2025-02-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05469,
+  "market_20d_ret": 0.02246,
+  "sector_minus_market": 0.03223,
+  "relation": "leading"
+ },
+ "2025-02-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05762,
+  "market_20d_ret": 0.01661,
+  "sector_minus_market": 0.04102,
+  "relation": "leading"
+ },
+ "2025-02-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03618,
+  "market_20d_ret": 0.01488,
+  "sector_minus_market": 0.0213,
+  "relation": "leading"
+ },
+ "2025-02-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05233,
+  "market_20d_ret": 0.03005,
+  "sector_minus_market": 0.02228,
+  "relation": "leading"
+ },
+ "2025-02-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05634,
+  "market_20d_ret": 0.01914,
+  "sector_minus_market": 0.03721,
+  "relation": "leading"
+ },
+ "2025-02-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07713,
+  "market_20d_ret": 0.04196,
+  "sector_minus_market": 0.03517,
+  "relation": "leading"
+ },
+ "2025-02-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07846,
+  "market_20d_ret": 0.04114,
+  "sector_minus_market": 0.03731,
+  "relation": "leading"
+ },
+ "2025-02-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.08322,
+  "market_20d_ret": 0.03636,
+  "sector_minus_market": 0.04686,
+  "relation": "leading"
+ },
+ "2025-02-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07796,
+  "market_20d_ret": 0.02859,
+  "sector_minus_market": 0.04937,
+  "relation": "leading"
+ },
+ "2025-02-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.09073,
+  "market_20d_ret": 0.03053,
+  "sector_minus_market": 0.0602,
+  "relation": "leading"
+ },
+ "2025-02-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07629,
+  "market_20d_ret": 0.02328,
+  "sector_minus_market": 0.05301,
+  "relation": "leading"
+ },
+ "2025-02-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06787,
+  "market_20d_ret": 0.01638,
+  "sector_minus_market": 0.05149,
+  "relation": "leading"
+ },
+ "2025-02-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05239,
+  "market_20d_ret": 0.0065,
+  "sector_minus_market": 0.0459,
+  "relation": "leading"
+ },
+ "2025-02-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03527,
+  "market_20d_ret": -0.01609,
+  "sector_minus_market": 0.05136,
+  "relation": "leading"
+ },
+ "2025-02-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02799,
+  "market_20d_ret": -0.0177,
+  "sector_minus_market": 0.04568,
+  "relation": "leading"
+ },
+ "2025-02-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00753,
+  "market_20d_ret": -0.00856,
+  "sector_minus_market": 0.01609,
+  "relation": "leading"
+ },
+ "2025-02-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00089,
+  "market_20d_ret": -0.01651,
+  "sector_minus_market": 0.0174,
+  "relation": "leading"
+ },
+ "2025-02-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01315,
+  "market_20d_ret": -0.02785,
+  "sector_minus_market": 0.0147,
+  "relation": "leading"
+ },
+ "2025-02-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00029,
+  "market_20d_ret": -0.01795,
+  "sector_minus_market": 0.01824,
+  "relation": "leading"
+ },
+ "2025-03-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01367,
+  "market_20d_ret": -0.02999,
+  "sector_minus_market": 0.01632,
+  "relation": "leading"
+ },
+ "2025-03-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02359,
+  "market_20d_ret": -0.03498,
+  "sector_minus_market": 0.01139,
+  "relation": "leading"
+ },
+ "2025-03-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0198,
+  "market_20d_ret": -0.03111,
+  "sector_minus_market": 0.0113,
+  "relation": "leading"
+ },
+ "2025-03-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02799,
+  "market_20d_ret": -0.05215,
+  "sector_minus_market": 0.02416,
+  "relation": "leading"
+ },
+ "2025-03-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02593,
+  "market_20d_ret": -0.05014,
+  "sector_minus_market": 0.02421,
+  "relation": "leading"
+ },
+ "2025-03-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04818,
+  "market_20d_ret": -0.0669,
+  "sector_minus_market": 0.01872,
+  "relation": "leading"
+ },
+ "2025-03-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.06638,
+  "market_20d_ret": -0.0809,
+  "sector_minus_market": 0.01452,
+  "relation": "leading"
+ },
+ "2025-03-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.06327,
+  "market_20d_ret": -0.07672,
+  "sector_minus_market": 0.01345,
+  "relation": "leading"
+ },
+ "2025-03-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.08349,
+  "market_20d_ret": -0.08608,
+  "sector_minus_market": 0.00259,
+  "relation": "leading"
+ },
+ "2025-03-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.07729,
+  "market_20d_ret": -0.07695,
+  "sector_minus_market": -0.00034,
+  "relation": "lagging"
+ },
+ "2025-03-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.07635,
+  "market_20d_ret": -0.06979,
+  "sector_minus_market": -0.00656,
+  "relation": "lagging"
+ },
+ "2025-03-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.085,
+  "market_20d_ret": -0.08254,
+  "sector_minus_market": -0.00247,
+  "relation": "lagging"
+ },
+ "2025-03-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.07519,
+  "market_20d_ret": -0.07472,
+  "sector_minus_market": -0.00046,
+  "relation": "lagging"
+ },
+ "2025-03-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.07286,
+  "market_20d_ret": -0.07354,
+  "sector_minus_market": 0.00069,
+  "relation": "leading"
+ },
+ "2025-03-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.05261,
+  "market_20d_ret": -0.05994,
+  "sector_minus_market": 0.00733,
+  "relation": "leading"
+ },
+ "2025-03-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04106,
+  "market_20d_ret": -0.03873,
+  "sector_minus_market": -0.00233,
+  "relation": "lagging"
+ },
+ "2025-03-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0143,
+  "market_20d_ret": -0.0316,
+  "sector_minus_market": 0.0173,
+  "relation": "leading"
+ },
+ "2025-03-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02095,
+  "market_20d_ret": -0.04365,
+  "sector_minus_market": 0.0227,
+  "relation": "leading"
+ },
+ "2025-03-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0158,
+  "market_20d_ret": -0.03072,
+  "sector_minus_market": 0.01492,
+  "relation": "leading"
+ },
+ "2025-03-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.05859,
+  "market_20d_ret": -0.06483,
+  "sector_minus_market": 0.00623,
+  "relation": "leading"
+ },
+ "2025-03-31": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04203,
+  "market_20d_ret": -0.04176,
+  "sector_minus_market": -0.00027,
+  "relation": "lagging"
+ },
+ "2025-04-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03378,
+  "market_20d_ret": -0.02755,
+  "sector_minus_market": -0.00624,
+  "relation": "lagging"
+ },
+ "2025-04-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04271,
+  "market_20d_ret": -0.0318,
+  "sector_minus_market": -0.01091,
+  "relation": "lagging"
+ },
+ "2025-04-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0687,
+  "market_20d_ret": -0.06288,
+  "sector_minus_market": -0.00583,
+  "relation": "lagging"
+ },
+ "2025-04-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.12765,
+  "market_20d_ret": -0.12266,
+  "sector_minus_market": -0.00499,
+  "relation": "lagging"
+ },
+ "2025-04-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.10412,
+  "market_20d_ret": -0.10025,
+  "sector_minus_market": -0.00386,
+  "relation": "lagging"
+ },
+ "2025-04-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.10343,
+  "market_20d_ret": -0.10692,
+  "sector_minus_market": 0.0035,
+  "relation": "leading"
+ },
+ "2025-04-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02905,
+  "market_20d_ret": -0.01834,
+  "sector_minus_market": -0.01071,
+  "relation": "lagging"
+ },
+ "2025-04-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04294,
+  "market_20d_ret": -0.04867,
+  "sector_minus_market": 0.00574,
+  "relation": "leading"
+ },
+ "2025-04-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.05218,
+  "market_20d_ret": -0.0513,
+  "sector_minus_market": -0.00089,
+  "relation": "lagging"
+ },
+ "2025-04-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.05262,
+  "market_20d_ret": -0.04942,
+  "sector_minus_market": -0.00319,
+  "relation": "lagging"
+ },
+ "2025-04-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03678,
+  "market_20d_ret": -0.04173,
+  "sector_minus_market": 0.00495,
+  "relation": "leading"
+ },
+ "2025-04-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.07372,
+  "market_20d_ret": -0.07312,
+  "sector_minus_market": -0.0006,
+  "relation": "lagging"
+ },
+ "2025-04-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.06571,
+  "market_20d_ret": -0.06911,
+  "sector_minus_market": 0.0034,
+  "relation": "leading"
+ },
+ "2025-04-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.09384,
+  "market_20d_ret": -0.08883,
+  "sector_minus_market": -0.00501,
+  "relation": "lagging"
+ },
+ "2025-04-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.08319,
+  "market_20d_ret": -0.08157,
+  "sector_minus_market": -0.00162,
+  "relation": "lagging"
+ },
+ "2025-04-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.08015,
+  "market_20d_ret": -0.06958,
+  "sector_minus_market": -0.01057,
+  "relation": "lagging"
+ },
+ "2025-04-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.05369,
+  "market_20d_ret": -0.03852,
+  "sector_minus_market": -0.01517,
+  "relation": "lagging"
+ },
+ "2025-04-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04349,
+  "market_20d_ret": -0.02899,
+  "sector_minus_market": -0.0145,
+  "relation": "lagging"
+ },
+ "2025-04-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01065,
+  "market_20d_ret": -0.00866,
+  "sector_minus_market": -0.002,
+  "relation": "lagging"
+ },
+ "2025-04-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01078,
+  "market_20d_ret": -0.00906,
+  "sector_minus_market": -0.00172,
+  "relation": "lagging"
+ },
+ "2025-04-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01109,
+  "market_20d_ret": -0.01146,
+  "sector_minus_market": 0.00038,
+  "relation": "leading"
+ },
+ "2025-05-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0095,
+  "market_20d_ret": -0.01072,
+  "sector_minus_market": 0.00122,
+  "relation": "leading"
+ },
+ "2025-05-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05285,
+  "market_20d_ret": 0.05601,
+  "sector_minus_market": -0.00316,
+  "relation": "lagging"
+ },
+ "2025-05-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.11945,
+  "market_20d_ret": 0.11524,
+  "sector_minus_market": 0.00421,
+  "relation": "leading"
+ },
+ "2025-05-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.11769,
+  "market_20d_ret": 0.10789,
+  "sector_minus_market": 0.00979,
+  "relation": "leading"
+ },
+ "2025-05-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.13143,
+  "market_20d_ret": 0.13026,
+  "sector_minus_market": 0.00117,
+  "relation": "leading"
+ },
+ "2025-05-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04203,
+  "market_20d_ret": 0.02997,
+  "sector_minus_market": 0.01207,
+  "relation": "leading"
+ },
+ "2025-05-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07381,
+  "market_20d_ret": 0.07579,
+  "sector_minus_market": -0.00198,
+  "relation": "lagging"
+ },
+ "2025-05-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.08689,
+  "market_20d_ret": 0.09186,
+  "sector_minus_market": -0.00498,
+  "relation": "lagging"
+ },
+ "2025-05-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.09023,
+  "market_20d_ret": 0.08851,
+  "sector_minus_market": 0.00171,
+  "relation": "leading"
+ },
+ "2025-05-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.09315,
+  "market_20d_ret": 0.09297,
+  "sector_minus_market": 0.00018,
+  "relation": "leading"
+ },
+ "2025-05-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.12786,
+  "market_20d_ret": 0.12327,
+  "sector_minus_market": 0.00459,
+  "relation": "leading"
+ },
+ "2025-05-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.12826,
+  "market_20d_ret": 0.12878,
+  "sector_minus_market": -0.00052,
+  "relation": "lagging"
+ },
+ "2025-05-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.15536,
+  "market_20d_ret": 0.15757,
+  "sector_minus_market": -0.0022,
+  "relation": "lagging"
+ },
+ "2025-05-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.12323,
+  "market_20d_ret": 0.12442,
+  "sector_minus_market": -0.00119,
+  "relation": "lagging"
+ },
+ "2025-05-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.09725,
+  "market_20d_ret": 0.0886,
+  "sector_minus_market": 0.00864,
+  "relation": "leading"
+ },
+ "2025-05-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07337,
+  "market_20d_ret": 0.06658,
+  "sector_minus_market": 0.00679,
+  "relation": "leading"
+ },
+ "2025-05-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06178,
+  "market_20d_ret": 0.0517,
+  "sector_minus_market": 0.01008,
+  "relation": "leading"
+ },
+ "2025-05-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07496,
+  "market_20d_ret": 0.07316,
+  "sector_minus_market": 0.0018,
+  "relation": "leading"
+ },
+ "2025-05-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06697,
+  "market_20d_ret": 0.06027,
+  "sector_minus_market": 0.0067,
+  "relation": "leading"
+ },
+ "2025-05-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05805,
+  "market_20d_ret": 0.06404,
+  "sector_minus_market": -0.00599,
+  "relation": "lagging"
+ },
+ "2025-05-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05702,
+  "market_20d_ret": 0.05537,
+  "sector_minus_market": 0.00166,
+  "relation": "leading"
+ },
+ "2025-06-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04599,
+  "market_20d_ret": 0.04579,
+  "sector_minus_market": 0.0002,
+  "relation": "leading"
+ },
+ "2025-06-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04055,
+  "market_20d_ret": 0.05782,
+  "sector_minus_market": -0.01726,
+  "relation": "lagging"
+ },
+ "2025-06-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04742,
+  "market_20d_ret": 0.06645,
+  "sector_minus_market": -0.01902,
+  "relation": "lagging"
+ },
+ "2025-06-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0508,
+  "market_20d_ret": 0.05685,
+  "sector_minus_market": -0.00605,
+  "relation": "lagging"
+ },
+ "2025-06-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06173,
+  "market_20d_ret": 0.06031,
+  "sector_minus_market": 0.00142,
+  "relation": "leading"
+ },
+ "2025-06-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06411,
+  "market_20d_ret": 0.06262,
+  "sector_minus_market": 0.00149,
+  "relation": "leading"
+ },
+ "2025-06-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05565,
+  "market_20d_ret": 0.03446,
+  "sector_minus_market": 0.02118,
+  "relation": "leading"
+ },
+ "2025-06-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04303,
+  "market_20d_ret": 0.02474,
+  "sector_minus_market": 0.01828,
+  "relation": "leading"
+ },
+ "2025-06-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0292,
+  "market_20d_ret": 0.0275,
+  "sector_minus_market": 0.0017,
+  "relation": "leading"
+ },
+ "2025-06-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01474,
+  "market_20d_ret": 0.01108,
+  "sector_minus_market": 0.00366,
+  "relation": "leading"
+ },
+ "2025-06-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02515,
+  "market_20d_ret": 0.01427,
+  "sector_minus_market": 0.01088,
+  "relation": "leading"
+ },
+ "2025-06-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01512,
+  "market_20d_ret": 0.00451,
+  "sector_minus_market": 0.01061,
+  "relation": "leading"
+ },
+ "2025-06-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0181,
+  "market_20d_ret": 0.00774,
+  "sector_minus_market": 0.01036,
+  "relation": "leading"
+ },
+ "2025-06-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01953,
+  "market_20d_ret": 0.01959,
+  "sector_minus_market": -6e-05,
+  "relation": "lagging"
+ },
+ "2025-06-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0347,
+  "market_20d_ret": 0.02926,
+  "sector_minus_market": 0.00544,
+  "relation": "leading"
+ },
+ "2025-06-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05285,
+  "market_20d_ret": 0.04778,
+  "sector_minus_market": 0.00507,
+  "relation": "leading"
+ },
+ "2025-06-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0358,
+  "market_20d_ret": 0.02702,
+  "sector_minus_market": 0.00879,
+  "relation": "leading"
+ },
+ "2025-06-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04802,
+  "market_20d_ret": 0.04107,
+  "sector_minus_market": 0.00695,
+  "relation": "leading"
+ },
+ "2025-06-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06894,
+  "market_20d_ret": 0.04213,
+  "sector_minus_market": 0.02681,
+  "relation": "leading"
+ },
+ "2025-06-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07291,
+  "market_20d_ret": 0.04829,
+  "sector_minus_market": 0.02463,
+  "relation": "leading"
+ },
+ "2025-07-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06007,
+  "market_20d_ret": 0.04208,
+  "sector_minus_market": 0.018,
+  "relation": "leading"
+ },
+ "2025-07-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06004,
+  "market_20d_ret": 0.04087,
+  "sector_minus_market": 0.01917,
+  "relation": "leading"
+ },
+ "2025-07-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05909,
+  "market_20d_ret": 0.04935,
+  "sector_minus_market": 0.00974,
+  "relation": "leading"
+ },
+ "2025-07-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04746,
+  "market_20d_ret": 0.04659,
+  "sector_minus_market": 0.00087,
+  "relation": "leading"
+ },
+ "2025-07-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0321,
+  "market_20d_ret": 0.03538,
+  "sector_minus_market": -0.00328,
+  "relation": "lagging"
+ },
+ "2025-07-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03781,
+  "market_20d_ret": 0.04066,
+  "sector_minus_market": -0.00285,
+  "relation": "lagging"
+ },
+ "2025-07-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02138,
+  "market_20d_ret": 0.03771,
+  "sector_minus_market": -0.01633,
+  "relation": "lagging"
+ },
+ "2025-07-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01711,
+  "market_20d_ret": 0.03702,
+  "sector_minus_market": -0.01991,
+  "relation": "lagging"
+ },
+ "2025-07-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03551,
+  "market_20d_ret": 0.03488,
+  "sector_minus_market": 0.00063,
+  "relation": "leading"
+ },
+ "2025-07-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03575,
+  "market_20d_ret": 0.04211,
+  "sector_minus_market": -0.00636,
+  "relation": "lagging"
+ },
+ "2025-07-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02135,
+  "market_20d_ret": 0.03574,
+  "sector_minus_market": -0.01439,
+  "relation": "lagging"
+ },
+ "2025-07-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03403,
+  "market_20d_ret": 0.05106,
+  "sector_minus_market": -0.01703,
+  "relation": "lagging"
+ },
+ "2025-07-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02878,
+  "market_20d_ret": 0.05045,
+  "sector_minus_market": -0.02167,
+  "relation": "lagging"
+ },
+ "2025-07-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04892,
+  "market_20d_ret": 0.05804,
+  "sector_minus_market": -0.00911,
+  "relation": "lagging"
+ },
+ "2025-07-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03821,
+  "market_20d_ret": 0.04784,
+  "sector_minus_market": -0.00962,
+  "relation": "lagging"
+ },
+ "2025-07-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0306,
+  "market_20d_ret": 0.04521,
+  "sector_minus_market": -0.01461,
+  "relation": "lagging"
+ },
+ "2025-07-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03251,
+  "market_20d_ret": 0.04497,
+  "sector_minus_market": -0.01246,
+  "relation": "lagging"
+ },
+ "2025-07-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01118,
+  "market_20d_ret": 0.04123,
+  "sector_minus_market": -0.03005,
+  "relation": "lagging"
+ },
+ "2025-07-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00594,
+  "market_20d_ret": 0.03583,
+  "sector_minus_market": -0.04177,
+  "relation": "lagging"
+ },
+ "2025-07-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02221,
+  "market_20d_ret": 0.02818,
+  "sector_minus_market": -0.05038,
+  "relation": "lagging"
+ },
+ "2025-07-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01216,
+  "market_20d_ret": 0.02722,
+  "sector_minus_market": -0.03937,
+  "relation": "lagging"
+ },
+ "2025-07-31": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00037,
+  "market_20d_ret": 0.01874,
+  "sector_minus_market": -0.01912,
+  "relation": "lagging"
+ },
+ "2025-08-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01777,
+  "market_20d_ret": -0.00579,
+  "sector_minus_market": -0.01198,
+  "relation": "lagging"
+ },
+ "2025-08-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01084,
+  "market_20d_ret": 0.0169,
+  "sector_minus_market": -0.00606,
+  "relation": "lagging"
+ },
+ "2025-08-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00506,
+  "market_20d_ret": 0.0123,
+  "sector_minus_market": -0.00724,
+  "relation": "lagging"
+ },
+ "2025-08-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00626,
+  "market_20d_ret": 0.01397,
+  "sector_minus_market": -0.00771,
+  "relation": "lagging"
+ },
+ "2025-08-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00534,
+  "market_20d_ret": 0.01027,
+  "sector_minus_market": -0.00493,
+  "relation": "lagging"
+ },
+ "2025-08-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01528,
+  "market_20d_ret": 0.02174,
+  "sector_minus_market": -0.00646,
+  "relation": "lagging"
+ },
+ "2025-08-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01056,
+  "market_20d_ret": 0.01778,
+  "sector_minus_market": -0.00723,
+  "relation": "lagging"
+ },
+ "2025-08-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04019,
+  "market_20d_ret": 0.03303,
+  "sector_minus_market": 0.00716,
+  "relation": "leading"
+ },
+ "2025-08-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04515,
+  "market_20d_ret": 0.03311,
+  "sector_minus_market": 0.01204,
+  "relation": "leading"
+ },
+ "2025-08-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04237,
+  "market_20d_ret": 0.02693,
+  "sector_minus_market": 0.01544,
+  "relation": "leading"
+ },
+ "2025-08-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04982,
+  "market_20d_ret": 0.02527,
+  "sector_minus_market": 0.02454,
+  "relation": "leading"
+ },
+ "2025-08-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02964,
+  "market_20d_ret": 0.02311,
+  "sector_minus_market": 0.00654,
+  "relation": "leading"
+ },
+ "2025-08-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02151,
+  "market_20d_ret": 0.01741,
+  "sector_minus_market": 0.0041,
+  "relation": "leading"
+ },
+ "2025-08-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01291,
+  "market_20d_ret": 0.00615,
+  "sector_minus_market": 0.00676,
+  "relation": "leading"
+ },
+ "2025-08-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01013,
+  "market_20d_ret": 0.00178,
+  "sector_minus_market": 0.00835,
+  "relation": "leading"
+ },
+ "2025-08-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03429,
+  "market_20d_ret": 0.01289,
+  "sector_minus_market": 0.0214,
+  "relation": "leading"
+ },
+ "2025-08-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04157,
+  "market_20d_ret": 0.00868,
+  "sector_minus_market": 0.03289,
+  "relation": "leading"
+ },
+ "2025-08-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04599,
+  "market_20d_ret": 0.01558,
+  "sector_minus_market": 0.0304,
+  "relation": "leading"
+ },
+ "2025-08-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04453,
+  "market_20d_ret": 0.01918,
+  "sector_minus_market": 0.02535,
+  "relation": "leading"
+ },
+ "2025-08-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0391,
+  "market_20d_ret": 0.02664,
+  "sector_minus_market": 0.01246,
+  "relation": "leading"
+ },
+ "2025-08-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04966,
+  "market_20d_ret": 0.03752,
+  "sector_minus_market": 0.01214,
+  "relation": "leading"
+ },
+ "2025-09-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02811,
+  "market_20d_ret": 0.01442,
+  "sector_minus_market": 0.01369,
+  "relation": "leading"
+ },
+ "2025-09-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05348,
+  "market_20d_ret": 0.02511,
+  "sector_minus_market": 0.02837,
+  "relation": "leading"
+ },
+ "2025-09-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05894,
+  "market_20d_ret": 0.02582,
+  "sector_minus_market": 0.03312,
+  "relation": "leading"
+ },
+ "2025-09-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06917,
+  "market_20d_ret": 0.02371,
+  "sector_minus_market": 0.04546,
+  "relation": "leading"
+ },
+ "2025-09-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0668,
+  "market_20d_ret": 0.01828,
+  "sector_minus_market": 0.04852,
+  "relation": "leading"
+ },
+ "2025-09-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06739,
+  "market_20d_ret": 0.02266,
+  "sector_minus_market": 0.04473,
+  "relation": "leading"
+ },
+ "2025-09-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03964,
+  "market_20d_ret": 0.01481,
+  "sector_minus_market": 0.02482,
+  "relation": "leading"
+ },
+ "2025-09-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04743,
+  "market_20d_ret": 0.01976,
+  "sector_minus_market": 0.02768,
+  "relation": "leading"
+ },
+ "2025-09-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05531,
+  "market_20d_ret": 0.01932,
+  "sector_minus_market": 0.03599,
+  "relation": "leading"
+ },
+ "2025-09-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06746,
+  "market_20d_ret": 0.02715,
+  "sector_minus_market": 0.04031,
+  "relation": "leading"
+ },
+ "2025-09-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06968,
+  "market_20d_ret": 0.02596,
+  "sector_minus_market": 0.04372,
+  "relation": "leading"
+ },
+ "2025-09-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.07851,
+  "market_20d_ret": 0.03027,
+  "sector_minus_market": 0.04823,
+  "relation": "leading"
+ },
+ "2025-09-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.08257,
+  "market_20d_ret": 0.03785,
+  "sector_minus_market": 0.04472,
+  "relation": "leading"
+ },
+ "2025-09-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.08822,
+  "market_20d_ret": 0.04429,
+  "sector_minus_market": 0.04392,
+  "relation": "leading"
+ },
+ "2025-09-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06903,
+  "market_20d_ret": 0.03336,
+  "sector_minus_market": 0.03566,
+  "relation": "leading"
+ },
+ "2025-09-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06577,
+  "market_20d_ret": 0.03228,
+  "sector_minus_market": 0.03349,
+  "relation": "leading"
+ },
+ "2025-09-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06162,
+  "market_20d_ret": 0.02471,
+  "sector_minus_market": 0.03691,
+  "relation": "leading"
+ },
+ "2025-09-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05619,
+  "market_20d_ret": 0.01766,
+  "sector_minus_market": 0.03853,
+  "relation": "leading"
+ },
+ "2025-09-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06247,
+  "market_20d_ret": 0.01988,
+  "sector_minus_market": 0.04259,
+  "relation": "leading"
+ },
+ "2025-09-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06799,
+  "market_20d_ret": 0.02888,
+  "sector_minus_market": 0.03911,
+  "relation": "leading"
+ },
+ "2025-09-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.06819,
+  "market_20d_ret": 0.04047,
+  "sector_minus_market": 0.02772,
+  "relation": "leading"
+ },
+ "2025-10-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03588,
+  "market_20d_ret": 0.03839,
+  "sector_minus_market": -0.0025,
+  "relation": "lagging"
+ },
+ "2025-10-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02433,
+  "market_20d_ret": 0.03096,
+  "sector_minus_market": -0.00663,
+  "relation": "lagging"
+ },
+ "2025-10-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01836,
+  "market_20d_ret": 0.03394,
+  "sector_minus_market": -0.01558,
+  "relation": "lagging"
+ },
+ "2025-10-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01826,
+  "market_20d_ret": 0.03511,
+  "sector_minus_market": -0.01685,
+  "relation": "lagging"
+ },
+ "2025-10-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00861,
+  "market_20d_ret": 0.02889,
+  "sector_minus_market": -0.02028,
+  "relation": "lagging"
+ },
+ "2025-10-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01189,
+  "market_20d_ret": 0.03204,
+  "sector_minus_market": -0.02015,
+  "relation": "lagging"
+ },
+ "2025-10-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0091,
+  "market_20d_ret": 0.02057,
+  "sector_minus_market": -0.02968,
+  "relation": "lagging"
+ },
+ "2025-10-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03542,
+  "market_20d_ret": -0.00668,
+  "sector_minus_market": -0.02874,
+  "relation": "lagging"
+ },
+ "2025-10-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04003,
+  "market_20d_ret": 0.00322,
+  "sector_minus_market": -0.04325,
+  "relation": "lagging"
+ },
+ "2025-10-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02979,
+  "market_20d_ret": 0.00338,
+  "sector_minus_market": -0.03317,
+  "relation": "lagging"
+ },
+ "2025-10-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02548,
+  "market_20d_ret": 0.00909,
+  "sector_minus_market": -0.03456,
+  "relation": "lagging"
+ },
+ "2025-10-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03659,
+  "market_20d_ret": -0.00245,
+  "sector_minus_market": -0.03415,
+  "relation": "lagging"
+ },
+ "2025-10-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03408,
+  "market_20d_ret": 0.00104,
+  "sector_minus_market": -0.03512,
+  "relation": "lagging"
+ },
+ "2025-10-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01973,
+  "market_20d_ret": 0.00669,
+  "sector_minus_market": -0.02642,
+  "relation": "lagging"
+ },
+ "2025-10-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01486,
+  "market_20d_ret": 0.01218,
+  "sector_minus_market": -0.02705,
+  "relation": "lagging"
+ },
+ "2025-10-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01524,
+  "market_20d_ret": 0.01013,
+  "sector_minus_market": -0.02538,
+  "relation": "lagging"
+ },
+ "2025-10-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01521,
+  "market_20d_ret": 0.02083,
+  "sector_minus_market": -0.03604,
+  "relation": "lagging"
+ },
+ "2025-10-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02217,
+  "market_20d_ret": 0.02331,
+  "sector_minus_market": -0.04549,
+  "relation": "lagging"
+ },
+ "2025-10-27": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01172,
+  "market_20d_ret": 0.03249,
+  "sector_minus_market": -0.04421,
+  "relation": "lagging"
+ },
+ "2025-10-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01512,
+  "market_20d_ret": 0.03134,
+  "sector_minus_market": -0.04646,
+  "relation": "lagging"
+ },
+ "2025-10-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0036,
+  "market_20d_ret": 0.02833,
+  "sector_minus_market": -0.03193,
+  "relation": "lagging"
+ },
+ "2025-10-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01829,
+  "market_20d_ret": 0.01585,
+  "sector_minus_market": -0.03415,
+  "relation": "lagging"
+ },
+ "2025-10-31": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01358,
+  "market_20d_ret": 0.0192,
+  "sector_minus_market": -0.03278,
+  "relation": "lagging"
+ },
+ "2025-11-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02506,
+  "market_20d_ret": 0.01747,
+  "sector_minus_market": -0.04253,
+  "relation": "lagging"
+ },
+ "2025-11-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.028,
+  "market_20d_ret": 0.00915,
+  "sector_minus_market": -0.03715,
+  "relation": "lagging"
+ },
+ "2025-11-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01869,
+  "market_20d_ret": 0.00664,
+  "sector_minus_market": -0.02533,
+  "relation": "lagging"
+ },
+ "2025-11-06": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.02193,
+  "market_20d_ret": -0.00127,
+  "sector_minus_market": -0.02066,
+  "relation": "lagging"
+ },
+ "2025-11-07": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00612,
+  "market_20d_ret": 0.02749,
+  "sector_minus_market": -0.0336,
+  "relation": "lagging"
+ },
+ "2025-11-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.00492,
+  "market_20d_ret": 0.02775,
+  "sector_minus_market": -0.03267,
+  "relation": "lagging"
+ },
+ "2025-11-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.0034,
+  "market_20d_ret": 0.03136,
+  "sector_minus_market": -0.03477,
+  "relation": "lagging"
+ },
+ "2025-11-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01612,
+  "market_20d_ret": 0.02738,
+  "sector_minus_market": -0.04349,
+  "relation": "lagging"
+ },
+ "2025-11-13": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01962,
+  "market_20d_ret": 0.01726,
+  "sector_minus_market": -0.03688,
+  "relation": "lagging"
+ },
+ "2025-11-14": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03141,
+  "market_20d_ret": 0.01135,
+  "sector_minus_market": -0.04276,
+  "relation": "lagging"
+ },
+ "2025-11-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04353,
+  "market_20d_ret": -0.00839,
+  "sector_minus_market": -0.03514,
+  "relation": "lagging"
+ },
+ "2025-11-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04149,
+  "market_20d_ret": -0.0167,
+  "sector_minus_market": -0.02479,
+  "relation": "lagging"
+ },
+ "2025-11-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03848,
+  "market_20d_ret": -0.00774,
+  "sector_minus_market": -0.03074,
+  "relation": "lagging"
+ },
+ "2025-11-20": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.04581,
+  "market_20d_ret": -0.02863,
+  "sector_minus_market": -0.01719,
+  "relation": "lagging"
+ },
+ "2025-11-21": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03159,
+  "market_20d_ret": -0.0269,
+  "sector_minus_market": -0.00469,
+  "relation": "lagging"
+ },
+ "2025-11-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.03542,
+  "market_20d_ret": -0.02409,
+  "sector_minus_market": -0.01133,
+  "relation": "lagging"
+ },
+ "2025-11-25": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01956,
+  "market_20d_ret": -0.01752,
+  "sector_minus_market": -0.00203,
+  "relation": "lagging"
+ },
+ "2025-11-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": -0.01574,
+  "market_20d_ret": -0.01122,
+  "sector_minus_market": -0.00452,
+  "relation": "lagging"
+ },
+ "2025-11-28": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00936,
+  "market_20d_ret": 0.00524,
+  "sector_minus_market": 0.00412,
+  "relation": "leading"
+ },
+ "2025-12-01": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.00035,
+  "market_20d_ret": -0.00262,
+  "sector_minus_market": 0.00297,
+  "relation": "leading"
+ },
+ "2025-12-02": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.01444,
+  "market_20d_ret": -0.00265,
+  "sector_minus_market": 0.01709,
+  "relation": "leading"
+ },
+ "2025-12-03": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02057,
+  "market_20d_ret": 0.01281,
+  "sector_minus_market": 0.00776,
+  "relation": "leading"
+ },
+ "2025-12-04": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0209,
+  "market_20d_ret": 0.01005,
+  "sector_minus_market": 0.01085,
+  "relation": "leading"
+ },
+ "2025-12-05": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04208,
+  "market_20d_ret": 0.02294,
+  "sector_minus_market": 0.01914,
+  "relation": "leading"
+ },
+ "2025-12-08": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03702,
+  "market_20d_ret": 0.01887,
+  "sector_minus_market": 0.01815,
+  "relation": "leading"
+ },
+ "2025-12-09": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02745,
+  "market_20d_ret": 0.00235,
+  "sector_minus_market": 0.02511,
+  "relation": "leading"
+ },
+ "2025-12-10": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02513,
+  "market_20d_ret": 0.00669,
+  "sector_minus_market": 0.01844,
+  "relation": "leading"
+ },
+ "2025-12-11": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0288,
+  "market_20d_ret": 0.00847,
+  "sector_minus_market": 0.02033,
+  "relation": "leading"
+ },
+ "2025-12-12": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04128,
+  "market_20d_ret": 0.01446,
+  "sector_minus_market": 0.02681,
+  "relation": "leading"
+ },
+ "2025-12-15": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04707,
+  "market_20d_ret": 0.0131,
+  "sector_minus_market": 0.03397,
+  "relation": "leading"
+ },
+ "2025-12-16": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0492,
+  "market_20d_ret": 0.01983,
+  "sector_minus_market": 0.02937,
+  "relation": "leading"
+ },
+ "2025-12-17": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03577,
+  "market_20d_ret": 0.01715,
+  "sector_minus_market": 0.01863,
+  "relation": "leading"
+ },
+ "2025-12-18": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04749,
+  "market_20d_ret": 0.02089,
+  "sector_minus_market": 0.0266,
+  "relation": "leading"
+ },
+ "2025-12-19": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.05956,
+  "market_20d_ret": 0.043,
+  "sector_minus_market": 0.01656,
+  "relation": "leading"
+ },
+ "2025-12-22": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04591,
+  "market_20d_ret": 0.03915,
+  "sector_minus_market": 0.00676,
+  "relation": "leading"
+ },
+ "2025-12-23": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.04212,
+  "market_20d_ret": 0.02876,
+  "sector_minus_market": 0.01336,
+  "relation": "leading"
+ },
+ "2025-12-24": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.0365,
+  "market_20d_ret": 0.02275,
+  "sector_minus_market": 0.01375,
+  "relation": "leading"
+ },
+ "2025-12-26": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.034,
+  "market_20d_ret": 0.01564,
+  "sector_minus_market": 0.01836,
+  "relation": "leading"
+ },
+ "2025-12-29": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.02497,
+  "market_20d_ret": 0.00653,
+  "sector_minus_market": 0.01845,
+  "relation": "leading"
+ },
+ "2025-12-30": {
+  "sector_etf": "XLC",
+  "sector_20d_ret": 0.03329,
+  "market_20d_ret": 0.00991,
+  "sector_minus_market": 0.02338,
+  "relation": "leading"
+ }
+}

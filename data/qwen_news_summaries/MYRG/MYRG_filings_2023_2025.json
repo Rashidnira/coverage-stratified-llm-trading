@@ -1,0 +1,1705 @@
+{
+ "2023-01-09": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2023-01-09",
+   "accession": "0000700923-23-000006",
+   "items_found": [
+    "5.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "MYR Group Inc. announced the retirement of Betty R. Johnson as CFO."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "MYR Group Inc. announced the retirement of Betty R. Johnson as CFO and the appointment of Kelly Huntington as her successor, signaling a smooth leadership transition."
+   }
+  }
+ ],
+ "2023-02-22": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2023-02-22",
+   "accession": "0000700923-23-000011",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "MYR Group Inc. reported strong financial performance driven by robust demand."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cost pressures",
+     "margin expansion"
+    ],
+    "summary": "MYR Group Inc. reported strong financial performance driven by robust demand and strategic acquisitions, despite facing cost challenges."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "MYRG",
+   "filed_date": "2023-02-22",
+   "period_end": "2022-12-31",
+   "accession": "0000700923-23-000012",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "key_themes": [
+     "specialty electrical construction",
+     "electric utility infrastructure",
+     "commercial and industrial construction"
+    ],
+    "growth_signals": [
+     "long-standing relationships with customers",
+     "focus on profitable projects",
+     "diverse customer base",
+     "multi-year master service agreements",
+     "industry experience and technical expertise"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "industry & market",
+     "new project and growth",
+     "business and operating"
+    ],
+    "key_risks": [
+     "cyclical and seasonal variations",
+     "intense competition",
+     "negative economic conditions"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "revenue growth",
+     "competitive advantages",
+     "market position"
+    ],
+    "growth_signals": [
+     "revenues for the year ended December 31, 2022 of $3.01 billion compared to $2.50 billion for the year ended December 31, 2021"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "optimistic",
+    "summary": "MYRG reports strong revenue growth but faces significant industry and market risks."
+   }
+  }
+ ],
+ "2023-02-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2023-02-24",
+   "accession": "0000700923-23-000022",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "other",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group Inc. has posted presentation materials for potential use in meetings."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "presentation materials",
+     "meetings with stakeholders"
+    ],
+    "summary": "MYR Group Inc. has posted presentation materials for potential use in meetings and presentations throughout the quarter."
+   }
+  }
+ ],
+ "2023-03-27": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2023-03-27",
+   "accession": "0000700923-23-000031",
+   "items_found": [
+    "5.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group Inc. announced the retirement of Jeffrey J. \"Jeff\" Waneka as Senior Vice President."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_departure",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "MYR Group Inc. announced the retirement of Jeffrey J. \"Jeff\" Waneka as Senior Vice President and Chief Operating Officer of the Commercial and Industrial segment, while appointing Don A. Egan to take over the role."
+   }
+  }
+ ],
+ "2023-04-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2023-04-24",
+   "accession": "0000700923-23-000035",
+   "items_found": [
+    "5.02",
+    "5.03",
+    "5.07",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Maurice E. Moore retired from the board of MYR Group, Inc., after 13 years of service."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "board_change",
+    "market_impact": "neutral",
+    "key_themes": [
+     "retirement",
+     "leadership continuity signals"
+    ],
+    "summary": "Maurice E. Moore retired from the board of MYR Group, Inc., after 13 years of service, and the company appreciated his contributions."
+   }
+  }
+ ],
+ "2023-04-26": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2023-04-26",
+   "accession": "0000700923-23-000040",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "MYR Group reports solid Q1 results with positive momentum."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "customer relationship expansion",
+     "forward-looking growth"
+    ],
+    "summary": "MYR Group reports solid Q1 results with positive momentum, driven by strong financial performance and a record backlog, positioning the company for continued growth."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MYRG",
+   "date": "2023-04-26",
+   "quarter": "Q2",
+   "accession": "0000700923-23-000042",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "various risks involved in investing",
+     "business, employees, liquidity, financial condition, results of operations or cash flows affected",
+     "additional unknown risks"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights general risks without specifying changes from previous reports."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a neutral stance on operations but adopts a cautious tone regarding potential risks."
+   }
+  }
+ ],
+ "2023-04-27": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2023-04-27",
+   "accession": "0000700923-23-000044",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group Inc. has made available presentation materials for use in meetings."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "presentation materials",
+     "meetings with stakeholders"
+    ],
+    "summary": "MYR Group Inc. has made available presentation materials for use in meetings and presentations throughout the quarter."
+   }
+  }
+ ],
+ "2023-05-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2023-05-02",
+   "accession": "0000700923-23-000046",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "MYR Group announces a new share repurchase program aimed at enhancing shareholder value."
+   },
+   "item_8_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "buyback",
+    "market_impact": "positive",
+    "key_themes": [
+     "share repurchase",
+     "capital management",
+     "board authorization"
+    ],
+    "summary": "MYR Group announces a new share repurchase program aimed at enhancing shareholder value."
+   }
+  }
+ ],
+ "2023-07-26": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2023-07-26",
+   "accession": "0000700923-23-000055",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "MYR Group reports strong second-quarter performance with record revenues"
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "clean energy focus",
+     "forward-looking growth"
+    ],
+    "summary": "MYR Group reports strong second-quarter performance with record revenues and backlog, highlighting robust demand and strategic investments in clean energy."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MYRG",
+   "date": "2023-07-26",
+   "quarter": "Q3",
+   "accession": "0000700923-23-000056",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "various risks associated with investment",
+     "uncertainties not known to management",
+     "adverse effects on business and financials"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights general risks without specifying new or increased threats compared to previous reports."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a stable outlook but expresses caution regarding unspecified risks."
+   }
+  }
+ ],
+ "2023-07-27": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2023-07-27",
+   "accession": "0000700923-23-000058",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group Inc. has made available presentation materials for use in meetings."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "presentation materials",
+     "meetings with stakeholders"
+    ],
+    "summary": "MYR Group Inc. has made available presentation materials for use in meetings and presentations throughout the quarter."
+   }
+  }
+ ],
+ "2023-10-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2023-10-25",
+   "accession": "0000700923-23-000065",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group Inc. has posted presentation materials for use in meetings and presentations."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "presentation materials",
+     "meetings with stakeholders"
+    ],
+    "summary": "MYR Group Inc. has posted presentation materials for use in meetings and presentations throughout the quarter."
+   }
+  },
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2023-10-25",
+   "accession": "0000700923-23-000063",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "MYR Group reports record revenues driven by strong demand in clean energy projects."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "clean energy projects",
+     "customer relationship expansion"
+    ],
+    "summary": "MYR Group reports record revenues driven by strong demand in clean energy projects and maintains optimistic outlook despite cost pressures."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MYRG",
+   "date": "2023-10-25",
+   "quarter": "Q4",
+   "accession": "0000700923-23-000064",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "operational"
+    ],
+    "key_risks": [
+     "business risks",
+     "uncertainties",
+     "adverse effects on operations"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights general business risks and uncertainties without specifying changes from previous reports."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a neutral stance on operations but adopts a cautious tone regarding potential risks and uncertainties."
+   }
+  }
+ ],
+ "2023-11-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2023-11-01",
+   "accession": "0000700923-23-000067",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "MYR Group announces a new share repurchase program aimed at enhancing shareholder value."
+   },
+   "item_8_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "buyback",
+    "market_impact": "positive",
+    "key_themes": [
+     "share repurchase",
+     "capital management",
+     "board authorization"
+    ],
+    "summary": "MYR Group announces a new share repurchase program aimed at enhancing shareholder value."
+   }
+  }
+ ],
+ "2024-01-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2024-01-25",
+   "accession": "0000700923-24-000002",
+   "items_found": [
+    "5.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group Inc. announced Tod M. Cooper's retirement and Brian K. Stern's appointment."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_departure",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "MYR Group Inc. announced Tod M. Cooper's retirement and Brian K. Stern's appointment as new Senior Vice President and Chief Operating Officer, signaling smooth leadership transition."
+   }
+  }
+ ],
+ "2024-02-28": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2024-02-28",
+   "accession": "0000700923-24-000007",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "MYR Group Inc. reported strong financial performance driven by robust demand."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "clean energy projects",
+     "backlog growth"
+    ],
+    "summary": "MYR Group Inc. reported strong financial performance driven by robust demand in clean energy projects and a healthy backlog, positioning the company for continued growth in 2024."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "MYRG",
+   "filed_date": "2024-02-28",
+   "period_end": "2023-12-31",
+   "accession": "0000700923-24-000008",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "key_themes": [
+     "specialty electrical construction",
+     "electric utility infrastructure",
+     "commercial and industrial construction"
+    ],
+    "growth_signals": [
+     "long-standing relationships with customers",
+     "focus on profitable projects",
+     "diverse customer base",
+     "expansion into clean energy and EV charging infrastructure",
+     "multi-year master service agreements"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "industry & market",
+     "business and operating",
+     "new project and growth"
+    ],
+    "key_risks": [
+     "negative economic and market conditions",
+     "project performance issues",
+     "high competition",
+     "supply chain interruptions",
+     "inability to integrate acquisitions"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "revenue growth",
+     "competitive advantages",
+     "market position"
+    ],
+    "growth_signals": [
+     "revenues for the year ended December 31, 2023 of $3.64 billion compared to $3.01 billion for the year ended December 31, 2022",
+     "net income was $91.0 million compared to $83.4 million for the year ended December 31, 2022"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "summary": "MYRG reports strong revenue and net income growth but faces significant industry and operational risks."
+   }
+  }
+ ],
+ "2024-03-05": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2024-03-05",
+   "accession": "0000700923-24-000010",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group Inc. has made available presentation materials for use in meetings."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "presentation materials",
+     "meetings with stakeholders"
+    ],
+    "summary": "MYR Group Inc. has made available presentation materials for use in meetings and presentations throughout the quarter."
+   }
+  }
+ ],
+ "2024-04-29": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2024-04-29",
+   "accession": "0000700923-24-000024",
+   "items_found": [
+    "5.02",
+    "5.07",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group Inc. updated its long-term incentive plan to enhance retention and motivation."
+   },
+   "item_5_02": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "board_change",
+    "market_impact": "neutral",
+    "key_themes": [
+     "leadership continuity",
+     "incentive plan update"
+    ],
+    "summary": "MYR Group Inc. updated its long-term incentive plan to enhance retention and motivation of key personnel."
+   }
+  }
+ ],
+ "2024-05-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2024-05-01",
+   "accession": "0000700923-24-000027",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "cautious",
+    "event_category": "earnings",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group reports a slight revenue increase with mixed segment performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.5,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "neutral",
+    "key_themes": [
+     "cost pressures",
+     "macro headwinds",
+     "margin expansion"
+    ],
+    "summary": "MYR Group reports a slight revenue increase with mixed performance across segments, highlighting ongoing supply chain and regulatory challenges while expressing optimism about future growth."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MYRG",
+   "date": "2024-05-01",
+   "quarter": "Q2",
+   "accession": "0000700923-24-000029",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "infrastructure investment",
+     "market volatility",
+     "operational resilience"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "MYRG maintains a stable business momentum with cautious optimism about future opportunities in both T&D and C&I segments, despite facing market volatility and macroeconomic headwinds."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "material adverse effect on business",
+     "liquidity issues",
+     "financial condition deterioration"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing risks without noting significant changes since the last report."
+   },
+   "overall": {
+    "sentiment": -0.15,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "MYRG sustains stable operations with cautious optimism amid persistent risks."
+   }
+  }
+ ],
+ "2024-05-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2024-05-06",
+   "accession": "0000700923-24-000034",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "MYR Group announces a new share repurchase program reflecting confidence in its"
+   },
+   "item_8_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "buyback",
+    "market_impact": "positive",
+    "key_themes": [
+     "share repurchase",
+     "board authorization",
+     "financial flexibility"
+    ],
+    "summary": "MYR Group announces a new share repurchase program reflecting confidence in its financial position."
+   }
+  }
+ ],
+ "2024-05-08": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2024-05-08",
+   "accession": "0000700923-24-000038",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group Inc. has made available presentation materials for use in meetings."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "presentation materials",
+     "meetings with stakeholders"
+    ],
+    "summary": "MYR Group Inc. has made available presentation materials for use in meetings with stakeholders during the quarter ending June 30, 2024."
+   }
+  }
+ ],
+ "2024-07-31": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2024-07-31",
+   "accession": "0000700923-24-000043",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": -0.2,
+    "tone": "cautious",
+    "event_category": "earnings",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "MYR Group reported a decline in revenues and profits."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "cost pressures",
+     "macro headwinds",
+     "project challenges"
+    ],
+    "summary": "MYR Group reported a decline in revenues and profits, attributing the issues to specific project challenges while maintaining optimism about long-term growth prospects."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MYRG",
+   "date": "2024-07-31",
+   "quarter": "Q3",
+   "accession": "0000700923-24-000045",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "infrastructure investment",
+     "market volatility",
+     "operational efficiency"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "MYRG maintains a stable business momentum with cautious optimism about future opportunities in both T&D and C&I segments, despite facing market volatility and operational challenges."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "material adverse effect on business",
+     "liquidity issues",
+     "financial condition deterioration"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing risks without noting significant changes since the last report."
+   },
+   "overall": {
+    "sentiment": -0.15,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "MYRG sustains stable operations with cautious optimism amid persistent risks."
+   }
+  }
+ ],
+ "2024-08-21": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2024-08-21",
+   "accession": "0000700923-24-000047",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group Inc. has posted presentation materials for use in meetings and presentations."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "presentation materials",
+     "meetings with stakeholders"
+    ],
+    "summary": "MYR Group Inc. has posted presentation materials for use in meetings and presentations throughout the quarter."
+   }
+  }
+ ],
+ "2024-10-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2024-10-30",
+   "accession": "0000700923-24-000051",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "MYR Group reports improved third-quarter performance with robust bidding activity."
+   },
+   "item_2_02": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cost pressures",
+     "margin expansion"
+    ],
+    "summary": "MYR Group reports improved third-quarter performance with robust bidding activity and strategic expansion of customer relationships, despite facing cost challenges."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MYRG",
+   "date": "2024-10-30",
+   "quarter": "Q4",
+   "accession": "0000700923-24-000052",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "infrastructure investment",
+     "market volatility",
+     "operational efficiency"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "MYRG maintains a stable business momentum with cautious optimism about long-term growth driven by infrastructure investments, while facing short-term challenges from market volatility and operational cost pressures."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "material adverse effect on business",
+     "liquidity issues",
+     "financial condition deterioration"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing risks without noting significant changes since the last report."
+   },
+   "overall": {
+    "sentiment": -0.15,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "MYRG sustains a stable business momentum with cautious optimism, acknowledging persistent risks."
+   }
+  }
+ ],
+ "2024-11-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2024-11-06",
+   "accession": "0000700923-24-000054",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group Inc. has posted presentation materials for use in meetings and presentations."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "presentation materials",
+     "meetings with stakeholders"
+    ],
+    "summary": "MYR Group Inc. has posted presentation materials for use in meetings and presentations throughout the quarter."
+   }
+  }
+ ],
+ "2025-02-26": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2025-02-26",
+   "accession": "0000700923-25-000005",
+   "items_found": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "MYR Group reports improved performance and initiates a new share repurchase program."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "long-term growth opportunities",
+     "project execution"
+    ],
+    "summary": "MYR Group reports improved fourth-quarter performance with a focus on robust project opportunities and continued investment in infrastructure."
+   },
+   "item_8_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "buyback",
+    "market_impact": "positive",
+    "key_themes": [
+     "share repurchase",
+     "management discretion",
+     "funding flexibility"
+    ],
+    "summary": "MYRG announces a new share repurchase program aimed at enhancing shareholder value."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "MYRG",
+   "filed_date": "2025-02-26",
+   "period_end": "2024-12-31",
+   "accession": "0000700923-25-000006",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "key_themes": [
+     "specialty electrical construction",
+     "electric utility infrastructure",
+     "commercial and industrial construction"
+    ],
+    "growth_signals": [
+     "long-standing relationships with customers",
+     "focus on profitable projects",
+     "diverse customer base",
+     "expansion into clean energy and EV charging infrastructure",
+     "multi-year master service agreements"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "industry & market",
+     "new project and growth",
+     "business and operating"
+    ],
+    "key_risks": [
+     "negative economic and market conditions",
+     "inability to successfully execute or integrate acquisitions",
+     "project performance issues"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "competitive advantages",
+     "segment performance",
+     "revenue decline"
+    ],
+    "growth_signals": [
+     "better capitalized than some competitors"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.13333333333333333,
+    "tone": "cautious",
+    "summary": "MYRG presents an optimistic view on its business themes but expresses significant caution regarding potential risks."
+   }
+  }
+ ],
+ "2025-03-10": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2025-03-10",
+   "accession": "0000700923-25-000015",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group Inc. has made available presentation materials for use in meetings."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "presentation materials",
+     "meetings with stakeholders"
+    ],
+    "summary": "MYR Group Inc. has made available presentation materials for use in meetings and presentations throughout the quarter."
+   }
+  }
+ ],
+ "2025-04-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2025-04-30",
+   "accession": "0000700923-25-000021",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "MYR Group reports solid financial results with increases in revenue and net income."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "customer relationships"
+    ],
+    "summary": "MYR Group reports solid financial results with increases in revenue and net income, driven by strong customer relationships and healthy bidding activity."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MYRG",
+   "date": "2025-04-30",
+   "quarter": "Q2",
+   "accession": "0000700923-25-000022",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "increased infrastructure investment",
+     "strong market demand",
+     "capital allocation strategies"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "The company expresses optimism about future growth driven by increased infrastructure investment and strong market demand, supported by strategic capital allocation."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "material adverse effect on business",
+     "liquidity issues",
+     "financial condition deterioration"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing risks without noting significant changes since the last report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Despite highlighting ongoing risks, the company maintains an optimistic outlook on future growth."
+   }
+  }
+ ],
+ "2025-05-05": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2025-05-05",
+   "accession": "0000700923-25-000024",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group Inc. has made available presentation materials for use in meetings."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "presentation materials",
+     "meetings with stakeholders"
+    ],
+    "summary": "MYR Group Inc. has made available presentation materials for use in meetings and presentations to stakeholders during the quarter ending June 30, 2025."
+   }
+  }
+ ],
+ "2025-07-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2025-07-30",
+   "accession": "0000700923-25-000028",
+   "items_found": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "MYR Group reports strong earnings and board approves new share repurchase program."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "forward-looking growth"
+    ],
+    "summary": "MYR Group reports robust second-quarter performance with record earnings and backlog, highlighting strategic initiatives and positive outlook."
+   },
+   "item_8_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "buyback",
+    "market_impact": "positive",
+    "key_themes": [
+     "share repurchase",
+     "board approval",
+     "flexibility in execution"
+    ],
+    "summary": "MYRG's board approved a new share repurchase program, reflecting confidence in the company's future prospects."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MYRG",
+   "date": "2025-07-30",
+   "quarter": "Q3",
+   "accession": "0000700923-25-000029",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "increased infrastructure investment",
+     "competitive advantages",
+     "strategic capital allocation"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "The company expresses optimism about future growth driven by increased infrastructure investment and maintains a strong competitive position."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "material adverse effect on business",
+     "liquidity issues",
+     "financial condition deterioration"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing risks without noting significant changes since the last report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Despite highlighting ongoing risks, the company maintains an optimistic outlook on future growth."
+   }
+  }
+ ],
+ "2025-08-08": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2025-08-08",
+   "accession": "0000700923-25-000032",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group Inc. has made available presentation materials for use in meetings."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "presentation materials",
+     "meetings with stakeholders"
+    ],
+    "summary": "MYR Group Inc. has made available presentation materials for use in meetings and presentations throughout the quarter."
+   }
+  }
+ ],
+ "2025-08-26": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2025-08-26",
+   "accession": "0000700923-25-000036",
+   "items_found": [
+    "5.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "MYR Group Inc. appointed Aurelie P. Richard to the Board."
+   },
+   "item_5_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "board_change",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "MYR Group Inc. appointed Aurelie P. Richard to the Board following William D. Patterson's retirement, signaling continued strong governance."
+   }
+  }
+ ],
+ "2025-10-29": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2025-10-29",
+   "accession": "0000700923-25-000042",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "MYR Group reports robust third-quarter performance with record earnings, driven"
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "future growth opportunities"
+    ],
+    "summary": "MYR Group reports robust third-quarter performance with record earnings, driven by enhanced customer relationships and strong market conditions, positioning the company for sustained success."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MYRG",
+   "date": "2025-10-29",
+   "quarter": "Q4",
+   "accession": "0000700923-25-000043",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "increased infrastructure investment",
+     "competitive advantages",
+     "strategic capital allocation"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "The company expresses optimism about future growth driven by increased infrastructure investment and maintains a strategic approach to capital allocation."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "material adverse effect on business",
+     "liquidity issues",
+     "financial condition deterioration"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing risks without noting significant changes since the last report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Despite highlighting ongoing risks, the company maintains an optimistic outlook on future growth."
+   }
+  }
+ ],
+ "2025-11-10": [
+  {
+   "filing_type": "8K",
+   "ticker": "MYRG",
+   "date": "2025-11-10",
+   "accession": "0000700923-25-000045",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "MYR Group Inc. has posted presentation materials for use in meetings with stakeholders."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "presentation materials",
+     "meetings with stakeholders"
+    ],
+    "summary": "MYR Group Inc. has posted presentation materials for use in meetings with stakeholders during the quarter."
+   }
+  }
+ ]
+}

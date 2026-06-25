@@ -1,0 +1,1431 @@
+{
+ "2023-01-12": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2023-01-12",
+   "accession": "0000108985-23-000002",
+   "items_found": [
+    "7.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "regulatory",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The York Water Company announces a settlement allowing a rate increase"
+   },
+   "item_7_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "business_update",
+    "market_impact": "positive",
+    "key_themes": [
+     "infrastructure improvement",
+     "customer support",
+     "cost recovery"
+    ],
+    "summary": "The York Water Company announces a settlement allowing a rate increase to recover significant investments in infrastructure while maintaining customer affordability."
+   }
+  }
+ ],
+ "2023-02-27": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2023-02-27",
+   "accession": "0001140361-23-008783",
+   "items_found": [
+    "1.01",
+    "2.03",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "deal",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The filing includes a mention of a material definitive agreement."
+   },
+   "item_1_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "material definitive agreement"
+    ],
+    "summary": "The filing mentions the inclusion of a material definitive agreement without providing further details."
+   }
+  }
+ ],
+ "2023-03-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2023-03-07",
+   "accession": "0000108985-23-000015",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The York Water Company reports strong financial performance driven by customers."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "infrastructure investment",
+     "customer base growth"
+    ],
+    "summary": "The York Water Company reports strong financial performance driven by customer base growth and strategic investments in infrastructure."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "YORW",
+   "filed_date": "2023-03-07",
+   "period_end": "2022-12-31",
+   "accession": "0000108985-23-000016",
+   "rf_not_applicable": true,
+   "business": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "historical stability",
+     "regulated environment",
+     "water supply diversification"
+    ],
+    "growth_signals": [
+     "instituting minimum customer charges",
+     "looking for water and wastewater acquisition and expansion opportunities",
+     "entering into bulk water contracts with municipalities"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": []
+   },
+   "mda": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "revenue growth",
+     "infrastructure investment",
+     "rate increases"
+    ],
+    "growth_signals": [
+     "operating revenues increased 9.0%",
+     "net income increased 15.3%"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.67,
+    "tone": "optimistic",
+    "summary": "The company exhibits strong optimism with positive growth signals and historical stability in a regulated environment."
+   }
+  }
+ ],
+ "2023-05-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2023-05-02",
+   "accession": "0000108985-23-000041",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Management reported increased revenues but noted challenges from higher operations."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "neutral",
+    "key_themes": [
+     "cost pressures",
+     "infrastructure investment"
+    ],
+    "summary": "Management reported increased revenues but noted challenges from higher operating costs and tax implications, while emphasizing ongoing investments in infrastructure."
+   }
+  }
+ ],
+ "2023-05-19": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2023-05-19",
+   "accession": "0001140361-23-025640",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Mark A. Wheeler resigned as Chief Operating Officer and Secretary without any details provided."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "executive_departure",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "reason if given",
+     "leadership continuity signals"
+    ],
+    "summary": "Mark A. Wheeler resigned as Chief Operating Officer and Secretary without any disagreements with the company's policies, operations, or practices."
+   }
+  }
+ ],
+ "2023-06-21": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2023-06-21",
+   "accession": "0000108985-23-000070",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "York Water Company appoints Matthew J. Scarpato as Vice President of Operations."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "York Water Company appoints Matthew J. Scarpato as Vice President of Operations, signaling continued strong leadership."
+   }
+  }
+ ],
+ "2023-07-12": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2023-07-12",
+   "accession": "0000108985-23-000073",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Cynthia A. Dotzel resigned from the Board of Directors of The York Water Company."
+   },
+   "item_5_02": {
+    "sentiment": 0.2,
+    "tone": "neutral",
+    "event_type": "board_change",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "reason if given",
+     "leadership continuity signals"
+    ],
+    "summary": "Cynthia A. Dotzel resigned from the Board of Directors of The York Water Company, and George W. Hodges was appointed to succeed her."
+   }
+  }
+ ],
+ "2023-08-03": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2023-08-03",
+   "accession": "0000108985-23-000084",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The York Water Company reports strong revenue growth and increased net income."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "revenue growth",
+     "customer base expansion",
+     "infrastructure investment"
+    ],
+    "summary": "The York Water Company reports strong revenue growth and increased net income, driven by rate increases and customer base expansion, while emphasizing ongoing investments in infrastructure."
+   }
+  }
+ ],
+ "2023-08-28": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2023-08-28",
+   "accession": "0000108985-23-000090",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "George Hay Kain III retired from the Board of Directors after 37 years of service."
+   },
+   "item_5_02": {
+    "sentiment": 0.2,
+    "tone": "neutral",
+    "event_type": "board_change",
+    "market_impact": "neutral",
+    "key_themes": [
+     "retirement",
+     "long-term service",
+     "director emeritus"
+    ],
+    "summary": "George Hay Kain III retired from the Board of Directors after 37 years of service and was designated as a Director Emeritus."
+   }
+  }
+ ],
+ "2023-09-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2023-09-01",
+   "accession": "0000108985-23-000092",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "The York Water Company appointed Mr. Douglas S. Brossman as a new director."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "board_change",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "The York Water Company appointed Mr. Douglas S. Brossman as a new director, signaling continued strong leadership."
+   }
+  }
+ ],
+ "2023-11-03": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2023-11-03",
+   "accession": "0000108985-23-000105",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The York Water Company reports strong earnings growth."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "capital investment",
+     "customer growth"
+    ],
+    "summary": "The York Water Company reports strong earnings growth driven by rate increases and customer base expansion, with continued investment in infrastructure."
+   }
+  }
+ ],
+ "2023-11-21": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2023-11-21",
+   "accession": "0000108985-23-000108",
+   "items_found": [
+    "8.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The York Water Company announces an increase in its quarterly dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "dividend increase",
+     "company performance",
+     "infrastructure investment"
+    ],
+    "summary": "The York Water Company announces a 4% increase in its quarterly dividend, highlighting strong performance despite drought conditions."
+   }
+  }
+ ],
+ "2024-01-19": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2024-01-19",
+   "accession": "0000108985-24-000008",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Natalee C. Gunderson resigned her positions as Vice President of Human Resources."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "executive_departure",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "reason if given"
+    ],
+    "summary": "Natalee C. Gunderson resigned her positions as Vice President of Human Resources and Secretary without any reported disagreements."
+   }
+  }
+ ],
+ "2024-01-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2024-01-30",
+   "accession": "0000108985-24-000011",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Vernon L. Bracey, Vice President of Customer Service, is retiring after a long tenure."
+   },
+   "item_5_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "executive_departure",
+    "market_impact": "neutral",
+    "key_themes": [
+     "reason if given",
+     "leadership continuity signals"
+    ],
+    "summary": "Vernon L. Bracey, Vice President of Customer Service, is retiring after a long tenure with the company."
+   }
+  }
+ ],
+ "2024-02-28": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2024-02-28",
+   "accession": "0001140361-24-009956",
+   "items_found": [
+    "1.01",
+    "2.03",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "deal",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The filing mentions the inclusion of a material agreement without providing further details."
+   },
+   "item_1_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "material agreement"
+    ],
+    "summary": "The filing mentions the inclusion of a material agreement without providing further details."
+   }
+  }
+ ],
+ "2024-03-05": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2024-03-05",
+   "accession": "0000108985-24-000017",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The York Water Company appoints Ashley M. Grimm as Vice President of Human Resources."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "The York Water Company appoints Ashley M. Grimm as Vice President of Human Resources and Secretary, signaling continued strong leadership."
+   }
+  },
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2024-03-05",
+   "accession": "0000108985-24-000015",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The York Water Company reports strong financial performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "investment in infrastructure",
+     "customer growth"
+    ],
+    "summary": "The York Water Company reports strong financial performance with increased revenues and net income, driven by rate increases and customer growth, while emphasizing continued investment in infrastructure."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "YORW",
+   "filed_date": "2024-03-05",
+   "period_end": "2023-12-31",
+   "accession": "0000108985-24-000020",
+   "rf_not_applicable": true,
+   "business": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "historical stability",
+     "regulated environment",
+     "water supply diversification"
+    ],
+    "growth_signals": [
+     "instituting minimum customer charges",
+     "looking for water and wastewater acquisition and expansion opportunities",
+     "entering into bulk water contracts with municipalities"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": []
+   },
+   "mda": {
+    "sentiment": 0.75,
+    "tone": "optimistic",
+    "key_themes": [
+     "revenue growth",
+     "customer base expansion",
+     "infrastructure investment"
+    ],
+    "growth_signals": [
+     "operating revenues increased 18.3%",
+     "net income increased 21.3%",
+     "expect modest revenue increase in 2024"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.725,
+    "tone": "optimistic",
+    "summary": "The company exhibits strong growth signals and an optimistic outlook despite operating in a regulated environment."
+   }
+  }
+ ],
+ "2024-05-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2024-05-07",
+   "accession": "0000108985-24-000039",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The York Water Company reports strong first quarter earnings."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "revenue growth",
+     "infrastructure investment",
+     "customer base expansion"
+    ],
+    "summary": "The York Water Company reports strong first quarter earnings, driven by rate increases and customer growth, while emphasizing continued investment in infrastructure."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "YORW",
+   "date": "2024-05-07",
+   "quarter": "Q2",
+   "accession": "0000108985-24-000037",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "weather dependency",
+     "regulatory environment",
+     "expansion opportunities"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The company maintains a stable business momentum with cautious optimism, focusing on regulatory compliance, weather-dependent operations, and seeking expansion opportunities."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unknown",
+    "summary": ""
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company maintains a stable business momentum with cautious optimism."
+   }
+  }
+ ],
+ "2024-08-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2024-08-02",
+   "accession": "0000108985-24-000072",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "earnings",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "The company reported a decrease in net income due to higher operational costs."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "cost pressures",
+     "macro headwinds"
+    ],
+    "summary": "The company reported a decrease in net income due to higher operational costs and interest expenses, despite increased revenues."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "YORW",
+   "date": "2024-08-02",
+   "quarter": "Q3",
+   "accession": "0000108985-24-000070",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "weather dependency",
+     "regulatory environment",
+     "expansion opportunities"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The company maintains a stable business momentum with cautious optimism, focusing on regulatory compliance, weather-dependent operations, and seeking expansion opportunities."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unknown",
+    "summary": ""
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company maintains a stable business momentum with cautious optimism."
+   }
+  }
+ ],
+ "2024-08-27": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2024-08-27",
+   "accession": "0000108985-24-000077",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "The York Water Company appointed Mr. Robert F. Lambert as an independent director."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "board_change",
+    "market_impact": "positive",
+    "key_themes": [
+     "new independent director",
+     "leadership continuity signals"
+    ],
+    "summary": "The York Water Company appointed Mr. Robert F. Lambert as an independent director, signaling continued strong governance and leadership."
+   }
+  }
+ ],
+ "2024-10-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2024-10-07",
+   "accession": "0001140361-24-042944",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Ernest J. Waters retired from the Board of Directors after 17 years."
+   },
+   "item_5_02": {
+    "sentiment": 0.2,
+    "tone": "neutral",
+    "event_type": "board_change",
+    "market_impact": "neutral",
+    "key_themes": [
+     "retirement",
+     "leadership continuity"
+    ],
+    "summary": "Ernest J. Waters retired from the Board of Directors after 17 years, maintaining continuity through designation as Director Emeritus."
+   }
+  }
+ ],
+ "2024-11-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2024-11-07",
+   "accession": "0000108985-24-000088",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "earnings",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "York Water reports increased revenues but faces challenges with higher operating costs."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "cost pressures",
+     "investment in infrastructure"
+    ],
+    "summary": "York Water reports increased revenues but faces challenges with higher operating and maintenance expenses, leading to decreased net income."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "YORW",
+   "date": "2024-11-07",
+   "quarter": "Q4",
+   "accession": "0000108985-24-000089",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "weather dependency",
+     "regulatory environment",
+     "expansion opportunities"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The company maintains a stable business momentum with cautious optimism, focusing on regulatory compliance, weather-dependent operations, and seeking expansion opportunities."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unknown",
+    "summary": ""
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company maintains a stable business momentum with cautious optimism."
+   }
+  }
+ ],
+ "2024-11-26": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2024-11-26",
+   "accession": "0000108985-24-000094",
+   "items_found": [
+    "8.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The York Water Company announces an increase in their quarterly dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "dividend increase",
+     "infrastructure investment",
+     "customer base expansion"
+    ],
+    "summary": "The York Water Company announces a 4% increase in quarterly dividend, highlighting successful infrastructure projects and long-term shareholder value."
+   }
+  },
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2024-11-26",
+   "accession": "0000108985-24-000093",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The York Water Company appoints Suzanne M. Becker as Vice President of Customer"
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "The York Water Company appoints Suzanne M. Becker as Vice President of Customer Service, signaling continued strong leadership."
+   }
+  }
+ ],
+ "2025-03-04": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2025-03-04",
+   "accession": "0000108985-25-000014",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "earnings",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "The company reported mixed results with increased revenues offset by higher costs."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "cost pressures",
+     "investment in infrastructure"
+    ],
+    "summary": "The company reported mixed results with increased revenues offset by higher costs, leading to decreased net income."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "YORW",
+   "filed_date": "2025-03-04",
+   "period_end": "2024-12-31",
+   "accession": "0000108985-25-000015",
+   "rf_not_applicable": true,
+   "business": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "historical stability",
+     "regulated environment",
+     "water supply diversification"
+    ],
+    "growth_signals": [
+     "instituting minimum customer charges",
+     "looking for water and wastewater acquisition and expansion opportunities",
+     "entering into bulk water contracts with municipalities"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": []
+   },
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "revenue growth",
+     "cost management",
+     "acquisition strategy"
+    ],
+    "growth_signals": [
+     "operating revenues increased 5.5% YoY",
+     "increase in the number of customers",
+     "DSIC revenues"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.3,
+    "tone": "cautious",
+    "summary": "The company exhibits historical stability and optimism in its business operations despite a cautious approach towards future growth."
+   }
+  }
+ ],
+ "2025-05-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2025-05-06",
+   "accession": "0000108985-25-000039",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "earnings",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "The company reports increased revenues but faces operational challenges."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "cost pressures",
+     "investment in infrastructure"
+    ],
+    "summary": "The company reports increased revenues but faces challenges with higher operational and maintenance expenses, leading to a decrease in net income."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "YORW",
+   "date": "2025-05-06",
+   "quarter": "Q2",
+   "accession": "0000108985-25-000041",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "weather dependency",
+     "regulatory environment",
+     "acquisition and expansion"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The company maintains a stable business momentum with cautious optimism, focusing on regulatory compliance, weather impacts, and expansion opportunities."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unknown",
+    "summary": ""
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company maintains a stable business momentum with cautious optimism."
+   }
+  }
+ ],
+ "2025-08-12": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2025-08-12",
+   "accession": "0000108985-25-000068",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "earnings",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The company reports modest revenue growth driven by customer base expansion."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "neutral",
+    "key_themes": [
+     "cost pressures",
+     "investment in infrastructure"
+    ],
+    "summary": "The company reports modest revenue growth driven by customer base expansion and DSIC, but faces challenges from rising operational costs and interest expenses."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "YORW",
+   "date": "2025-08-12",
+   "quarter": "Q3",
+   "accession": "0000108985-25-000070",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "weather dependency",
+     "regulatory environment",
+     "acquisition and expansion"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The company maintains a stable business momentum with cautious optimism, focusing on regulatory compliance, weather impacts, and expansion opportunities."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unknown",
+    "summary": ""
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company maintains a stable business momentum with cautious optimism."
+   }
+  }
+ ],
+ "2025-08-26": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2025-08-26",
+   "accession": "0000108985-25-000072",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "The York Water Company appointed Mr. William T. Yanavitch II as a new independent director."
+   },
+   "item_5_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "board_change",
+    "market_impact": "positive",
+    "key_themes": [
+     "new independent director",
+     "leadership continuity signals"
+    ],
+    "summary": "The York Water Company appointed Mr. William T. Yanavitch II as a new independent director, signaling continued strong governance and leadership."
+   }
+  }
+ ],
+ "2025-09-29": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2025-09-29",
+   "accession": "0000108985-25-000077",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The York Water Company appoints Matthew J. Scarpato as Chief Operating Officer."
+   },
+   "item_5_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "The York Water Company appoints Matthew J. Scarpato as Chief Operating Officer, signaling continued strong leadership."
+   }
+  }
+ ],
+ "2025-10-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2025-10-30",
+   "accession": "0000108985-25-000089",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Michael W. Gang, Esq. retired from the Board of Directors after 29 years of service."
+   },
+   "item_5_02": {
+    "sentiment": 0.2,
+    "tone": "neutral",
+    "event_type": "board_change",
+    "market_impact": "neutral",
+    "key_themes": [
+     "retirement",
+     "long-term service",
+     "director emeritus designation"
+    ],
+    "summary": "Michael W. Gang, Esq. retired from the Board of Directors after 29 years of service and was designated as a Director Emeritus."
+   }
+  }
+ ],
+ "2025-11-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2025-11-06",
+   "accession": "0000108985-25-000091",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "earnings",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The company reports mixed results with revenue growth driven by customer expansion."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "neutral",
+    "key_themes": [
+     "cost pressures",
+     "customer growth",
+     "infrastructure investment"
+    ],
+    "summary": "The company reports mixed results with revenue growth driven by customer expansion and infrastructure charges, but faces challenges from rising operational costs and interest expenses."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "YORW",
+   "date": "2025-11-06",
+   "quarter": "Q4",
+   "accession": "0000108985-25-000093",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "weather dependency",
+     "regulatory environment",
+     "acquisition and expansion"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The company maintains a stable business momentum with cautious optimism, focusing on regulatory compliance, weather-dependent operations, and strategic expansions."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unknown",
+    "summary": ""
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company maintains a stable business momentum with cautious optimism."
+   }
+  }
+ ],
+ "2025-11-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "YORW",
+   "date": "2025-11-25",
+   "accession": "0000108985-25-000096",
+   "items_found": [
+    "8.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "The York Water Company announces an increase in its quarterly dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "long-term strategy",
+     "financial strength",
+     "infrastructure investment",
+     "customer commitment",
+     "shareholder value"
+    ],
+    "summary": "The York Water Company announces a 4% increase in its quarterly dividend, reflecting the board's confidence in the company's long-term strategy and financial health."
+   }
+  }
+ ]
+}

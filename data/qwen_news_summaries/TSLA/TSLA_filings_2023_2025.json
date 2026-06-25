@@ -1,0 +1,1546 @@
+{
+ "2023-01-03": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2023-01-03",
+   "accession": "0001564590-23-000002",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla highlights strong vehicle production and delivery growth despite challenges."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "production growth",
+     "supply chain resilience"
+    ],
+    "summary": "Tesla highlights strong vehicle production and delivery growth despite challenges, setting a positive tone for the upcoming earnings release."
+   }
+  }
+ ],
+ "2023-01-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2023-01-25",
+   "accession": "0001564590-23-000799",
+   "items_found": [
+    "1.01"
+   ],
+   "items_analyzed": [
+    "1.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla provides an optimistic update on their fourth quarter and full year 2022 performance."
+   },
+   "item_1_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "other",
+    "market_impact": "positive",
+    "key_themes": [
+     "Fourth Quarter and Full Year 2022 Update",
+     "Operational Summary",
+     "Vehicle Capacity",
+     "Core Technology",
+     "Outlook"
+    ],
+    "summary": "Tesla provides an optimistic update on their fourth quarter and full year 2022 performance, highlighting operational improvements, technological advancements, and positive outlook."
+   }
+  }
+ ],
+ "2023-01-31": [
+  {
+   "filing_type": "10K",
+   "ticker": "TSLA",
+   "filed_date": "2023-01-31",
+   "period_end": "2022-12-31",
+   "accession": "0000950170-23-001409",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "key_themes": [
+     "sustainable energy",
+     "automotive innovation",
+     "energy storage"
+    ],
+    "growth_signals": [
+     "early production and deliveries of the Tesla Semi",
+     "planned electric vehicles including Cybertruck and Tesla Roadster",
+     "developing full self-driving technology",
+     "expanding manufacturing operations globally",
+     "customizing energy solutions for specific customer needs"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "macroeconomic",
+     "supply chain",
+     "operational",
+     "geopolitical",
+     "financial"
+    ],
+    "key_risks": [
+     "impact of global COVID-19 pandemic",
+     "launch and production ramp delays",
+     "supplier component shortages",
+     "construction and production ramp issues at new factories",
+     "inability to accurately project and manage growth"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "vehicle production and delivery",
+     "energy storage and solar deployment",
+     "financial performance improvement"
+    ],
+    "growth_signals": [
+     "revenues of $81.46 billion, up $27.64 billion YoY",
+     "net income of $12.56 billion, up $7.04 billion YoY",
+     "cash and cash equivalents increased by $4.48 billion"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.3,
+    "tone": "optimistic",
+    "summary": "Tesla reports strong financial growth and maintains an optimistic outlook despite facing significant operational and macroeconomic challenges."
+   }
+  }
+ ],
+ "2023-04-03": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2023-04-03",
+   "accession": "0001564590-23-005126",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla reports strong vehicle production and delivery figures, indicating robust performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "production efficiency",
+     "global expansion"
+    ],
+    "summary": "Tesla reports strong vehicle production and delivery figures, indicating robust demand and operational improvements, while setting the stage for an upcoming earnings call."
+   }
+  }
+ ],
+ "2023-04-19": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2023-04-19",
+   "accession": "0001564590-23-005959",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses strong confidence in Tesla's continued growth."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cost reduction",
+     "technology leadership"
+    ],
+    "summary": "Management expresses strong confidence in Tesla's continued growth, highlighting robust demand, technological advancements, and cost reductions."
+   }
+  }
+ ],
+ "2023-07-03": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2023-07-03",
+   "accession": "0000950170-23-031241",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla reports strong vehicle production and delivery figures, indicating robust performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "forward-looking statements"
+    ],
+    "summary": "Tesla reports strong vehicle production and delivery figures, indicating robust business momentum and sets a date for their upcoming earnings call."
+   }
+  }
+ ],
+ "2023-07-19": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2023-07-19",
+   "accession": "0000950170-23-033544",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla reports a record quarter with robust production and deliveries."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cost reduction",
+     "innovation focus",
+     "forward-looking optimism"
+    ],
+    "summary": "Tesla reports a record quarter with robust production and deliveries, highlighting cost reduction efforts and innovation in AI despite macroeconomic challenges."
+   }
+  }
+ ],
+ "2023-08-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2023-08-07",
+   "accession": "0000950170-23-038779",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla appoints Vaibhav Taneja as Chief Financial Officer, signaling continued stability and growth."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "Tesla appoints Vaibhav Taneja as Chief Financial Officer, signaling continued strong leadership."
+   }
+  }
+ ],
+ "2023-10-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2023-10-02",
+   "accession": "0000950170-23-050938",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla reports strong vehicle production and delivery figures for Q3."
+   },
+   "item_2_02": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "planned downtimes",
+     "volume targets"
+    ],
+    "summary": "Tesla reports strong vehicle production and delivery figures for Q3, despite planned downtimes, and maintains its annual volume target."
+   }
+  }
+ ],
+ "2023-10-18": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2023-10-18",
+   "accession": "0001628280-23-034588",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management highlights strong demand, cost reduction efforts, and significant investments."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cost reduction",
+     "investment in AI"
+    ],
+    "summary": "Management highlights strong demand, cost reduction efforts, and significant investment in AI, indicating a positive outlook despite some operational challenges."
+   }
+  }
+ ],
+ "2023-10-23": [
+  {
+   "filing_type": "10Q",
+   "ticker": "TSLA",
+   "date": "2023-10-23",
+   "quarter": "Q4",
+   "accession": "0001628280-23-034847",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "various risks and uncertainties",
+     "adverse effects on business",
+     "financial conditions and future results"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights general risks without specifying new or increased threats."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a neutral stance on operations but adopts a cautious tone regarding potential risks."
+   }
+  }
+ ],
+ "2024-01-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2024-01-02",
+   "accession": "0000950170-24-000282",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla reports strong vehicle production and delivery growth in 2023."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "growth momentum"
+    ],
+    "summary": "Tesla reports strong vehicle production and delivery growth in 2023, expressing gratitude to stakeholders and looking forward to discussing financial results."
+   }
+  }
+ ],
+ "2024-01-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2024-01-24",
+   "accession": "0000950170-24-007073",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla reports robust performance with Model Y leading global sales"
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "future growth",
+     "technological advancement"
+    ],
+    "summary": "Tesla reports robust performance with Model Y leading global sales, emphasizing continued investment in technology and future growth."
+   }
+  }
+ ],
+ "2024-01-29": [
+  {
+   "filing_type": "10K",
+   "ticker": "TSLA",
+   "filed_date": "2024-01-29",
+   "period_end": "2023-12-31",
+   "accession": "0001628280-24-002390",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "growth_signals": []
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic",
+     "supply chain",
+     "operational"
+    ],
+    "key_risks": [
+     "regulatory changes",
+     "intense competition",
+     "economic downturns",
+     "supply chain disruptions",
+     "production challenges"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "inventory management",
+     "solar energy systems",
+     "property investment"
+    ],
+    "growth_signals": [
+     "increase in total inventory",
+     "stable solar energy systems in service",
+     "expansion of property, plant and equipment"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "neutral",
+    "summary": "Despite optimistic growth signals, Tesla faces significant regulatory, competitive, macroeconomic, supply chain, and operational risks."
+   }
+  }
+ ],
+ "2024-04-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2024-04-02",
+   "accession": "0000950170-24-040274",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla reports strong vehicle production and energy storage deployments despite challenges."
+   },
+   "item_2_02": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "production challenges",
+     "forward-looking optimism"
+    ],
+    "summary": "Tesla reports strong vehicle production and energy storage deployments despite facing production challenges, indicating ongoing business momentum and setting a positive tone for the upcoming earnings call."
+   }
+  }
+ ],
+ "2024-04-16": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2024-04-16",
+   "accession": "0000950170-24-044588",
+   "items_found": [
+    "5.02",
+    "8.01"
+   ],
+   "items_analyzed": [
+    "5.02",
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.35,
+    "tone": "cautious",
+    "event_category": "management",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Tesla announces a global restructuring and acknowledges Andrew Baglino's departure."
+   },
+   "item_5_02": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "executive_departure",
+    "market_impact": "neutral",
+    "key_themes": [
+     "leadership continuity signals",
+     "reason if given"
+    ],
+    "summary": "Andrew Baglino's departure from Tesla is noted with gratitude for his long-standing contributions and leadership."
+   },
+   "item_8_01": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "restructuring",
+    "market_impact": "negative",
+    "key_themes": [
+     "cost reduction",
+     "productivity increase",
+     "future growth"
+    ],
+    "summary": "Tesla announces a global restructuring aimed at reducing costs and improving productivity to support future technological advancements."
+   }
+  }
+ ],
+ "2024-04-23": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2024-04-23",
+   "accession": "0000950170-24-046895",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "management",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Despite facing several challenges, Tesla remains committed to its long-term goal."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "macro headwinds",
+     "cost pressures",
+     "investment in future growth"
+    ],
+    "summary": "Despite facing several challenges, Tesla remains committed to its long-term goals, focusing on cost reduction and investment in technology."
+   }
+  }
+ ],
+ "2024-04-24": [
+  {
+   "filing_type": "10Q",
+   "ticker": "TSLA",
+   "date": "2024-04-24",
+   "quarter": "Q2",
+   "accession": "0001628280-24-017503",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "cost reduction",
+     "AI investment",
+     "geographic expansion"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Tesla continues to focus on profitable growth through cost reduction, AI advancements, and geographic expansion despite facing some operational challenges."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "various risks and uncertainties",
+     "adverse effects on business and financial conditions",
+     "future results"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights multiple unspecified risks that could negatively impact the company's performance."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Tesla maintains an optimistic outlook on profitable growth despite highlighting potential risks."
+   }
+  }
+ ],
+ "2024-07-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2024-07-02",
+   "accession": "0001628280-24-030714",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management highlights strong vehicle production and delivery figures."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "record storage deployment"
+    ],
+    "summary": "Management highlights strong vehicle production and delivery figures alongside record energy storage deployments, indicating robust business momentum."
+   }
+  }
+ ],
+ "2024-07-23": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2024-07-23",
+   "accession": "0001628280-24-032603",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla reported strong performance in Q2, highlighting robust demand for its vehicles."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "technology leadership",
+     "cost reduction"
+    ],
+    "summary": "Tesla reported strong performance in Q2, highlighting robust demand for its vehicles and energy storage solutions, while emphasizing advancements in AI and ongoing efforts to reduce costs."
+   }
+  }
+ ],
+ "2024-07-24": [
+  {
+   "filing_type": "10Q",
+   "ticker": "TSLA",
+   "date": "2024-07-24",
+   "quarter": "Q3",
+   "accession": "0001628280-24-032662",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "cost reduction",
+     "AI investment",
+     "geographic expansion"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Tesla continues to focus on profitable growth through cost reduction, AI advancements, and geographic expansion, despite facing some operational challenges."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "various risks and uncertainties",
+     "adverse effects on business and financial conditions",
+     "future results"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights multiple unspecified risks that could negatively impact the company's performance."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Despite highlighting several unspecified risks, Tesla maintains an optimistic outlook centered around cost reduction and AI advancements."
+   }
+  }
+ ],
+ "2024-10-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2024-10-02",
+   "accession": "0001628280-24-041816",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla reports strong production and delivery figures, indicating robust business"
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "forward-looking statements"
+    ],
+    "summary": "Tesla reports strong production and delivery figures, indicating robust business momentum and sets a positive tone for the upcoming earnings call."
+   }
+  }
+ ],
+ "2024-10-23": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2024-10-23",
+   "accession": "0001628280-24-043432",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "TSLA reported robust Q3 results, highlighting strong vehicle deliveries and cost management."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cost reduction",
+     "forward-looking growth"
+    ],
+    "summary": "TSLA reported robust Q3 results, highlighting strong vehicle deliveries and cost reductions, while emphasizing future growth through new vehicle offerings and advancements in AI."
+   }
+  }
+ ],
+ "2024-10-24": [
+  {
+   "filing_type": "10Q",
+   "ticker": "TSLA",
+   "date": "2024-10-24",
+   "quarter": "Q4",
+   "accession": "0001628280-24-043486",
+   "mda": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "cost reduction",
+     "AI investment",
+     "geographic expansion"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Tesla continues to focus on profitable growth through cost reduction, AI advancements, and geographic expansion, despite facing some operational challenges."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "various risks and uncertainties",
+     "adverse effects on business and financial conditions",
+     "future results"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights multiple unspecified risks that could negatively impact the company's performance."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Tesla maintains an optimistic outlook on profitable growth despite highlighting potential risks."
+   }
+  }
+ ],
+ "2025-01-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2025-01-02",
+   "accession": "0001628280-25-000007",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla reports strong fourth quarter production and delivery records"
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "record deployments"
+    ],
+    "summary": "Tesla reports strong fourth quarter production and delivery records, expressing gratitude to stakeholders and setting expectations for an upcoming earnings call."
+   }
+  }
+ ],
+ "2025-01-29": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2025-01-29",
+   "accession": "0001628280-25-002993",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "TSLA reports strong vehicle deliveries and energy storage deployments."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cost efficiency",
+     "forward growth"
+    ],
+    "summary": "TSLA reports strong vehicle deliveries and energy storage deployments, highlighting continued investment in future growth while maintaining focus on cost efficiency."
+   }
+  }
+ ],
+ "2025-01-30": [
+  {
+   "filing_type": "10K",
+   "ticker": "TSLA",
+   "filed_date": "2025-01-30",
+   "period_end": "2024-12-31",
+   "accession": "0001628280-25-003063",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "key_themes": [
+     "sustainable energy",
+     "automotive innovation",
+     "energy storage"
+    ],
+    "growth_signals": [
+     "launch of Cybertruck",
+     "Robotaxi business in 2025",
+     "expanding manufacturing operations globally",
+     "developing full self-driving technology",
+     "improving solar energy offerings"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "supply chain",
+     "operational",
+     "geopolitical",
+     "financial"
+    ],
+    "key_risks": [
+     "launch and production ramp delays",
+     "supplier issues",
+     "cost overruns",
+     "global market demand forecasting",
+     "infrastructure scaling"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "profitable growth",
+     "production expansion",
+     "energy storage"
+    ],
+    "growth_signals": [
+     "recognized total revenues of $97.69 billion",
+     "net income attributable to common stockholders was $7.09 billion",
+     "deployed 31.4 GWh of energy storage products"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "optimistic",
+    "summary": "Tesla reports strong financial performance and growth in sustainable energy solutions, while facing significant operational and supply chain challenges."
+   }
+  }
+ ],
+ "2025-04-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2025-04-02",
+   "accession": "0001628280-25-016070",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla reports strong production and delivery figures despite temporary setbacks"
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "production challenges",
+     "forward-looking growth"
+    ],
+    "summary": "Tesla reports strong production and delivery figures despite temporary setbacks, highlighting ongoing positive momentum and setting expectations for future growth."
+   }
+  }
+ ],
+ "2025-04-22": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2025-04-22",
+   "accession": "0001628280-25-018851",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "other",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Tesla faces challenges despite achieving significant operational milestones."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "macro headwinds",
+     "operational efficiency",
+     "AI investment"
+    ],
+    "summary": "Despite achieving significant operational milestones, Tesla faces challenges from macroeconomic uncertainties and tariff impacts, leading to cautious optimism about future growth."
+   }
+  }
+ ],
+ "2025-04-23": [
+  {
+   "filing_type": "10Q",
+   "ticker": "TSLA",
+   "date": "2025-04-23",
+   "quarter": "Q2",
+   "accession": "0001628280-25-018911",
+   "mda": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "key_themes": [
+     "cost reduction",
+     "AI investment",
+     "geographic expansion"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Tesla maintains an optimistic outlook despite macroeconomic challenges, emphasizing continued investment in AI, cost reduction, and geographic expansion."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "geopolitical",
+     "operational"
+    ],
+    "key_risks": [
+     "international regulatory and political risks",
+     "tariffs and trade policies",
+     "public perception and credibility"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "TSLA highlights ongoing risks related to international operations, regulatory compliance, and public perception, maintaining a cautious tone."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "neutral",
+    "summary": "Tesla maintains an optimistic outlook despite macroeconomic challenges while highlighting ongoing risks in international operations and regulatory compliance."
+   }
+  }
+ ],
+ "2025-05-16": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2025-05-16",
+   "accession": "0001628280-25-026148",
+   "items_found": [
+    "5.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "John R. (Jack) Hartung was appointed to Tesla's Board of Directors and Audit Committee."
+   },
+   "item_5_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "board_change",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "John R. (Jack) Hartung was appointed to Tesla's Board of Directors and Audit Committee, signaling continued strong leadership."
+   }
+  }
+ ],
+ "2025-07-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2025-07-02",
+   "accession": "0001628280-25-033842",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla expresses optimism about their production and delivery numbers."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "forward-looking growth"
+    ],
+    "summary": "Tesla expresses optimism about their production and delivery numbers, looking forward to discussing financial results and business outlook in the upcoming earnings call."
+   }
+  }
+ ],
+ "2025-07-23": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2025-07-23",
+   "accession": "0001628280-25-035738",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla highlights its transition into AI leadership alongside expanding its vehicle offerings."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "transition to AI leadership",
+     "expansion of vehicle offerings",
+     "energy business growth",
+     "robotics advancements"
+    ],
+    "summary": "Tesla highlights its transition into AI leadership alongside expanding its vehicle lineup and strengthening its energy business, showcasing optimism despite macroeconomic challenges."
+   }
+  }
+ ],
+ "2025-07-24": [
+  {
+   "filing_type": "10Q",
+   "ticker": "TSLA",
+   "date": "2025-07-24",
+   "quarter": "Q3",
+   "accession": "0001628280-25-035806",
+   "mda": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "key_themes": [
+     "AI investment",
+     "cost reduction",
+     "geographic expansion"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Tesla maintains an optimistic outlook, emphasizing continued investment in AI and cost reduction strategies while expanding globally."
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "operational"
+    ],
+    "key_risks": [
+     "government and economic incentive changes",
+     "renewable energy policy shifts",
+     "net metering alterations"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing risks related to regulatory and economic incentives, emphasizing potential negative impacts on demand and financial performance due to policy changes."
+   },
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Despite highlighting persistent risks, Tesla projects an optimistic future driven by strategic investments in AI."
+   }
+  }
+ ],
+ "2025-08-04": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2025-08-04",
+   "accession": "0001104659-25-073263",
+   "items_found": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.3,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla's Board of Directors granted a new CEO interim award and approved a compensation arrangement for Elon Musk."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "executive_appointment",
+    "market_impact": "neutral",
+    "key_themes": [
+     "compensation arrangement",
+     "leadership continuity"
+    ],
+    "summary": "Tesla approved a new compensation arrangement for Elon Musk, emphasizing continuity in leadership."
+   },
+   "item_7_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "business_update",
+    "market_impact": "positive",
+    "key_themes": [
+     "CEO compensation",
+     "Board of Directors communication"
+    ],
+    "summary": "Tesla's Board of Directors announced the grant of the 2025 CEO Interim Award through a shareholder letter."
+   }
+  }
+ ],
+ "2025-09-05": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2025-09-05",
+   "accession": "0001104659-25-087862",
+   "items_found": [
+    "1.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "regulatory",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Tesla has updated and implemented an indemnification agreement for its directors."
+   },
+   "item_1_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "indemnification",
+     "protection for directors and officers"
+    ],
+    "summary": "Tesla has updated and implemented an indemnification agreement for its directors and executive officers."
+   }
+  }
+ ],
+ "2025-10-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2025-10-02",
+   "accession": "0001628280-25-043530",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses strong satisfaction with record deliveries and deployments."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "record deliveries"
+    ],
+    "summary": "Management expresses strong satisfaction with record deliveries and deployments, setting a positive tone for the upcoming earnings release."
+   }
+  }
+ ],
+ "2025-10-22": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2025-10-22",
+   "accession": "0001628280-25-045861",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Tesla reports record vehicle deliveries and energy storage deployments"
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "product launches",
+     "AI integration",
+     "sustainable growth"
+    ],
+    "summary": "Tesla reports record vehicle deliveries and energy storage deployments, highlighting strong global growth and continued innovation in AI-powered products."
+   }
+  }
+ ],
+ "2025-10-23": [
+  {
+   "filing_type": "10Q",
+   "ticker": "TSLA",
+   "date": "2025-10-23",
+   "quarter": "Q4",
+   "accession": "0001628280-25-045968",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "AI investment",
+     "cost reduction",
+     "geographic expansion"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Tesla highlights its focus on AI, cost reduction, and geographic expansion, despite facing macroeconomic challenges."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "adverse effects of regulations",
+     "intense competition",
+     "volatile market conditions"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing risks related to regulatory pressures, competitive landscape, and economic volatility without indicating significant changes from previous reports."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Tesla emphasizes strategic initiatives like AI, cost reduction, and expansion while acknowledging persistent regulatory and competitive challenges."
+   }
+  }
+ ],
+ "2025-11-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "TSLA",
+   "date": "2025-11-07",
+   "accession": "0001104659-25-108507",
+   "items_found": [
+    "5.02",
+    "5.07",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "regulatory",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The shareholders approved the amended equity incentive plan during the annual meeting."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "multiple_changes",
+    "market_impact": "neutral",
+    "key_themes": [
+     "plan approval",
+     "shareholder meeting"
+    ],
+    "summary": "The shareholders approved the amended equity incentive plan during the annual meeting."
+   }
+  }
+ ]
+}

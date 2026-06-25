@@ -1,0 +1,1310 @@
+{
+ "2023-02-22": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2023-02-22",
+   "accession": "0001045810-23-000014",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "NVIDIA highlights strong AI momentum and strategic partnerships"
+   },
+   "item_2_02": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "AI growth",
+     "generative AI",
+     "cloud partnerships"
+    ],
+    "summary": "NVIDIA highlights strong AI momentum and strategic partnerships, positioning itself for future growth despite current market challenges."
+   }
+  }
+ ],
+ "2023-02-24": [
+  {
+   "filing_type": "10K",
+   "ticker": "NVDA",
+   "filed_date": "2023-02-24",
+   "period_end": "2023-01-29",
+   "accession": "0001045810-23-000017",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "key_themes": [
+     "AI infrastructure",
+     "autonomous vehicles",
+     "gaming"
+    ],
+    "growth_signals": [
+     "introduction of Hopper architecture",
+     "expansion into metaverse and 3D internet",
+     "partnerships in various industries"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "supply chain",
+     "geopolitical",
+     "operational",
+     "legal"
+    ],
+    "key_risks": [
+     "failure to meet the evolving needs of our industry and markets",
+     "competition in our current and target markets",
+     "failure to estimate customer demand properly",
+     "dependency on third-party suppliers",
+     "product, system security, and data breaches"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "supply chain challenges",
+     "product transitions",
+     "AI cloud services"
+    ],
+    "growth_signals": [
+     "Data Center revenue up 41% YoY",
+     "Automotive revenue up 60% YoY"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.23333333333333334,
+    "tone": "cautious",
+    "summary": "NVIDIA shows strong growth in key segments but faces significant risks across multiple areas."
+   }
+  }
+ ],
+ "2023-03-08": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2023-03-08",
+   "accession": "0001045810-23-000039",
+   "items_found": [
+    "5.02",
+    "5.03",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The filing describes the adoption of the Variable Compensation Plan for Fiscal Year."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "executive_appointment",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role unchanged",
+     "leadership continuity signals"
+    ],
+    "summary": "The filing describes the adoption of the Variable Compensation Plan for Fiscal Year 2024, focusing on the structure of variable cash payments for executive officers based on corporate performance goals."
+   }
+  }
+ ],
+ "2023-05-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2023-05-24",
+   "accession": "0001045810-23-000087",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "NVIDIA reports strong growth in data center revenues and highlights significant achievements."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "accelerated computing",
+     "generative AI"
+    ],
+    "summary": "NVIDIA reports strong growth in data center revenues and highlights significant progress in accelerating computing and generative AI technologies."
+   }
+  }
+ ],
+ "2023-05-26": [
+  {
+   "filing_type": "10Q",
+   "ticker": "NVDA",
+   "date": "2023-05-26",
+   "quarter": "Q2",
+   "accession": "0001045810-23-000093",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "technology",
+     "supply_chain",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "evolving industry needs",
+     "supply-demand mismatch",
+     "changing market conditions"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "NVIDIA highlights ongoing challenges in meeting evolving industry demands, managing supply and demand mismatches, and navigating fluctuating market conditions."
+   },
+   "overall": {
+    "sentiment": -0.3,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "negative",
+    "summary": "NVIDIA faces ongoing challenges in meeting evolving industry demands, maintaining a cautious tone."
+   }
+  }
+ ],
+ "2023-07-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2023-07-24",
+   "accession": "0001045810-23-000164",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "NVIDIA Corporation announced the appointment of Melissa Lora to their Board."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "board_change",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "NVIDIA Corporation announced the appointment of Melissa Lora to their Board, signaling continued strong leadership."
+   }
+  }
+ ],
+ "2023-08-23": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2023-08-23",
+   "accession": "0001045810-23-000171",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "NVIDIA reports significant growth driven by strong demand in the data center segment."
+   },
+   "item_2_02": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "generative AI adoption",
+     "partnerships"
+    ],
+    "summary": "NVIDIA reports significant growth driven by strong demand in the data center segment and continued adoption of generative AI technologies."
+   }
+  }
+ ],
+ "2023-08-28": [
+  {
+   "filing_type": "10Q",
+   "ticker": "NVDA",
+   "date": "2023-08-28",
+   "quarter": "Q3",
+   "accession": "0001045810-23-000175",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "technology",
+     "supply_chain",
+     "competition"
+    ],
+    "key_risks": [
+     "evolving industry needs",
+     "supply-demand mismatch",
+     "competitive pressures"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights risks related to adapting to rapidly changing industry needs, managing supply and demand, and facing competitive pressures."
+   },
+   "overall": {
+    "sentiment": -0.35,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a cautious stance regarding the company's ability to adapt to industry changes."
+   }
+  }
+ ],
+ "2023-10-17": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2023-10-17",
+   "accession": "0001045810-23-000217",
+   "items_found": [
+    "8.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "neutral",
+    "urgency": "medium",
+    "summary": "NVIDIA discusses new export control regulations and their potential impact on the company."
+   },
+   "item_8_01": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "regulatory_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "export controls",
+     "licensing requirements",
+     "potential operational shifts"
+    ],
+    "summary": "NVIDIA discusses new export control regulations and their potential impact on product development and customer support."
+   }
+  }
+ ],
+ "2023-10-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2023-10-24",
+   "accession": "0001045810-23-000221",
+   "items_found": [
+    "8.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "neutral",
+    "urgency": "medium",
+    "summary": "NVIDIA faces immediate licensing requirements for certain products due to an update."
+   },
+   "item_8_01": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "regulatory_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "export controls",
+     "licensing requirements",
+     "global demand"
+    ],
+    "summary": "NVIDIA faces immediate licensing requirements for certain products due to updated export controls, though the company expects minimal near-term financial impact."
+   }
+  }
+ ],
+ "2023-11-21": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2023-11-21",
+   "accession": "0001045810-23-000225",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "NVIDIA reports robust growth across all segments, driven by strong demand."
+   },
+   "item_2_02": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "generative AI",
+     "industry platform transition"
+    ],
+    "summary": "NVIDIA reports robust growth across all segments, driven by strong demand for its AI and data center solutions, with management expressing high confidence in the future of generative AI."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "NVDA",
+   "date": "2023-11-21",
+   "quarter": "Q4",
+   "accession": "0001045810-23-000227",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "supply_chain",
+     "technology",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "inaccurate demand forecasting",
+     "complex supply chain management",
+     "industry-wide shortages"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing challenges in accurately predicting customer demand and managing a complex supply chain, particularly amid industry-wide shortages and rapid technological shifts."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a cautious outlook due to ongoing challenges in predicting customer demand."
+   }
+  }
+ ],
+ "2024-02-21": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2024-02-21",
+   "accession": "0001045810-24-000028",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "NVIDIA reports record-breaking results driven by strong demand in data centers."
+   },
+   "item_2_02": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "generative AI growth",
+     "diverse drivers"
+    ],
+    "summary": "NVIDIA reports record-breaking results driven by strong demand in data centers and generative AI, with management expressing high confidence in future growth."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "NVDA",
+   "filed_date": "2024-02-21",
+   "period_end": "2024-01-28",
+   "accession": "0001045810-24-000029",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "key_themes": [
+     "AI infrastructure",
+     "full-stack computing",
+     "innovation leadership"
+    ],
+    "growth_signals": [
+     "investment in R&D",
+     "expansion into CPUs and DPUs",
+     "introduction of NVIDIA DGX Cloud",
+     "acquisition of Mellanox",
+     "development of full software stacks"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "supply chain",
+     "geopolitical",
+     "legal",
+     "operational"
+    ],
+    "key_risks": [
+     "Failure to meet the evolving needs of our industry",
+     "Competition could adversely impact our market share and financial results",
+     "Failure to estimate customer demand accurately",
+     "Product, system security and data breaches and cyber-attacks",
+     "Dependency on third-party suppliers"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "demand surge for data center products",
+     "supply chain complexities",
+     "global trade restrictions"
+    ],
+    "growth_signals": [
+     "revenue up 126%",
+     "operating income up 681%",
+     "data center revenue up 217%"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.4,
+    "tone": "optimistic",
+    "summary": "NVIDIA demonstrates strong business optimism and significant growth signals, despite acknowledging substantial risks."
+   }
+  }
+ ],
+ "2024-03-14": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2024-03-14",
+   "accession": "0001045810-24-000069",
+   "items_found": [
+    "5.02",
+    "5.03",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "regulatory",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "NVIDIA Corporation's Compensation Committee adopted the Variable Compensation Plan."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "executive_appointment",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role unchanged",
+     "leadership continuity signals"
+    ],
+    "summary": "NVIDIA Corporation's Compensation Committee adopted the Variable Compensation Plan for Fiscal Year 2025, focusing on executive officer performance goals without indicating any departures or appointments."
+   }
+  }
+ ],
+ "2024-05-22": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2024-05-22",
+   "accession": "0001045810-24-000113",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "NVIDIA reports robust growth across all segments, driven by strong demand for AI."
+   },
+   "item_2_02": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "business momentum",
+     "forward-looking growth"
+    ],
+    "summary": "NVIDIA reports robust growth across all segments, driven by strong demand for AI technologies, and outlines plans for future expansion."
+   }
+  }
+ ],
+ "2024-05-29": [
+  {
+   "filing_type": "10Q",
+   "ticker": "NVDA",
+   "date": "2024-05-29",
+   "quarter": "Q2",
+   "accession": "0001045810-24-000124",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "strong product demand",
+     "product transitions",
+     "global trade regulations"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "NVIDIA maintains an optimistic outlook, driven by strong demand for its data center products and new AI applications, despite facing challenges in supply chain management and global trade restrictions."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "supply_chain",
+     "technology",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "inaccurate demand forecasting",
+     "complex product transitions",
+     "global economic and health uncertainties"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing challenges in demand forecasting, supply chain disruptions, and technological transitions, maintaining a cautious tone."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "NVIDIA exhibits a balanced view, with accelerating growth in demand offset by persistent supply chain disruptions."
+   }
+  }
+ ],
+ "2024-08-28": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2024-08-28",
+   "accession": "0001045810-24-000262",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "NVIDIA reports record earnings driven by robust data center demand"
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "forward-looking growth",
+     "product innovation"
+    ],
+    "summary": "NVIDIA reports record earnings driven by robust data center demand and anticipates continued growth with upcoming product launches."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "NVDA",
+   "date": "2024-08-28",
+   "quarter": "Q3",
+   "accession": "0001045810-24-000264",
+   "mda": {
+    "sentiment": 0.5,
+    "tone": "cautious",
+    "key_themes": [
+     "strong product demand",
+     "product transitions",
+     "global trade regulations"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "accelerating",
+    "summary": "NVIDIA sees continued strong demand for its data center and AI solutions, but faces challenges with product transitions and global trade restrictions."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "supply_chain",
+     "technology",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "long manufacturing lead times",
+     "inaccurate demand forecasting",
+     "geopolitical instability"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "The company highlights ongoing supply chain disruptions, technological shifts, and macroeconomic uncertainties as key risks."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "cautious",
+    "business_stage": "growth",
+    "market_impact": "neutral",
+    "summary": "NVIDIA experiences strong demand for its products amid supply chain challenges."
+   }
+  }
+ ],
+ "2024-11-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2024-11-07",
+   "accession": "0001045810-24-000300",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "NVIDIA Corporation announces the appointment of Ellen Ochoa to their Board."
+   },
+   "item_5_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "board_change",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "NVIDIA Corporation announces the appointment of Ellen Ochoa to their Board, signaling continued strong leadership."
+   }
+  }
+ ],
+ "2024-11-20": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2024-11-20",
+   "accession": "0001045810-24-000315",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "NVIDIA reports strong growth driven by robust demand for AI and data center solutions."
+   },
+   "item_2_02": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "AI transformation",
+     "global momentum"
+    ],
+    "summary": "NVIDIA reports strong growth driven by robust demand for AI and data center solutions, highlighting global momentum and transformative impact of AI across various sectors."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "NVDA",
+   "date": "2024-11-20",
+   "quarter": "Q4",
+   "accession": "0001045810-24-000316",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "strong product demand",
+     "product transitions",
+     "global trade regulations"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "NVIDIA sees continued strong demand for its AI and data center solutions, with ongoing product transitions and facing regulatory challenges in global trade."
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "supply_chain",
+     "technology",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "long manufacturing lead times",
+     "inaccurate demand forecasting",
+     "geopolitical instability"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "The company highlights ongoing supply chain disruptions, technological challenges, and macroeconomic uncertainties as key risks."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "NVIDIA anticipates robust demand for its AI and data center solutions despite facing persistent supply chain disruptions and technological challenges."
+   }
+  }
+ ],
+ "2025-01-17": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2025-01-17",
+   "accession": "0001045810-25-000007",
+   "items_found": [
+    "8.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "NVIDIA addresses new export control regulations and their potential impact on AI."
+   },
+   "item_8_01": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "regulatory_update",
+    "market_impact": "negative",
+    "key_themes": [
+     "export controls",
+     "licensing requirements",
+     "AI diffusion"
+    ],
+    "summary": "NVIDIA addresses new export control regulations and their potential impact on AI-related products."
+   }
+  }
+ ],
+ "2025-02-26": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2025-02-26",
+   "accession": "0001045810-25-000021",
+   "items_found": [
+    "2.02"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "NVIDIA reports record-breaking results driven by strong demand for AI technology."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "technology leadership",
+     "forward growth"
+    ],
+    "summary": "NVIDIA reports record-breaking results driven by strong demand for AI technologies, highlighting continued innovation and leadership in the industry."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "NVDA",
+   "filed_date": "2025-02-26",
+   "period_end": "2025-01-26",
+   "accession": "0001045810-25-000023",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "key_themes": [
+     "AI infrastructure",
+     "full-stack computing",
+     "innovation leadership"
+    ],
+    "growth_signals": [
+     "CUDA programming model",
+     "NVIDIA AI Enterprise software",
+     "first data center CPU Grace",
+     "acquisition of Mellanox",
+     "expansion into automotive and healthcare"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "supply chain",
+     "geopolitical",
+     "legal",
+     "operational"
+    ],
+    "key_risks": [
+     "Failure to meet the evolving needs of our industry and markets",
+     "Competition could adversely impact our market share and financial results",
+     "Long manufacturing lead times and uncertain supply and component availability",
+     "International sales and operations expose us to geopolitical risks",
+     "Defects in our products could harm our business"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "demand and supply dynamics",
+     "product transitions",
+     "global trade regulations"
+    ],
+    "growth_signals": [
+     "data center compute and networking platforms for accelerated computing and AI solutions"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.23333333333333334,
+    "tone": "cautious",
+    "summary": "NVIDIA demonstrates optimism in AI infrastructure and innovation leadership while facing significant risks from competition and supply chain issues."
+   }
+  }
+ ],
+ "2025-03-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2025-03-07",
+   "accession": "0001045810-25-000039",
+   "items_found": [
+    "5.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The adoption of the Variable Compensation Plan for fiscal year 2026 is noted."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "executive_appointment",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role unchanged",
+     "leadership continuity signals"
+    ],
+    "summary": "The adoption of the Variable Compensation Plan for fiscal year 2026 indicates continued focus on executive performance without any changes in roles."
+   }
+  }
+ ],
+ "2025-04-15": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2025-04-15",
+   "accession": "0001045810-25-000082",
+   "items_found": [
+    "8.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "negative",
+    "urgency": "high",
+    "summary": "NVIDIA faces new export licensing requirements for certain products to China."
+   },
+   "item_8_01": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "event_type": "regulatory_update",
+    "market_impact": "negative",
+    "key_themes": [
+     "export restrictions",
+     "licensing requirements",
+     "financial impact"
+    ],
+    "summary": "NVIDIA faces new export licensing requirements for certain products to China and other designated countries, which may have a significant negative impact on its financial performance."
+   }
+  }
+ ],
+ "2025-05-28": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2025-05-28",
+   "accession": "0001045810-25-000115",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "NVIDIA reports robust growth driven by strong global demand for AI infrastructure."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "innovation",
+     "global expansion"
+    ],
+    "summary": "NVIDIA reports robust growth driven by strong global demand for AI infrastructure, highlighting significant advancements in AI technology and expanding partnerships worldwide."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "NVDA",
+   "date": "2025-05-28",
+   "quarter": "Q2",
+   "accession": "0001045810-25-000116",
+   "mda": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "key_themes": [
+     "export restrictions",
+     "AI market competition",
+     "product transition challenges"
+    ],
+    "forward_looking": "negative",
+    "business_momentum": "decelerating",
+    "summary": "NVIDIA faces significant challenges due to export restrictions and increasing competition in the AI market, while also dealing with potential supply chain disruptions from frequent product transitions."
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "supply_chain",
+     "geopolitical",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "long manufacturing lead times and uncertain supply",
+     "geopolitical tensions",
+     "changes in economic conditions"
+    ],
+    "change_vs_prior": "increased",
+    "summary": "NVIDIA highlights increased risks related to supply chain disruptions, geopolitical instability, and economic fluctuations."
+   },
+   "overall": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "business_stage": "declining",
+    "market_impact": "negative",
+    "summary": "NVIDIA confronts heightened challenges and risks, indicating a cautious outlook."
+   }
+  }
+ ],
+ "2025-08-05": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2025-08-05",
+   "accession": "0001045810-25-000197",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Ellen Ochoa resigned from NVIDIA's Board of Directors for personal reasons."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "board_change",
+    "market_impact": "neutral",
+    "key_themes": [
+     "resignation",
+     "personal reasons",
+     "no disagreement"
+    ],
+    "summary": "Ellen Ochoa resigned from NVIDIA's Board of Directors for personal reasons without any disagreements with the company."
+   }
+  }
+ ],
+ "2025-08-27": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2025-08-27",
+   "accession": "0001045810-25-000207",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "NVIDIA reports robust growth driven by strong demand for its Blackwell Data Center products."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "product innovation",
+     "global expansion"
+    ],
+    "summary": "NVIDIA reports robust growth driven by strong demand for its Blackwell Data Center products and continued innovation in AI infrastructure."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "NVDA",
+   "date": "2025-08-27",
+   "quarter": "Q3",
+   "accession": "0001045810-25-000209",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "AI investment",
+     "supply chain normalization",
+     "geographic expansion"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "NVIDIA maintains stable business momentum with strong product demand in data centers, while facing challenges from regulatory changes and supply chain complexities."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "legal",
+     "operational",
+     "technology",
+     "geopolitical"
+    ],
+    "key_risks": [
+     "challenges in integrating acquisitions",
+     "compliance with complex laws and regulations",
+     "cybersecurity risks"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing risks related to acquisitions, regulatory compliance, and cybersecurity, maintaining a cautious tone."
+   },
+   "overall": {
+    "sentiment": -0.2,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "NVIDIA sustains stable business performance amid strong product demand but faces persistent risks."
+   }
+  }
+ ],
+ "2025-11-19": [
+  {
+   "filing_type": "8K",
+   "ticker": "NVDA",
+   "date": "2025-11-19",
+   "accession": "0001045810-25-000228",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "NVIDIA reports strong financial performance driven by robust demand in the data sector."
+   },
+   "item_2_02": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "business momentum",
+     "forward-looking growth"
+    ],
+    "summary": "NVIDIA reports strong financial performance driven by robust demand in the data center segment, with management expressing high confidence in future growth."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "NVDA",
+   "date": "2025-11-19",
+   "quarter": "Q4",
+   "accession": "0001045810-25-000230",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "AI investment",
+     "supply chain normalization",
+     "geographic expansion"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "NVIDIA maintains stable business momentum with continued investment in AI and data center solutions, while facing cautious outlook due to regulatory challenges and supply chain complexities."
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "supply_chain",
+     "geopolitical",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "long manufacturing lead times",
+     "uncertain supply and capacity availability",
+     "geopolitical tensions"
+    ],
+    "change_vs_prior": "increased",
+    "summary": "Management highlights increased risks related to supply chain disruptions, geopolitical instability, and macroeconomic challenges."
+   },
+   "overall": {
+    "sentiment": -0.3,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "negative",
+    "summary": "NVIDIA faces increased risks but maintains stable business momentum with continued investment in AI."
+   }
+  }
+ ]
+}

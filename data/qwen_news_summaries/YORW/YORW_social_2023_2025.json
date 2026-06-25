@@ -1,0 +1,40 @@
+{
+ "2024-01-31": [
+  {
+   "post_id": "1af4oxw",
+   "date": "2024-01-31",
+   "post_score": 1,
+   "num_comments": 1,
+   "tickers_mentioned": [
+    "YORW"
+   ],
+   "post_quality": "OPINION",
+   "sentiment": "BULLISH",
+   "confidence": 0.8,
+   "themes": [
+    "favorite water stocks",
+    "way"
+   ],
+   "rationale": "The poster expresses a preference for YORW over AWK, suggesting YORW as an interesting water stock investment."
+  }
+ ],
+ "2025-01-23": [
+  {
+   "post_id": "1i8aac7",
+   "date": "2025-01-23",
+   "post_score": 1,
+   "num_comments": 1,
+   "tickers_mentioned": [
+    "YORW"
+   ],
+   "post_quality": "OPINION",
+   "sentiment": "BULLISH",
+   "confidence": 0.8,
+   "themes": [
+    "hoping dividends",
+    "price per earnings"
+   ],
+   "rationale": "The poster expresses continued optimism towards YORW, expecting dividends to justify their investment despite concerns over the price-to-earnings ratio nearing a local maximum."
+  }
+ ]
+}

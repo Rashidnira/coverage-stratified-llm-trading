@@ -1,0 +1,115 @@
+{
+ "2024-01-10": [
+  {
+   "post_id": "193h3ja",
+   "date": "2024-01-10",
+   "post_score": 1,
+   "num_comments": 0,
+   "tickers_mentioned": [
+    "WDFC"
+   ],
+   "post_quality": "OPINION",
+   "sentiment": "BULLISH",
+   "confidence": 0.9,
+   "themes": [
+    "gain",
+    "thanks"
+   ],
+   "rationale": "The poster expresses satisfaction with a significant one-day gain attributed to WDFC."
+  }
+ ],
+ "2024-01-17": [
+  {
+   "post_id": "198ycqf",
+   "date": "2024-01-17",
+   "post_score": 18,
+   "num_comments": 6,
+   "tickers_mentioned": [
+    "WDFC"
+   ],
+   "post_quality": "OPINION",
+   "sentiment": "BULLISH",
+   "confidence": 0.8,
+   "themes": [
+    "first big win",
+    "11.95k gains"
+   ],
+   "rationale": "The poster shares their success with WDFC, indicating a positive experience and significant profit."
+  }
+ ],
+ "2024-04-07": [
+  {
+   "post_id": "1by9sku",
+   "date": "2024-04-07",
+   "post_score": 1,
+   "num_comments": 1,
+   "tickers_mentioned": [
+    "WDFC"
+   ],
+   "post_quality": "OPINION",
+   "sentiment": "BULLISH",
+   "confidence": 0.8,
+   "themes": [
+    "earnings jump",
+    "calls placement",
+    "price movement"
+   ],
+   "rationale": "The poster expresses an opinion that WDFC's stock price typically increases after earnings announcements and plans to buy call options based on this expectation."
+  }
+ ],
+ "2024-07-16": [
+  {
+   "post_id": "1e4wf07",
+   "date": "2024-07-16",
+   "post_score": 1,
+   "num_comments": 2,
+   "tickers_mentioned": [
+    "WDFC"
+   ],
+   "post_quality": "QUESTION",
+   "sentiment": "NEUTRAL",
+   "confidence": 0.0,
+   "themes": [
+    "none"
+   ],
+   "rationale": "The post is empty and has been removed, so there is no expressed opinion or information about WDFC."
+  }
+ ],
+ "2024-07-18": [
+  {
+   "post_id": "1e6cbrz",
+   "date": "2024-07-18",
+   "post_score": 1,
+   "num_comments": 2,
+   "tickers_mentioned": [
+    "WDFC"
+   ],
+   "post_quality": "QUESTION",
+   "sentiment": "NEUTRAL",
+   "confidence": 0.0,
+   "themes": [
+    "none"
+   ],
+   "rationale": "The post is a removed comment, likely a question or inquiry about WDFC, but without context, the sentiment cannot be determined."
+  }
+ ],
+ "2025-07-28": [
+  {
+   "post_id": "1mbnqla",
+   "date": "2025-07-28",
+   "post_score": 1,
+   "num_comments": 0,
+   "tickers_mentioned": [
+    "WDFC"
+   ],
+   "post_quality": "MEME",
+   "sentiment": "NEUTRAL",
+   "confidence": 0.9,
+   "themes": [
+    "removed content",
+    "sarcastic tone"
+   ],
+   "rationale": "The post expresses a sarcastic or dismissive attitude towards WDFC but does not provide any specific opinion or analysis."
+  }
+ ]
+}

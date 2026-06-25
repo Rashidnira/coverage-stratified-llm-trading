@@ -1,0 +1,1586 @@
+{
+ "2023-02-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2023-02-06",
+   "accession": "0001104659-23-011197",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "PAHC announced a quarterly cash dividend, reflecting a strong financial position."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "PAHC announced a quarterly cash dividend, reflecting strong financial position and commitment to shareholders."
+   }
+  }
+ ],
+ "2023-02-08": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2023-02-08",
+   "accession": "0001558370-23-001038",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management highlights strong sales growth across key segments"
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "pipeline progress",
+     "board enhancement"
+    ],
+    "summary": "Management highlights strong sales growth across key segments, expresses optimism about future prospects, and welcomes new board member to support growth initiatives."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "PAHC",
+   "date": "2023-02-08",
+   "quarter": "Q1",
+   "accession": "0001558370-23-001027",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last annual report."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company reports stable operations with no new material risks identified."
+   }
+  }
+ ],
+ "2023-05-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2023-05-01",
+   "accession": "0001104659-23-054358",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Phibro Animal Health Corporation declared a quarterly cash dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Phibro Animal Health Corporation declared a quarterly cash dividend, indicating strong financial health and commitment to shareholder value."
+   }
+  }
+ ],
+ "2023-05-03": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2023-05-03",
+   "accession": "0001558370-23-007861",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "earnings",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Phibro reports mixed results with strong performance in Animal Health offset by"
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "neutral",
+    "key_themes": [
+     "strong demand",
+     "cost pressures",
+     "macro headwinds"
+    ],
+    "summary": "Phibro reports mixed results with strong performance in Animal Health offset by challenges in Mineral Nutrition amid rising costs and economic uncertainties."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "PAHC",
+   "date": "2023-05-03",
+   "quarter": "Q2",
+   "accession": "0001558370-23-007830",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last annual report."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company reports stable operations with no new material risks identified."
+   }
+  }
+ ],
+ "2023-06-16": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2023-06-16",
+   "accession": "0001104659-23-072253",
+   "items_found": [
+    "1.01",
+    "2.03",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "deal",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Phibro Animal Health Corporation amended its credit agreement to include new loan terms."
+   },
+   "item_1_01": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "credit_facility",
+    "market_impact": "neutral",
+    "key_themes": [
+     "amending credit agreement",
+     "incorporating new loan terms"
+    ],
+    "summary": "Phibro Animal Health Corporation amended its credit agreement to include new loan terms and adjust pricing grids."
+   }
+  }
+ ],
+ "2023-07-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2023-07-06",
+   "accession": "0001104659-23-078746",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Larry Miller, Chief Operating Officer, received retention incentives."
+   },
+   "item_5_02": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role unchanged",
+     "retention incentives",
+     "leadership continuity"
+    ],
+    "summary": "Larry Miller, Chief Operating Officer, received retention incentives indicating company's confidence in his leadership."
+   }
+  }
+ ],
+ "2023-07-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2023-07-25",
+   "accession": "0001104659-23-083855",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Phibro Animal Health Corporation declared a quarterly cash dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Phibro Animal Health Corporation declared a quarterly cash dividend, indicating strong financial health and commitment to shareholder value."
+   }
+  }
+ ],
+ "2023-08-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2023-08-30",
+   "accession": "0001558370-23-015362",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses satisfaction with year-over-year growth and optimism for future performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "forward-looking growth",
+     "strategic investments"
+    ],
+    "summary": "Management expresses satisfaction with year-over-year growth and optimism for future opportunities, especially in vaccines and nutritional specialties."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "PAHC",
+   "filed_date": "2023-08-30",
+   "period_end": "2023-06-30",
+   "accession": "0001558370-23-015357",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "key_themes": [
+     "animal health",
+     "mineral nutrition",
+     "global presence"
+    ],
+    "growth_signals": [
+     "focusing on large commercial farms",
+     "investing in companion animal sector",
+     "established sales network",
+     "increased sales in animal health segment",
+     "expanding into new regions"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "operational",
+     "legal"
+    ],
+    "key_risks": [
+     "outbreaks of animal diseases",
+     "restrictions on the use of antibacterials",
+     "withdrawal of Mecadox approval"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "armed conflict impact",
+     "regulatory developments",
+     "industry growth"
+    ],
+    "growth_signals": [],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.13333333333333333,
+    "tone": "cautious",
+    "summary": "The company exhibits optimism in its business outlook across animal health, mineral nutrition, and global presence, yet faces significant regulatory, operational, and legal risks including potential disease outbreaks and restrictions."
+   }
+  }
+ ],
+ "2023-09-05": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2023-09-05",
+   "accession": "0001104659-23-098303",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Mr. Johnson appointed as interim CFO."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "leadership change",
+     "interim CFO appointment"
+    ],
+    "summary": "The company announced Mr. Johnson's appointment as interim CFO following Mr. Finio's resignation."
+   }
+  }
+ ],
+ "2023-11-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2023-11-06",
+   "accession": "0001104659-23-114765",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "other",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Phibro Animal Health Corporation announced a quarterly cash dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Phibro Animal Health Corporation announced a quarterly cash dividend, reflecting strong financial position and commitment to shareholders."
+   }
+  }
+ ],
+ "2023-11-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2023-11-07",
+   "accession": "0001104659-23-115093",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "neutral",
+    "urgency": "medium",
+    "summary": "Phibro addresses FDA's intentions regarding Mecadox while reaffirming its commitment."
+   },
+   "item_7_01": {
+    "sentiment": 0.5,
+    "tone": "cautious",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "regulatory review",
+     "defense of product"
+    ],
+    "summary": "Phibro addresses FDA's intentions regarding Mecadox while reaffirming its commitment to the product."
+   }
+  }
+ ],
+ "2023-11-08": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2023-11-08",
+   "accession": "0001558370-23-018296",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Management highlights strong performance in core Animal Health business despite challenges."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "neutral",
+    "key_themes": [
+     "strong demand",
+     "macro headwinds",
+     "inventory rationalization"
+    ],
+    "summary": "Management highlights strong performance in core Animal Health business despite challenges in other segments and macroeconomic conditions."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "PAHC",
+   "date": "2023-11-08",
+   "quarter": "Q4",
+   "accession": "0001558370-23-018287",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last annual report."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company reports stable operations with no new material risks identified."
+   }
+  }
+ ],
+ "2024-02-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2024-02-06",
+   "accession": "0001104659-24-011120",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Phibro Animal Health Corporation declared a quarterly cash dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Phibro Animal Health Corporation declared a quarterly cash dividend, indicating strong financial health and commitment to shareholder value."
+   }
+  },
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2024-02-06",
+   "accession": "0001104659-24-010954",
+   "items_found": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "PAHC appoints Glenn C. David as Chief Financial Officer, signaling positive developments."
+   },
+   "item_5_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "Glenn C. David joins Phibro as Chief Financial Officer, bringing extensive financial leadership experience and ensuring a smooth transition."
+   },
+   "item_7_01": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "business_update",
+    "market_impact": "positive",
+    "key_themes": [
+     "new leadership",
+     "organizational change"
+    ],
+    "summary": "The company announces the appointment of a new Chief Financial Officer, signaling organizational growth and stability."
+   }
+  }
+ ],
+ "2024-02-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2024-02-07",
+   "accession": "0001558370-24-000864",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management highlights strong top-line growth in the Animal Health segment."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "forward-looking growth",
+     "new product introductions"
+    ],
+    "summary": "Management highlights strong top-line growth in the Animal Health segment and anticipates continued growth, despite challenges in Mineral Nutrition and Performance Products."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "PAHC",
+   "date": "2024-02-07",
+   "quarter": "Q1",
+   "accession": "0001558370-24-000859",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "armed conflicts impact",
+     "regulatory challenges",
+     "humanitarian efforts"
+    ],
+    "forward_looking": "negative",
+    "business_momentum": "decelerating",
+    "summary": "PAHC faces significant operational and regulatory challenges, particularly from ongoing conflicts and potential disruptions, while maintaining humanitarian efforts."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last annual report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "declining",
+    "market_impact": "negative",
+    "summary": "PAHC confronts substantial operational and regulatory hurdles, indicating a challenging quarter ahead."
+   }
+  }
+ ],
+ "2024-04-29": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2024-04-29",
+   "accession": "0001104659-24-053265",
+   "items_found": [
+    "1.01"
+   ],
+   "items_analyzed": [
+    "1.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Phibro Animal Health Corporation enters into a Purchase and Sale Agreement"
+   },
+   "item_1_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "acquisition",
+    "market_impact": "positive",
+    "key_themes": [
+     "medicated feed additive product portfolio",
+     "expansion strategy",
+     "financing through debt"
+    ],
+    "summary": "Phibro Animal Health Corporation enters into a Purchase and Sale Agreement to acquire Zoetis' medicated feed additive product portfolio, aiming to expand its business."
+   }
+  }
+ ],
+ "2024-05-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2024-05-07",
+   "accession": "0001104659-24-058026",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Phibro Animal Health Corporation declared a quarterly cash dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Phibro Animal Health Corporation declared a quarterly cash dividend, indicating strong financial health and commitment to shareholder value."
+   }
+  }
+ ],
+ "2024-05-08": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2024-05-08",
+   "accession": "0001558370-24-007371",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses strong satisfaction with the third quarter performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "acquisition optimism",
+     "business momentum"
+    ],
+    "summary": "Management expresses strong satisfaction with the third quarter performance, highlighting robust growth in key segments and expressing confidence in future prospects, particularly post-acquisition."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "PAHC",
+   "date": "2024-05-08",
+   "quarter": "Q2",
+   "accession": "0001558370-24-007340",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "armed conflicts impact",
+     "regulatory developments",
+     "strategic acquisitions"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "PAHC discusses cautious optimism amid strategic acquisitions and ongoing geopolitical and regulatory challenges."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last annual report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "PAHC maintains a cautiously optimistic stance with stable momentum, focusing on strategic acquisitions while noting no significant changes in risk profile."
+   }
+  }
+ ],
+ "2024-07-09": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2024-07-09",
+   "accession": "0001104659-24-078557",
+   "items_found": [
+    "1.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "PAHC secured a credit facility to support its operations and growth."
+   },
+   "item_1_01": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "credit_facility",
+    "market_impact": "positive",
+    "key_themes": [
+     "financing",
+     "strategic growth"
+    ],
+    "summary": "The company secured a credit facility to support its operations and potential growth."
+   }
+  }
+ ],
+ "2024-07-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2024-07-30",
+   "accession": "0001104659-24-083979",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Phibro Animal Health Corporation announced a quarterly cash dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Phibro Animal Health Corporation announced a quarterly cash dividend, reflecting strong financial health and commitment to shareholder value."
+   }
+  }
+ ],
+ "2024-08-28": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2024-08-28",
+   "accession": "0001558370-24-012519",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management highlights strong quarterly performance across segments, particularly"
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cost pressures",
+     "margin expansion",
+     "initiative impact"
+    ],
+    "summary": "Management highlights strong quarterly performance across segments, particularly in Animal Health, and expresses optimism about future growth through strategic initiatives and acquisitions."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "PAHC",
+   "filed_date": "2024-08-28",
+   "period_end": "2024-06-30",
+   "accession": "0001558370-24-012517",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "animal health",
+     "mineral nutrition",
+     "global presence"
+    ],
+    "growth_signals": [
+     "focusing on companion animal sector",
+     "established network in major markets",
+     "increased sales in poultry and swine sectors"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "operational",
+     "legal"
+    ],
+    "key_risks": [
+     "outbreaks of animal diseases",
+     "restrictions on the use of antibacterials",
+     "withdrawal of Mecadox approval"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "armed conflicts",
+     "proposed acquisition",
+     "regulatory developments"
+    ],
+    "growth_signals": [],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.06666666666666667,
+    "tone": "cautious",
+    "summary": "PAHC maintains an optimistic outlook in its core business areas but faces significant regulatory, operational, and legal risks."
+   }
+  }
+ ],
+ "2024-11-05": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2024-11-05",
+   "accession": "0001104659-24-114319",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "other",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Phibro Animal Health Corporation announced a quarterly cash dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Phibro Animal Health Corporation announced a quarterly cash dividend, reflecting strong financial health and commitment to shareholder value."
+   }
+  }
+ ],
+ "2024-11-06": [
+  {
+   "filing_type": "10Q",
+   "ticker": "PAHC",
+   "date": "2024-11-06",
+   "quarter": "Q4",
+   "accession": "0001558370-24-014644",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "armed conflicts impact",
+     "geographic expansion",
+     "supply chain disruptions"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "PAHC discusses the acquisition of Zoetis's MFA portfolio while addressing the risks associated with ongoing conflicts in Israel and Ukraine."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last annual report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "PAHC proceeds with the acquisition of Zoetis's MFA portfolio amidst a stable but cautious outlook."
+   }
+  }
+ ],
+ "2024-11-12": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2024-11-12",
+   "accession": "0001104659-24-116790",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Rob Aukerman is retiring from his role as President, North America Region."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_departure",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "reason if given",
+     "leadership continuity signals"
+    ],
+    "summary": "Rob Aukerman is retiring from his role as President, North America Region, with Todd Armstrong set to take over."
+   }
+  }
+ ],
+ "2025-01-23": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2025-01-23",
+   "accession": "0001104659-25-005659",
+   "items_found": [
+    "5.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Phibro Animal Health Corporation appoints Joyce J. Lee as a new Class II director."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "board_change",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "Phibro Animal Health Corporation appoints Joyce J. Lee as a new Class II director, signaling continued stability in leadership."
+   }
+  }
+ ],
+ "2025-02-04": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2025-02-04",
+   "accession": "0001104659-25-009123",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Phibro Animal Health Corporation announced a quarterly cash dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Phibro Animal Health Corporation announced a quarterly cash dividend, indicating strong financial position and commitment to rewarding shareholders."
+   }
+  }
+ ],
+ "2025-02-05": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2025-02-05",
+   "accession": "0001558370-25-000661",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Phibro reports strong second quarter results, highlighting robust demand."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "successful integration",
+     "forward-looking optimism"
+    ],
+    "summary": "Phibro reports strong second quarter results, highlighting robust demand and successful integration of the Zoetis MFA portfolio, with management expressing confidence in future growth."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "PAHC",
+   "date": "2025-02-05",
+   "quarter": "Q1",
+   "accession": "0001558370-25-000659",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "armed conflicts impact",
+     "acquisition integration",
+     "credit agreement refinancing"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The company discusses the impact of ongoing conflicts, the successful acquisition of a new product portfolio, and refinancing efforts while maintaining a cautious outlook due to geopolitical uncertainties."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last annual report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company maintains a stable position despite ongoing conflicts and reports no new significant risks."
+   }
+  }
+ ],
+ "2025-05-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2025-05-06",
+   "accession": "0001104659-25-045063",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Phibro Animal Health Corporation announced a quarterly cash dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Phibro Animal Health Corporation announced a quarterly cash dividend, reflecting strong financial health and commitment to shareholder value."
+   }
+  }
+ ],
+ "2025-05-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2025-05-07",
+   "accession": "0001558370-25-006760",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management highlights strong third-quarter performance driven by successful integration."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "integration success",
+     "forward-looking optimism"
+    ],
+    "summary": "Management highlights strong third-quarter performance driven by successful integration and initial benefits from strategic initiatives, expressing confidence despite minor regulatory impacts."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "PAHC",
+   "date": "2025-05-07",
+   "quarter": "Q2",
+   "accession": "0001558370-25-006746",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "armed conflicts impact",
+     "acquisition integration",
+     "credit agreement refinancing"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "PAHC discusses the completion of a significant acquisition, the impact of ongoing conflicts in the Middle East and Eastern Europe, and the refinancing of its credit agreement, while maintaining a cautious tone regarding future uncertainties."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last annual report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "PAHC has completed a significant acquisition but maintains a cautious outlook."
+   }
+  }
+ ],
+ "2025-07-29": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2025-07-29",
+   "accession": "0001104659-25-071746",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Phibro Animal Health Corporation announced a quarterly cash dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Phibro Animal Health Corporation announced a quarterly cash dividend, reflecting strong financial health and commitment to shareholder value."
+   }
+  }
+ ],
+ "2025-08-27": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2025-08-27",
+   "accession": "0001558370-25-011778",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses strong confidence in the company's performance and future."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "sustainable growth",
+     "portfolio strength"
+    ],
+    "summary": "Management expresses strong confidence in the company's performance and future prospects, highlighting robust demand and successful strategic initiatives."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "PAHC",
+   "filed_date": "2025-08-27",
+   "period_end": "2025-06-30",
+   "accession": "0001558370-25-011776",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "key_themes": [
+     "animal health",
+     "mineral nutrition",
+     "acquisition"
+    ],
+    "growth_signals": [
+     "acquisition of Zoetis\u2019s medicated feed additive portfolio",
+     "investment in companion animal sector",
+     "increased sales in animal health segment"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "operational",
+     "legal"
+    ],
+    "key_risks": [
+     "outbreaks of animal diseases",
+     "perceived adverse effects on human health",
+     "restrictions on the use of antibacterials",
+     "loss of sales if FDA withdraws approval of Mecadox",
+     "consumer preferences to discontinue or reduce use of antibacterials"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "Acquisition of MFA portfolio",
+     "Armed conflicts impact",
+     "Regulatory developments"
+    ],
+    "growth_signals": [
+     "$208.2 million contribution to net sales from Acquisition"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.13333333333333333,
+    "tone": "cautious",
+    "summary": "Despite optimism in business themes and acquisition growth, significant risks and cautious management discussion indicate a balanced but slightly positive outlook."
+   }
+  }
+ ],
+ "2025-11-04": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2025-11-04",
+   "accession": "0001104659-25-106292",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "other",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Phibro Animal Health Corporation announced a quarterly cash dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Phibro Animal Health Corporation announced a quarterly cash dividend, reflecting strong financial performance and commitment to shareholders."
+   }
+  }
+ ],
+ "2025-11-05": [
+  {
+   "filing_type": "10Q",
+   "ticker": "PAHC",
+   "date": "2025-11-05",
+   "quarter": "Q4",
+   "accession": "0001104659-25-107001",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "armed conflicts impact",
+     "macroeconomic uncertainties",
+     "recent acquisition integration"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The company maintains stable business momentum despite cautious outlook due to geopolitical tensions and macroeconomic uncertainties."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last annual report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "PAHC maintains stable business momentum with a cautiously optimistic outlook."
+   }
+  }
+ ],
+ "2025-12-18": [
+  {
+   "filing_type": "8K",
+   "ticker": "PAHC",
+   "date": "2025-12-18",
+   "accession": "0001104659-25-122556",
+   "items_found": [
+    "5.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.45,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "PAHC experienced a leadership transition with Jack C. Bendheim becoming Executive Chairman and Dani Bendheim taking over his previous role."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "Jack C. Bendheim transitions to Executive Chairman while Dani Bendheim assumes the roles of CEO and President, signaling continued leadership stability."
+   },
+   "item_7_01": {
+    "sentiment": 0.3,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "leadership transition",
+     "stability"
+    ],
+    "summary": "The company announced a leadership change with Mr. Jack C Bendheim stepping down as CEO and President, to be succeeded by Mr. Dani Bendheim."
+   }
+  }
+ ]
+}

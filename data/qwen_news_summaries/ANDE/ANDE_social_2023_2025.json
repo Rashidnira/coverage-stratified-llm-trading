@@ -1,0 +1,41 @@
+{
+ "2024-11-12": [
+  {
+   "post_id": "1gps5yt",
+   "date": "2024-11-12",
+   "post_score": 0,
+   "num_comments": 3,
+   "tickers_mentioned": [
+    "ANDE"
+   ],
+   "post_quality": "QUESTION",
+   "sentiment": "NEUTRAL",
+   "confidence": 0.95,
+   "themes": [
+    "agriculture",
+    "labor impact"
+   ],
+   "rationale": "The poster is asking ChatGPT about publicly traded agriculture companies that could be impacted by changes in immigrant labor, but does not express a specific view on any ticker."
+  }
+ ],
+ "2025-06-13": [
+  {
+   "post_id": "1lahp1o",
+   "date": "2025-06-13",
+   "post_score": 804,
+   "num_comments": 376,
+   "tickers_mentioned": [
+    "ANDE"
+   ],
+   "post_quality": "OPINION",
+   "sentiment": "BULLISH",
+   "confidence": 0.8,
+   "themes": [
+    "oil price increase",
+    "second-order effects",
+    "undervalued"
+   ],
+   "rationale": "The poster discusses potential oil price increases due to geopolitical tensions and suggests investing in companies that could benefit from higher oil prices, including ANDE."
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "2025-04-15": [
+  {
+   "post_id": "1jzwrze",
+   "date": "2025-04-15",
+   "post_score": 20,
+   "num_comments": 19,
+   "tickers_mentioned": [
+    "IIIN"
+   ],
+   "post_quality": "OPINION",
+   "sentiment": "BEARISH",
+   "confidence": 0.85,
+   "themes": [
+    "earnings miss",
+    "high valuation",
+    "option interest"
+   ],
+   "rationale": "The poster predicts Insteel Industries ($IIIN) will miss its earnings due to declining revenue, regulatory hurdles, and high valuations, suggesting a short position."
+  }
+ ],
+ "2025-04-18": [
+  {
+   "post_id": "1k243dt",
+   "date": "2025-04-18",
+   "post_score": 1,
+   "num_comments": 0,
+   "tickers_mentioned": [
+    "IIIN"
+   ],
+   "post_quality": "OPINION",
+   "sentiment": "BULLISH",
+   "confidence": 0.7,
+   "themes": [
+    "massive profits",
+    "popped 15%",
+    "american iron"
+   ],
+   "rationale": "The poster suggests that $IIIN will perform well due to its recent earnings performance and its status as an American iron company."
+  }
+ ]
+}

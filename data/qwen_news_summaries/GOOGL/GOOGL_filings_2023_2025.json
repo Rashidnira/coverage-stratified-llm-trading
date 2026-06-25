@@ -1,0 +1,1751 @@
+{
+ "2023-01-20": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2023-01-20",
+   "accession": "0001193125-23-011424",
+   "items_found": [
+    "7.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "event_category": "management",
+    "market_impact": "negative",
+    "urgency": "high",
+    "summary": "CEO Sundar Pichai announced a significant workforce reduction, expressing regret."
+   },
+   "item_7_01": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "event_type": "business_update",
+    "market_impact": "negative",
+    "key_themes": [
+     "workforce reduction",
+     "economic challenges",
+     "AI investment"
+    ],
+    "summary": "CEO Sundar Pichai announced a significant workforce reduction, expressing regret and outlining support measures while emphasizing future opportunities in AI."
+   }
+  }
+ ],
+ "2023-01-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2023-01-25",
+   "accession": "0001652044-23-000005",
+   "items_found": [
+    "8.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "negative",
+    "urgency": "high",
+    "summary": "Google faces an antitrust lawsuit over its digital advertising technology."
+   },
+   "item_8_01": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "event_type": "litigation_update",
+    "market_impact": "negative",
+    "key_themes": [
+     "antitrust complaint",
+     "vigorous defense"
+    ],
+    "summary": "Google faces an antitrust lawsuit over its digital advertising technology, asserting it will defend itself strongly."
+   }
+  }
+ ],
+ "2023-02-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2023-02-02",
+   "accession": "0001652044-23-000013",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Alphabet reports positive business momentum in key areas despite slight revenue"
+   },
+   "item_2_02": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "AI investment",
+     "business momentum",
+     "cost optimization"
+    ],
+    "summary": "Alphabet reports positive business momentum in key areas despite slight revenue growth challenges, emphasizing AI investments and ongoing cost optimization efforts."
+   }
+  }
+ ],
+ "2023-02-03": [
+  {
+   "filing_type": "10K",
+   "ticker": "GOOGL",
+   "filed_date": "2023-02-03",
+   "period_end": "2022-12-31",
+   "accession": "0001652044-23-000016",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "key_themes": [
+     "AI infrastructure",
+     "innovation",
+     "global reach"
+    ],
+    "growth_signals": [
+     "invested more than $100 billion in research and development in the last five years",
+     "continuing to invest in platforms like Android, Chrome, and hardware",
+     "building AI into numerous solutions for customers",
+     "growing revenues beyond advertising",
+     "continuing to invest in Google Cloud offerings"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "macroeconomic",
+     "operational",
+     "legal",
+     "technological"
+    ],
+    "key_risks": [
+     "reduced advertising spending",
+     "intense competition",
+     "advertising policy changes",
+     "rapid technological changes",
+     "investment risks"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "cautious",
+    "key_themes": [
+     "online advertising shift",
+     "diverse device usage",
+     "international market growth",
+     "non-advertising revenue growth",
+     "regulatory challenges"
+    ],
+    "growth_signals": [
+     "shift to online benefits business",
+     "increased investment in AI and tech infrastructure",
+     "expansion of product offerings"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.23333333333333334,
+    "tone": "cautious",
+    "summary": "Google exhibits optimism in business growth through innovation and global expansion, yet faces significant risks from intense competition and rapid technological changes."
+   }
+  }
+ ],
+ "2023-04-20": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2023-04-20",
+   "accession": "0001652044-23-000034",
+   "items_found": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "management",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Management discusses workforce reductions and office space optimization."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "reductions in workforce",
+     "office space optimization",
+     "AI focus"
+    ],
+    "summary": "Management discusses workforce reductions and office space optimization while emphasizing continued investment in AI."
+   }
+  }
+ ],
+ "2023-04-21": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2023-04-21",
+   "accession": "0001193125-23-110657",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Alphabet Inc. approved equity awards for several senior executives, signaling confidence in future performance."
+   },
+   "item_5_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "multiple_changes",
+    "market_impact": "positive",
+    "key_themes": [
+     "leadership continuity signals",
+     "role unchanged"
+    ],
+    "summary": "Alphabet Inc. approved equity awards for several senior executives, signaling continued trust and investment in their leadership roles."
+   }
+  }
+ ],
+ "2023-04-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2023-04-25",
+   "accession": "0001652044-23-000041",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses satisfaction with first quarter performance"
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "business momentum",
+     "innovation focus",
+     "investment in growth"
+    ],
+    "summary": "Management expresses satisfaction with first quarter performance, highlighting strong search results and cloud growth, while emphasizing ongoing investment in AI and innovation."
+   }
+  }
+ ],
+ "2023-04-26": [
+  {
+   "filing_type": "10Q",
+   "ticker": "GOOGL",
+   "date": "2023-04-26",
+   "quarter": "Q2",
+   "accession": "0001652044-23-000045",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "competition"
+    ],
+    "key_risks": [
+     "geopolitical events",
+     "economic conditions",
+     "competitive pressures"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing risks related to economic conditions, geopolitical events, and competitive pressures, maintaining a cautious tone without significant changes from prior reports."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a cautious outlook amid stable business operations, highlighting persistent risks associated with economic and geopolitical factors."
+   }
+  }
+ ],
+ "2023-06-08": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2023-06-08",
+   "accession": "0001193125-23-163590",
+   "items_found": [
+    "5.02",
+    "5.07",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The filing indicates a management change at GOOGL without specifying details about it."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "executive_departure",
+    "market_impact": "neutral",
+    "key_themes": [
+     "management change",
+     "leadership continuity signals"
+    ],
+    "summary": "The filing indicates a management change at GOOGL without specifying details about the departure or appointment of any officers."
+   }
+  }
+ ],
+ "2023-07-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2023-07-25",
+   "accession": "0001652044-23-000067",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Ruth Porat is taking on an expanded role within Alphabet and Google."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "Ruth Porat is taking on an expanded role within Alphabet and Google, signaling continued strong leadership."
+   }
+  }
+ ],
+ "2023-07-26": [
+  {
+   "filing_type": "10Q",
+   "ticker": "GOOGL",
+   "date": "2023-07-26",
+   "quarter": "Q3",
+   "accession": "0001652044-23-000070",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "competition"
+    ],
+    "key_risks": [
+     "geopolitical events",
+     "economic conditions",
+     "competitive pressures"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing risks related to economic conditions, geopolitical events, and competitive pressures, maintaining a cautious tone without significant changes from prior reports."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a cautious outlook amid stable business operations, highlighting persistent risks associated with economic and geopolitical factors."
+   }
+  }
+ ],
+ "2023-10-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2023-10-24",
+   "accession": "0001652044-23-000088",
+   "items_found": [
+    "2.02",
+    "5.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management highlights strong financial performance and product momentum, while Ann Mather steps down from her roles."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "product momentum",
+     "AI innovation",
+     "financial strength"
+    ],
+    "summary": "Management highlights strong financial performance and product momentum, emphasizing AI-driven innovations across various segments."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "board_change",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "Ann Mather is stepping down from her roles at Alphabet's Board and Audit Committee, while Robin L. Washington and Roger W. Ferguson Jr. are appointed to new positions."
+   }
+  }
+ ],
+ "2023-10-25": [
+  {
+   "filing_type": "10Q",
+   "ticker": "GOOGL",
+   "date": "2023-10-25",
+   "quarter": "Q4",
+   "accession": "0001652044-23-000094",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "macroeconomic",
+     "competition"
+    ],
+    "key_risks": [
+     "geopolitical events",
+     "economic conditions",
+     "competitive pressures"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing risks related to economic conditions, geopolitical events, and competitive pressures, maintaining a cautious tone."
+   },
+   "overall": {
+    "sentiment": -0.3,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a cautious outlook amid stable business operations, highlighting persistent risks."
+   }
+  }
+ ],
+ "2024-01-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2024-01-30",
+   "accession": "0001652044-24-000014",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses optimism about the company's performance and future prospects."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "AI investments",
+     "business momentum"
+    ],
+    "summary": "Management expresses optimism about the company's performance and future prospects, highlighting strong demand in core businesses and the positive impact of AI investments."
+   }
+  }
+ ],
+ "2024-01-31": [
+  {
+   "filing_type": "10K",
+   "ticker": "GOOGL",
+   "filed_date": "2024-01-31",
+   "period_end": "2023-12-31",
+   "accession": "0001652044-24-000022",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "key_themes": [
+     "AI infrastructure",
+     "product innovation",
+     "global impact"
+    ],
+    "growth_signals": [
+     "investment in AI technical infrastructure",
+     "launch of Gemini",
+     "open-sourcing AlphaFold's protein structures",
+     "development of flood forecasting models",
+     "expansion of Google Cloud offerings"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "macroeconomic",
+     "operational",
+     "legal",
+     "technological"
+    ],
+    "key_risks": [
+     "reduced advertising spending",
+     "intense competition",
+     "advertising policy changes",
+     "AI technology competition",
+     "investment risks"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "cautious",
+    "key_themes": [
+     "online advertising evolution",
+     "international market growth",
+     "investment in AI and infrastructure"
+    ],
+    "growth_signals": [
+     "increased revenues from emerging markets",
+     "expansion of product offerings",
+     "continued investment in technical infrastructure"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.23333333333333334,
+    "tone": "cautious",
+    "summary": "Google exhibits optimism in business themes but faces significant risks, maintaining a cautious approach in its MDA."
+   }
+  }
+ ],
+ "2024-02-08": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2024-02-08",
+   "accession": "0001652044-24-000032",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": -0.2,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Alphabet cautions shareholders about an unsolicited mini-tender offer."
+   },
+   "item_8_01": {
+    "sentiment": -0.2,
+    "tone": "cautious",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "unsolicited mini-tender offer",
+     "recommendation against tendering shares"
+    ],
+    "summary": "Alphabet warns shareholders against an unsolicited mini-tender offer from TRC Capital."
+   }
+  }
+ ],
+ "2024-04-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2024-04-25",
+   "accession": "0001652044-24-000047",
+   "items_found": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "Management highlights strong performance and announces new financial initiatives."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "AI innovation"
+    ],
+    "summary": "Management highlights strong performance across key segments and expresses optimism about future AI advancements."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Alphabet announces a new cash dividend program and share repurchase authorization, signaling confidence in its financial position."
+   }
+  }
+ ],
+ "2024-04-26": [
+  {
+   "filing_type": "10Q",
+   "ticker": "GOOGL",
+   "date": "2024-04-26",
+   "quarter": "Q2",
+   "accession": "0001652044-24-000053",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "strong product demand",
+     "AI investment",
+     "macro headwinds"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Management highlights strong business momentum driven by robust product demand and strategic investments in AI, while acknowledging potential challenges from macroeconomic conditions."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "technology",
+     "macroeconomic",
+     "operational"
+    ],
+    "key_risks": [
+     "reliance on advertising revenue",
+     "advertising policy changes",
+     "economic downturns"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Google highlights ongoing risks related to its heavy reliance on advertising revenue, potential changes in advertising policies, and the impact of economic downturns."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Despite highlighting ongoing risks, Google reports strong business momentum driven by robust product demand."
+   }
+  }
+ ],
+ "2024-06-05": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2024-06-05",
+   "accession": "0001193125-24-154725",
+   "items_found": [
+    "5.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Alphabet announces the appointment of Anat Ashkenazi as the new CFO."
+   },
+   "item_5_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "Alphabet announces the appointment of Anat Ashkenazi as the new CFO, highlighting her extensive experience and diverse background."
+   }
+  }
+ ],
+ "2024-06-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2024-06-07",
+   "accession": "0001193125-24-157498",
+   "items_found": [
+    "5.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Alphabet appoints Anat Ashkenazi as the new Chief Financial Officer."
+   },
+   "item_5_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "Alphabet appoints Anat Ashkenazi as the new Chief Financial Officer and Senior Vice President, signaling continued strong leadership."
+   }
+  }
+ ],
+ "2024-07-23": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2024-07-23",
+   "accession": "0001652044-24-000076",
+   "items_found": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.75,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "Alphabet reports strong Q2 results and announces a cash dividend."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "innovation",
+     "business momentum"
+    ],
+    "summary": "Alphabet reports strong Q2 results with emphasis on growth in Search and Cloud, highlighting innovation and positive business momentum."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Alphabet announces a cash dividend to its shareholders, reflecting the company's strong financial position and commitment to rewarding investors."
+   }
+  }
+ ],
+ "2024-07-24": [
+  {
+   "filing_type": "10Q",
+   "ticker": "GOOGL",
+   "date": "2024-07-24",
+   "quarter": "Q3",
+   "accession": "0001652044-24-000079",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "strong product demand",
+     "AI investment",
+     "macro headwinds"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Management highlights strong business momentum driven by robust product demand and strategic investments in AI, while acknowledging potential challenges from macroeconomic conditions."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "technology",
+     "macroeconomic",
+     "legal"
+    ],
+    "key_risks": [
+     "reduced advertiser spending",
+     "ad-blocking technologies",
+     "economic downturns"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "The primary risks highlighted include technological challenges like ad-blocking and evolving data privacy regulations, along with economic fluctuations affecting advertiser spending."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Despite cautious outlooks on technological challenges, management reports strong business momentum."
+   }
+  }
+ ],
+ "2024-08-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2024-08-06",
+   "accession": "0001652044-24-000085",
+   "items_found": [
+    "8.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "negative",
+    "urgency": "high",
+    "summary": "Google faces an antitrust ruling and plans to appeal."
+   },
+   "item_8_01": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "event_type": "litigation_update",
+    "market_impact": "negative",
+    "key_themes": [
+     "antitrust violation",
+     "legal proceedings",
+     "appeal plans"
+    ],
+    "summary": "Google faces an antitrust ruling and plans to appeal."
+   }
+  }
+ ],
+ "2024-09-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2024-09-24",
+   "accession": "0001652044-24-000097",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": -0.2,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Alphabet cautions shareholders about a mini-tender offer from Tutano."
+   },
+   "item_8_01": {
+    "sentiment": -0.2,
+    "tone": "cautious",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "unsolicited mini-tender offer",
+     "stockholder caution"
+    ],
+    "summary": "Alphabet warns shareholders against an unsolicited mini-tender offer from Tutanota LLC."
+   }
+  }
+ ],
+ "2024-10-17": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2024-10-17",
+   "accession": "0001193125-24-238769",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Prabhakar Raghavan transitions to a new role as Chief Technologist."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "Prabhakar Raghavan transitions to a new role as Chief Technologist, signaling continued leadership within Google."
+   }
+  }
+ ],
+ "2024-10-29": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2024-10-29",
+   "accession": "0001652044-24-000115",
+   "items_found": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.75,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "Alphabet reports strong financial results and announces a dividend."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "innovation",
+     "AI growth"
+    ],
+    "summary": "Alphabet reports strong revenue growth driven by robust performance across its services and cloud divisions, highlighting the success of its AI investments."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Alphabet announces a cash dividend to its shareholders, reflecting the company's strong financial position."
+   }
+  }
+ ],
+ "2024-10-30": [
+  {
+   "filing_type": "10Q",
+   "ticker": "GOOGL",
+   "date": "2024-10-30",
+   "quarter": "Q4",
+   "accession": "0001652044-24-000118",
+   "mda": {
+    "sentiment": 0.5,
+    "tone": "neutral",
+    "key_themes": [
+     "macroeconomic factors",
+     "product launches",
+     "currency fluctuations"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The company discusses the impact of various factors on its revenue streams, including macroeconomic conditions, new product launches, and currency fluctuations."
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "legal"
+    ],
+    "key_risks": [
+     "antitrust lawsuits",
+     "government inquiries",
+     "intellectual property disputes"
+    ],
+    "change_vs_prior": "increased",
+    "summary": "GOOGL faces heightened risks from ongoing antitrust lawsuits and regulatory scrutiny, particularly regarding its advertising technologies and Android ecosystem."
+   },
+   "overall": {
+    "sentiment": -0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "GOOGL reports stable operations amid increased risks from legal and regulatory challenges."
+   }
+  }
+ ],
+ "2025-02-04": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2025-02-04",
+   "accession": "0001652044-25-000010",
+   "items_found": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "Alphabet reports strong Q4 results and announces a cash dividend."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "AI leadership",
+     "business momentum",
+     "investment acceleration"
+    ],
+    "summary": "Alphabet reports strong Q4 results, highlighting robust business momentum and leadership in AI, with Sundar Pichai expressing confidence in future opportunities."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Alphabet announces a cash dividend, reflecting its strong financial position and commitment to rewarding shareholders."
+   }
+  }
+ ],
+ "2025-02-05": [
+  {
+   "filing_type": "10K",
+   "ticker": "GOOGL",
+   "filed_date": "2025-02-05",
+   "period_end": "2024-12-31",
+   "accession": "0001652044-25-000014",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.9,
+    "tone": "optimistic",
+    "key_themes": [
+     "AI infrastructure",
+     "product innovation",
+     "enterprise solutions"
+    ],
+    "growth_signals": [
+     "introduction of Gemini",
+     "launch of Gemini 2.0",
+     "investment in research and development",
+     "expansion of Google Cloud services",
+     "enhancements in privacy and security"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "macroeconomic",
+     "operational",
+     "legal",
+     "technological"
+    ],
+    "key_risks": [
+     "reduced advertising spending",
+     "intense competition",
+     "advertising policy changes",
+     "AI technology competition",
+     "investment risks"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "cautious",
+    "key_themes": [
+     "online advertising evolution",
+     "international market growth",
+     "AI integration"
+    ],
+    "growth_signals": [
+     "increasing international revenues",
+     "expanding product offerings",
+     "cloud revenue growth"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.23333333333333334,
+    "tone": "cautious",
+    "summary": "Google exhibits optimism in business themes but faces significant risks, particularly in competition and macroeconomic factors, while maintaining a cautious approach in its MDA."
+   }
+  }
+ ],
+ "2025-03-18": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2025-03-18",
+   "accession": "0001652044-25-000027",
+   "items_found": [
+    "7.01",
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01",
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "Google announces the acquisition of Wiz, a leading cloud security platform."
+   },
+   "item_7_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "business_update",
+    "market_impact": "positive",
+    "key_themes": [
+     "expansion",
+     "strategic_acquisition",
+     "cloud_security"
+    ],
+    "summary": "Google announces the acquisition of Wiz, a leading cloud security platform, signaling strategic expansion into enhanced cybersecurity solutions."
+   },
+   "item_8_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "Acquisition of Wiz, Inc."
+    ],
+    "summary": "The filing mentions an acquisition but does not provide further details."
+   }
+  }
+ ],
+ "2025-04-18": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2025-04-18",
+   "accession": "0001652044-25-000033",
+   "items_found": [
+    "8.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Google received a mixed antitrust ruling, facing an unfavorable outcome regarding regulatory challenges."
+   },
+   "item_8_01": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "litigation_update",
+    "market_impact": "negative",
+    "key_themes": [
+     "antitrust violation",
+     "publisher tools exclusion",
+     "appeal plan"
+    ],
+    "summary": "Google received a mixed antitrust ruling, facing an unfavorable outcome regarding its publisher tools while being cleared on advertiser tools and acquisitions."
+   }
+  }
+ ],
+ "2025-04-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2025-04-24",
+   "accession": "0001652044-25-000040",
+   "items_found": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "Alphabet reports strong Q1 results and announces significant share repurchase authorization."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "robust momentum",
+     "AI innovation",
+     "subscription growth",
+     "cloud services"
+    ],
+    "summary": "Alphabet reports strong Q1 results driven by robust growth across its business segments, highlighting the success of its AI initiatives and cloud services."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "buyback",
+    "market_impact": "positive",
+    "key_themes": [
+     "share repurchase authorization",
+     "dividend declaration"
+    ],
+    "summary": "Alphabet announces significant share repurchase authorization and a quarterly dividend, signaling confidence in its financial position."
+   }
+  }
+ ],
+ "2025-04-25": [
+  {
+   "filing_type": "10Q",
+   "ticker": "GOOGL",
+   "date": "2025-04-25",
+   "quarter": "Q2",
+   "accession": "0001652044-25-000043",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "strong product demand",
+     "AI investment",
+     "macro headwinds"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Management highlights strong demand for Google's products and services, particularly in AI, while acknowledging potential challenges from macroeconomic conditions."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "legal",
+     "regulatory",
+     "operational"
+    ],
+    "key_risks": [
+     "various risks and uncertainties",
+     "harm to business and financial condition",
+     "affecting stock price"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights significant risks that could negatively impact the company's performance and stock price."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "neutral",
+    "summary": "Management highlights strong demand for Google's products and services while also acknowledging significant risks."
+   }
+  }
+ ],
+ "2025-05-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2025-05-01",
+   "accession": "0001193125-25-110020",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "deal",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Alphabet Inc. successfully completed a bond offering to diversify its funding sources."
+   },
+   "item_8_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "bond offering",
+     "financial management"
+    ],
+    "summary": "Alphabet Inc. successfully completed a bond offering to diversify its funding sources."
+   }
+  }
+ ],
+ "2025-05-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2025-05-06",
+   "accession": "0001193125-25-113864",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "deal",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Alphabet Inc. successfully completed an underwritten public offering."
+   },
+   "item_8_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "bond offering",
+     "financial instruments"
+    ],
+    "summary": "Alphabet Inc. successfully completed an underwritten public offering of various euro-denominated bonds."
+   }
+  }
+ ],
+ "2025-07-18": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2025-07-18",
+   "accession": "0001193125-25-161225",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": -0.3,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Alphabet Inc. has reached a preliminary settlement in a shareholder derivative lawsuit."
+   },
+   "item_8_01": {
+    "sentiment": -0.3,
+    "tone": "cautious",
+    "event_type": "legal_settlement",
+    "market_impact": "negative",
+    "key_themes": [
+     "legal settlement",
+     "denial of liability"
+    ],
+    "summary": "Alphabet Inc. has reached a preliminary settlement in a shareholder derivative lawsuit, with defendants denying any liability."
+   }
+  }
+ ],
+ "2025-07-23": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2025-07-23",
+   "accession": "0001652044-25-000056",
+   "items_found": [
+    "2.02",
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.75,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "Alphabet reports strong Q2 2025 results and announces a quarterly cash dividend."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "robust growth",
+     "AI impact",
+     "investment increase"
+    ],
+    "summary": "Alphabet reports strong Q2 2025 results with robust growth across all segments, driven by AI advancements and increased investments."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Alphabet announces a quarterly cash dividend, reflecting its strong financial position and commitment to rewarding shareholders."
+   }
+  }
+ ],
+ "2025-07-24": [
+  {
+   "filing_type": "10Q",
+   "ticker": "GOOGL",
+   "date": "2025-07-24",
+   "quarter": "Q3",
+   "accession": "0001652044-25-000062",
+   "mda": {
+    "sentiment": 0.5,
+    "tone": "cautious",
+    "key_themes": [
+     "macroeconomic uncertainty",
+     "competitive landscape",
+     "technological innovation"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Management discusses the impact of various factors on revenue, including macroeconomic conditions, competitive pressures, and technological advancements, while maintaining a stable business momentum."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "legal",
+     "regulatory",
+     "operational"
+    ],
+    "key_risks": [
+     "various risks and uncertainties",
+     "harm to business and financial condition",
+     "affecting stock price"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights significant risks that could negatively impact the company's performance and stock price."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "negative",
+    "summary": "Management discusses the impact of various factors on revenue while highlighting significant risks that could negatively impact the company."
+   }
+  }
+ ],
+ "2025-09-03": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2025-09-03",
+   "accession": "0001652044-25-000067",
+   "items_found": [
+    "8.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Google faces new restrictions and obligations due to an antitrust case."
+   },
+   "item_8_01": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "event_type": "litigation_update",
+    "market_impact": "negative",
+    "key_themes": [
+     "antitrust case",
+     "remedies decision",
+     "limits on service distribution",
+     "data sharing"
+    ],
+    "summary": "Google faces new restrictions and obligations as a result of an antitrust case decision."
+   }
+  }
+ ],
+ "2025-09-05": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2025-09-05",
+   "accession": "0001652044-25-000074",
+   "items_found": [
+    "8.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "negative",
+    "urgency": "high",
+    "summary": "Google faces a significant fine and must halt certain practices following an unfavorable ruling."
+   },
+   "item_8_01": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "event_type": "regulatory_update",
+    "market_impact": "negative",
+    "key_themes": [
+     "European Commission decision",
+     "self-preferencing practices",
+     "legal challenge"
+    ],
+    "summary": "Google faces a significant fine and must halt certain practices following an unfavorable decision by the European Commission."
+   }
+  }
+ ],
+ "2025-10-29": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2025-10-29",
+   "accession": "0001652044-25-000087",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Alphabet reported robust growth across all segments, highlighting strong business performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "business momentum",
+     "AI growth"
+    ],
+    "summary": "Alphabet reported robust growth across all segments, highlighting strong business momentum and significant advancements in AI technology."
+   }
+  }
+ ],
+ "2025-10-30": [
+  {
+   "filing_type": "10Q",
+   "ticker": "GOOGL",
+   "date": "2025-10-30",
+   "quarter": "Q4",
+   "accession": "0001652044-25-000091",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "strong product demand",
+     "AI investment",
+     "macro headwinds"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "Alphabet highlights strong business performance across its segments, emphasizing robust demand for its products and services, ongoing investments in AI, and cautious optimism despite macroeconomic challenges."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "legal",
+     "regulatory",
+     "operational"
+    ],
+    "key_risks": [
+     "various risks and uncertainties",
+     "harm to business and financial condition",
+     "affecting stock price"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights significant risks that could negatively impact the company's performance and stock price."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "Despite highlighting significant risks, Alphabet reports strong business performance across its segments."
+   }
+  }
+ ],
+ "2025-11-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "GOOGL",
+   "date": "2025-11-06",
+   "accession": "0001193125-25-269979",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "deal",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Alphabet Inc. completed the offering of both U.S. dollar and euro-denominated securities."
+   },
+   "item_8_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "financing",
+     "debt issuance"
+    ],
+    "summary": "Alphabet Inc. completed the offering of both U.S. dollar and euro-denominated senior notes."
+   }
+  }
+ ]
+}

@@ -1,0 +1,974 @@
+{
+ "2023-01-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "JJSF",
+   "date": "2023-01-30",
+   "accession": "0001437749-23-002043",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses confidence in continued growth despite facing cost pressure"
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cost pressures",
+     "margin expansion",
+     "macro headwinds"
+    ],
+    "summary": "Management expresses confidence in continued growth despite facing cost pressures and macroeconomic challenges."
+   }
+  }
+ ],
+ "2023-05-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "JJSF",
+   "date": "2023-05-01",
+   "accession": "0001437749-23-011892",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses strong confidence in the company's ability to drive sales growth."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "operational improvements",
+     "pipeline growth"
+    ],
+    "summary": "Management expresses strong confidence in the company's ability to drive sales growth and improve operational efficiency despite ongoing cost pressures."
+   }
+  }
+ ],
+ "2023-05-04": [
+  {
+   "filing_type": "10Q",
+   "ticker": "JJSF",
+   "date": "2023-05-04",
+   "quarter": "Q2",
+   "accession": "0001437749-23-012588",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last report."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company reports stable operations with no new material risks identified."
+   }
+  }
+ ],
+ "2023-07-31": [
+  {
+   "filing_type": "8K",
+   "ticker": "JJSF",
+   "date": "2023-07-31",
+   "accession": "0001437749-23-021173",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses strong confidence in continued growth."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "cross-selling opportunities",
+     "logistics improvements"
+    ],
+    "summary": "Management expresses strong confidence in continued growth driven by robust sales across all segments and improving margins."
+   }
+  }
+ ],
+ "2023-08-03": [
+  {
+   "filing_type": "10Q",
+   "ticker": "JJSF",
+   "date": "2023-08-03",
+   "quarter": "Q3",
+   "accession": "0001437749-23-021965",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unknown",
+    "summary": "No specific risk factors were detailed in the provided text."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company reported a neutral stance with stable momentum and no detailed risk factors highlighted."
+   }
+  }
+ ],
+ "2023-11-15": [
+  {
+   "filing_type": "8K",
+   "ticker": "JJSF",
+   "date": "2023-11-15",
+   "accession": "0001437749-23-032179",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "J&J Snack Foods reports record-breaking sales and profitability"
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cross-selling opportunities",
+     "operational improvements"
+    ],
+    "summary": "J&J Snack Foods reports record-breaking sales and profitability, attributing success to strong core brand growth and operational enhancements."
+   }
+  }
+ ],
+ "2023-11-28": [
+  {
+   "filing_type": "10K",
+   "ticker": "JJSF",
+   "filed_date": "2023-11-28",
+   "period_end": "2023-09-30",
+   "accession": "0001437749-23-033110",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "key_themes": [
+     "snack food manufacturing",
+     "frozen beverages",
+     "multiple distribution channels"
+    ],
+    "growth_signals": [
+     "largest manufacturer of soft pretzels in the United States",
+     "rights to market and distribute frozen beverages under the name ICEE and Slush Puppie to the entire continental United States as well as internationally",
+     "provides managed service and/or products to approximately 132,000 Company-owned and customer-owned dispensers"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "macroeconomic",
+     "supply chain",
+     "operational",
+     "legal",
+     "environmental"
+    ],
+    "key_risks": [
+     "shortages or increased cost of raw materials",
+     "general economic risk",
+     "risks relating to pandemics, epidemics, or other disease outbreaks",
+     "risks of shortages or increased costs of labor",
+     "environmental risks"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "organic sales growth",
+     "pricing actions",
+     "stabilization of inflationary pressures"
+    ],
+    "growth_signals": [
+     "net sales increased by 13%",
+     "gross profit increased by 27%",
+     "operating income increased by 77.2%"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.4,
+    "tone": "optimistic",
+    "summary": "JJSF reports strong growth in net sales, gross profit, and operating income, while acknowledging significant macroeconomic and supply chain risks."
+   }
+  }
+ ],
+ "2024-02-05": [
+  {
+   "filing_type": "8K",
+   "ticker": "JJSF",
+   "date": "2024-02-05",
+   "accession": "0001437749-24-003121",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses optimism about future growth despite current market challenges."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "margin expansion",
+     "strategic investments",
+     "diverse business model"
+    ],
+    "summary": "Management expresses optimism about future growth despite current market challenges, highlighting successful execution of long-term strategies and resilience in key segments."
+   }
+  }
+ ],
+ "2024-02-07": [
+  {
+   "filing_type": "10Q",
+   "ticker": "JJSF",
+   "date": "2024-02-07",
+   "quarter": "Q1",
+   "accession": "0001437749-24-003377",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "declining consumer traffic",
+     "product mix improvement",
+     "stabilizing inflation"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "decelerating",
+    "summary": "Despite an increase in gross profit, the company faces challenges due to declining consumer traffic and consumption, impacting overall sales growth."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company reports a cautious outlook despite a rise in gross profit, highlighting ongoing challenges."
+   }
+  }
+ ],
+ "2024-05-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "JJSF",
+   "date": "2024-05-06",
+   "accession": "0001437749-24-014837",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "J&J Snack Foods reports record-breaking sales and earnings"
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "supply chain improvements"
+    ],
+    "summary": "J&J Snack Foods reports record-breaking sales and earnings, highlighting strong demand across segments and successful supply chain enhancements."
+   }
+  }
+ ],
+ "2024-05-08": [
+  {
+   "filing_type": "10Q",
+   "ticker": "JJSF",
+   "date": "2024-05-08",
+   "quarter": "Q2",
+   "accession": "0001437749-24-015377",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The MD&A section does not contain narrative language or qualitative analysis."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last report."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company maintains a stable position with no significant changes in risks or momentum."
+   }
+  }
+ ],
+ "2024-06-27": [
+  {
+   "filing_type": "8K",
+   "ticker": "JJSF",
+   "date": "2024-06-27",
+   "accession": "0001437749-24-021410",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "medium",
+    "summary": "Ken Plunk, the outgoing CFO, is retiring, and the company plans to conduct a search for his replacement."
+   },
+   "item_5_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "executive_departure",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "reason if given",
+     "leadership continuity signals"
+    ],
+    "summary": "Ken Plunk, the outgoing CFO, is retiring, and the company plans to conduct a search for a new CFO during the interim period."
+   }
+  }
+ ],
+ "2024-08-05": [
+  {
+   "filing_type": "8K",
+   "ticker": "JJSF",
+   "date": "2024-08-05",
+   "accession": "0001437749-24-024657",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses confidence in the company's strategies and future growth."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "growth opportunities"
+    ],
+    "summary": "Management expresses confidence in the company's strategies and future growth prospects despite some challenges."
+   }
+  }
+ ],
+ "2024-08-07": [
+  {
+   "filing_type": "10Q",
+   "ticker": "JJSF",
+   "date": "2024-08-07",
+   "quarter": "Q3",
+   "accession": "0001437749-24-025199",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The MD&A section does not contain narrative language or qualitative analysis, focusing instead on procedural and administrative details."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last report."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company maintains a stable position with no significant changes in risks or qualitative insights reported."
+   }
+  }
+ ],
+ "2024-11-13": [
+  {
+   "filing_type": "8K",
+   "ticker": "JJSF",
+   "date": "2024-11-13",
+   "accession": "0001437749-24-034926",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses confidence in future growth despite current challenges"
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "margin expansion",
+     "new product launches",
+     "customer channel growth"
+    ],
+    "summary": "Management expresses confidence in future growth despite current challenges, highlighting successful execution of strategy and positive outlook for new product launches."
+   }
+  }
+ ],
+ "2024-11-21": [
+  {
+   "filing_type": "8K",
+   "ticker": "JJSF",
+   "date": "2024-11-21",
+   "accession": "0001437749-24-035969",
+   "items_found": [
+    "5.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The filing describes the adoption of a new deferred compensation plan without mentioning specific details."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "multiple_changes",
+    "market_impact": "neutral",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "The filing describes the adoption of a new deferred compensation plan without mentioning any specific departures or appointments."
+   }
+  },
+  {
+   "filing_type": "8K",
+   "ticker": "JJSF",
+   "date": "2024-11-21",
+   "accession": "0001437749-24-035909",
+   "items_found": [
+    "5.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "J & J Snack Foods Corp. appoints Shawn Munsell as the new Chief Financial Officer"
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "J & J Snack Foods Corp. appoints Shawn Munsell as the new Chief Financial Officer to ensure smooth leadership transition."
+   }
+  }
+ ],
+ "2024-11-26": [
+  {
+   "filing_type": "10K",
+   "ticker": "JJSF",
+   "filed_date": "2024-11-26",
+   "period_end": "2024-09-28",
+   "accession": "0001437749-24-036279",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "key_themes": [
+     "snack food manufacturing",
+     "frozen beverages",
+     "multiple distribution channels"
+    ],
+    "growth_signals": [
+     "largest manufacturer of soft pretzels in the US",
+     "expansion into international markets",
+     "diverse product portfolio",
+     "significant sales to major customers",
+     "managed service for frozen beverage dispensers"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "macroeconomic",
+     "supply chain",
+     "operational",
+     "legal",
+     "environmental"
+    ],
+    "key_risks": [
+     "general economic risk",
+     "shortages or increased cost of raw materials",
+     "pandemics, epidemics, or other disease outbreaks",
+     "risks of shortages or increased costs of labor",
+     "environmental risks"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "operational efficiencies",
+     "product expansion",
+     "market penetration"
+    ],
+    "growth_signals": [
+     "net sales up 1% YoY",
+     "gross profit up 4% YoY",
+     "operating income up 7.3% YoY"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "optimistic",
+    "summary": "JJSF exhibits strong business optimism and growth signals despite significant macroeconomic and operational risks."
+   }
+  }
+ ],
+ "2025-02-03": [
+  {
+   "filing_type": "8K",
+   "ticker": "JJSF",
+   "date": "2025-02-03",
+   "accession": "0001437749-25-002595",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "J&J Snack Foods reports revenue growth despite margin pressures."
+   },
+   "item_2_02": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cost pressures",
+     "margin expansion",
+     "macro headwinds"
+    ],
+    "summary": "J&J Snack Foods reports revenue growth despite margin pressures, highlighting strong demand across segments and strategic initiatives to enhance profitability."
+   }
+  }
+ ],
+ "2025-02-06": [
+  {
+   "filing_type": "10Q",
+   "ticker": "JJSF",
+   "date": "2025-02-06",
+   "quarter": "Q1",
+   "accession": "0001437749-25-003041",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The text does not provide any significant narrative or qualitative insights into the company's operations or future outlook."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last report."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The quarter did not introduce any significant changes or insights."
+   }
+  }
+ ],
+ "2025-05-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "JJSF",
+   "date": "2025-05-06",
+   "accession": "0001437749-25-014612",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "management",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Management acknowledges challenges in the quarter but expresses optimism for an improvement."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "cost pressures",
+     "macro headwinds",
+     "price increases"
+    ],
+    "summary": "Management acknowledges challenges in the quarter but expresses optimism for an improvement in earnings driven by expected rebounds in theater traffic and implemented price increases."
+   }
+  }
+ ],
+ "2025-05-08": [
+  {
+   "filing_type": "10Q",
+   "ticker": "JJSF",
+   "date": "2025-05-08",
+   "quarter": "Q2",
+   "accession": "0001437749-25-015523",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The report does not contain significant narrative language or qualitative tone regarding the company's operations or future outlook."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last report."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company reports a stable quarter with no significant changes in operations or risk profile."
+   }
+  }
+ ],
+ "2025-08-05": [
+  {
+   "filing_type": "8K",
+   "ticker": "JJSF",
+   "date": "2025-08-05",
+   "accession": "0001437749-25-024706",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "J&J Snack Foods reports strong third-quarter results, highlighting resilient business performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "macro headwinds"
+    ],
+    "summary": "J&J Snack Foods reports strong third-quarter results, highlighting resilient business performance and strategic initiatives despite macroeconomic challenges."
+   }
+  }
+ ],
+ "2025-08-06": [
+  {
+   "filing_type": "10Q",
+   "ticker": "JJSF",
+   "date": "2025-08-06",
+   "quarter": "Q3",
+   "accession": "0001437749-25-025101",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The report does not contain significant narrative language or qualitative tone regarding business operations or future outlook."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last report."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company reports a stable quarter with no significant changes in narrative or identified risks."
+   }
+  }
+ ],
+ "2025-11-17": [
+  {
+   "filing_type": "8K",
+   "ticker": "JJSF",
+   "date": "2025-11-17",
+   "accession": "0001437749-25-035287",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses optimism about future growth through new programs and a focus on strategic initiatives."
+   },
+   "item_2_02": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "robust innovation pipeline",
+     "business transformation",
+     "strong balance sheet"
+    ],
+    "summary": "Management expresses optimism about future growth through new programs and a focus on better-for-you products, supported by a strong financial position."
+   }
+  }
+ ],
+ "2025-11-26": [
+  {
+   "filing_type": "10K",
+   "ticker": "JJSF",
+   "filed_date": "2025-11-26",
+   "period_end": "2025-09-27",
+   "accession": "0001437749-25-036456",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "soft pretzels",
+     "frozen novelties",
+     "frozen beverages"
+    ],
+    "growth_signals": [
+     "largest manufacturer of soft pretzels in the US",
+     "sales to major retail and foodservice channels",
+     "expansion into international markets"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "macroeconomic",
+     "supply chain",
+     "pandemic",
+     "competition",
+     "operational"
+    ],
+    "key_risks": [
+     "general economic risk",
+     "shortages or increased cost of raw materials and packaging",
+     "risks relating to pandemics, epidemics, or other disease outbreaks",
+     "risks relating to competition",
+     "risks of shortages or increased costs of labor"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "cost pressures",
+     "supply chain challenges",
+     "strategic investments"
+    ],
+    "growth_signals": [
+     "opened three regional distribution centers",
+     "added six new production lines",
+     "ERP system implementation"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "cautious",
+    "summary": "JJSF exhibits a cautiously optimistic outlook with growth initiatives but faces significant macroeconomic and operational risks."
+   }
+  }
+ ]
+}

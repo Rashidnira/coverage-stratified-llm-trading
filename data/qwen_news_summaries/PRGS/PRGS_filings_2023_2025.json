@@ -1,0 +1,1612 @@
+{
+ "2023-01-03": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2023-01-03",
+   "accession": "0000876167-23-000004",
+   "items_found": [
+    "1.01",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Progress Software Corporation enters into a Stock Purchase Agreement to acquire."
+   },
+   "item_1_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "acquisition",
+    "market_impact": "positive",
+    "key_themes": [
+     "expansion",
+     "strategic growth"
+    ],
+    "summary": "Progress Software Corporation enters into a Stock Purchase Agreement to acquire Vector Maven Holdings, Inc., aiming for strategic growth and expansion."
+   },
+   "item_7_01": {
+    "sentiment": 0.5,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "execution of Purchase Agreement",
+     "incorporation of press release"
+    ],
+    "summary": "Progress announced the execution of a Purchase Agreement through a press release."
+   }
+  }
+ ],
+ "2023-01-17": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2023-01-17",
+   "accession": "0000876167-23-000008",
+   "items_found": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.4,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "PRGS reports strong Q4 and fiscal year-end results, indicating robust demand."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "acquisition",
+     "growth expectations"
+    ],
+    "summary": "Progress reports strong Q4 and fiscal year-end results, highlighting robust demand and a strategic acquisition expected to drive future growth."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "supplemental data availability",
+     "website update"
+    ],
+    "summary": "The company will provide additional information on their website before a scheduled conference call."
+   }
+  }
+ ],
+ "2023-01-27": [
+  {
+   "filing_type": "10K",
+   "ticker": "PRGS",
+   "filed_date": "2023-01-27",
+   "period_end": "2022-11-30",
+   "accession": "0000876167-23-000036",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "key_themes": [
+     "software development",
+     "cloud-based offerings",
+     "international operations"
+    ],
+    "growth_signals": [
+     "accretive acquisitions",
+     "recurring revenue",
+     "dividends and share repurchases"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "operational",
+     "technology",
+     "acquisition",
+     "market"
+    ],
+    "key_risks": [
+     "rapid technological changes",
+     "dependence on OpenEdge products",
+     "intense industry competition",
+     "risks associated with acquisitions",
+     "open source software competition"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "international expansion",
+     "product diversification",
+     "capital allocation"
+    ],
+    "growth_signals": [
+     "revenue up 13% YoY",
+     "maintenance and services revenue up 10% YoY",
+     "constant currency revenue up 16%"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "optimistic",
+    "summary": "Progress Software demonstrates strong business growth and optimism despite significant risks in competition and technology."
+   }
+  }
+ ],
+ "2023-02-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2023-02-07",
+   "accession": "0000876167-23-000056",
+   "items_found": [
+    "7.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Progress Software Corporation has completed the acquisition of Vector Maven Hold."
+   },
+   "item_7_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "business_update",
+    "market_impact": "positive",
+    "key_themes": [
+     "transaction completion",
+     "strategic acquisition"
+    ],
+    "summary": "Progress Software Corporation has completed the acquisition of Vector Maven Holdings, L.P. and Vector Maven Holdings, Inc."
+   }
+  }
+ ],
+ "2023-03-13": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2023-03-13",
+   "accession": "0000876167-23-000067",
+   "items_found": [
+    "7.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "regulatory",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Progress Software Corporation reports no immediate impact on its business due to"
+   },
+   "item_7_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "no disruption to business",
+     "no material loss exposure"
+    ],
+    "summary": "Progress Software Corporation reports no immediate impact on its business due to the collapse of Silicon Valley Bank and Signature Bridge Bank."
+   }
+  }
+ ],
+ "2023-03-28": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2023-03-28",
+   "accession": "0000876167-23-000070",
+   "items_found": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.4,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Progress reports a strong start to fiscal 2023 with robust growth across all segments."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "integration progress"
+    ],
+    "summary": "Progress reports a strong start to fiscal 2023 with robust growth across all segments and positive outlook for the year."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "supplemental data availability",
+     "website update"
+    ],
+    "summary": "The company will provide additional information on their website before a scheduled conference call."
+   }
+  }
+ ],
+ "2023-04-07": [
+  {
+   "filing_type": "10Q",
+   "ticker": "PRGS",
+   "date": "2023-04-07",
+   "quarter": "Q2",
+   "accession": "0000876167-23-000091",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unknown",
+    "summary": "No specific risk factors are discussed in the provided text."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "The company reports a neutral stance with stable momentum and no specific risks highlighted."
+   }
+  }
+ ],
+ "2023-06-05": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2023-06-05",
+   "accession": "0000876167-23-000113",
+   "items_found": [
+    "8.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "negative",
+    "urgency": "high",
+    "summary": "Progress Software disclosed a zero-day vulnerability in their MOVEit Transfer product."
+   },
+   "item_8_01": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "other",
+    "market_impact": "negative",
+    "key_themes": [
+     "cybersecurity breach",
+     "vulnerability discovery",
+     "customer notification",
+     "patch release"
+    ],
+    "summary": "Progress Software disclosed a zero-day vulnerability in their MOVEit Transfer product, leading to immediate action including customer notifications and system patches."
+   }
+  }
+ ],
+ "2023-06-29": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2023-06-29",
+   "accession": "0000876167-23-000116",
+   "items_found": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.4,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Progress reports a strong quarter with robust revenue growth and positive trends."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "integration progress"
+    ],
+    "summary": "Progress reports a strong quarter with robust revenue growth and positive trends in ARR and net retention, reflecting continued strong execution and integration progress."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "supplemental data availability",
+     "website update"
+    ],
+    "summary": "The company will provide additional information on their website before a scheduled conference call."
+   }
+  }
+ ],
+ "2023-07-07": [
+  {
+   "filing_type": "10Q",
+   "ticker": "PRGS",
+   "date": "2023-07-07",
+   "quarter": "Q3",
+   "accession": "0000876167-23-000130",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.75,
+    "tone": "cautious",
+    "risk_categories": [
+     "cybersecurity",
+     "legal",
+     "operational"
+    ],
+    "key_risks": [
+     "software defects and security flaws",
+     "governmental investigations and litigation",
+     "customer dissatisfaction leading to refunds and delays"
+    ],
+    "change_vs_prior": "increased",
+    "summary": "The company highlights significant cybersecurity risks due to recent software vulnerabilities, along with associated legal and operational challenges."
+   },
+   "overall": {
+    "sentiment": -0.375,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "negative",
+    "summary": "PRGS reports stable operations but increased caution regarding cybersecurity risks."
+   }
+  }
+ ],
+ "2023-09-26": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2023-09-26",
+   "accession": "0000876167-23-000168",
+   "items_found": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.4,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses strong confidence in the company's performance and future."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "integration progress",
+     "confidence in future"
+    ],
+    "summary": "Management expresses strong confidence in the company's performance and future prospects, highlighting robust demand and successful integration efforts."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "supplemental data availability",
+     "website update"
+    ],
+    "summary": "The company will make additional data available on their website before a conference call."
+   }
+  }
+ ],
+ "2023-10-10": [
+  {
+   "filing_type": "10Q",
+   "ticker": "PRGS",
+   "date": "2023-10-10",
+   "quarter": "Q4",
+   "accession": "0000876167-23-000190",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "cybersecurity",
+     "legal",
+     "operational"
+    ],
+    "key_risks": [
+     "software defects and security flaws",
+     "governmental investigations and litigation",
+     "impact on business operations and financial results"
+    ],
+    "change_vs_prior": "increased",
+    "summary": "Management highlights significant cybersecurity risks and associated legal and operational challenges stemming from recent software vulnerabilities."
+   },
+   "overall": {
+    "sentiment": -0.35,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "negative",
+    "summary": "Management highlights increased cybersecurity risks, leading to a cautious outlook despite stable business operations."
+   }
+  }
+ ],
+ "2024-01-16": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2024-01-16",
+   "accession": "0000876167-24-000009",
+   "items_found": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.4,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Management expresses strong satisfaction with the year-end results."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "integration success",
+     "forward growth"
+    ],
+    "summary": "Management expresses strong satisfaction with the year-end results, highlighting robust ARR growth and successful integration of MarkLogic, while maintaining a positive outlook for the upcoming fiscal year."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "supplemental data availability",
+     "website update"
+    ],
+    "summary": "The company will provide additional information on their website before a scheduled conference call."
+   }
+  }
+ ],
+ "2024-01-26": [
+  {
+   "filing_type": "10K",
+   "ticker": "PRGS",
+   "filed_date": "2024-01-26",
+   "period_end": "2023-11-30",
+   "accession": "0000876167-24-000031",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "enterprise software",
+     "cloud-based offerings",
+     "developer community"
+    ],
+    "growth_signals": [
+     "investment in new product development",
+     "expansion through indirect channels",
+     "increasing revenue from SaaS platforms"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "operational",
+     "legal",
+     "cybersecurity",
+     "financial"
+    ],
+    "key_risks": [
+     "rapid technological changes",
+     "dependence on OpenEdge products",
+     "intense industry competition",
+     "open source software risks",
+     "acquisition integration challenges"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "revenue growth",
+     "acquisitions",
+     "customer retention"
+    ],
+    "growth_signals": [
+     "revenue up 15% YoY",
+     "software license revenue up 17% YoY",
+     "professional services revenue up 41% YoY"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.23333333333333334,
+    "tone": "optimistic",
+    "summary": "PRGS demonstrates strong business and MDA optimism with significant growth signals, despite facing multiple key risks."
+   }
+  }
+ ],
+ "2024-02-26": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2024-02-26",
+   "accession": "0001552781-24-000051",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "deal",
+    "market_impact": "neutral",
+    "urgency": "medium",
+    "summary": "The company announces plans for a convertible notes offering and a process to amend."
+   },
+   "item_7_01": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "Convertible Notes Offering",
+     "Credit Agreement Amendment"
+    ],
+    "summary": "The company announces plans for a convertible notes offering and a process to amend its credit agreement, while expressing caution about the outcomes."
+   }
+  }
+ ],
+ "2024-02-28": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2024-02-28",
+   "accession": "0001552781-24-000053",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Progress Software Corporation has increased the size of its private offering."
+   },
+   "item_8_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "other",
+    "market_impact": "positive",
+    "key_themes": [
+     "funding",
+     "private offering"
+    ],
+    "summary": "Progress Software Corporation has increased the size of its private offering of convertible senior notes."
+   }
+  }
+ ],
+ "2024-03-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2024-03-01",
+   "accession": "0001552781-24-000058",
+   "items_found": [
+    "1.01",
+    "2.03",
+    "3.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "deal",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Progress Software Corporation issued convertible senior notes to raise capital."
+   },
+   "item_1_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "credit_facility",
+    "market_impact": "neutral",
+    "key_themes": [
+     "Convertible Senior Notes issuance",
+     "Debt financing strategy"
+    ],
+    "summary": "Progress Software Corporation issued convertible senior notes to raise capital, providing flexibility through conversion options and potential redemption clauses."
+   }
+  }
+ ],
+ "2024-03-08": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2024-03-08",
+   "accession": "0001552781-24-000080",
+   "items_found": [
+    "1.01",
+    "1.02",
+    "2.03",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Progress Software Corporation announces a new credit facility, indicating improved financial flexibility."
+   },
+   "item_1_01": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "credit_facility",
+    "market_impact": "positive",
+    "key_themes": [
+     "expansion of credit capacity",
+     "enhanced financial flexibility"
+    ],
+    "summary": "Progress Software Corporation enters into a new $900 million credit facility, enhancing its financial flexibility and supporting general corporate purposes."
+   },
+   "item_7_01": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "business_update",
+    "market_impact": "positive",
+    "key_themes": [
+     "new credit facility",
+     "financial flexibility"
+    ],
+    "summary": "Progress announced a new credit facility, signaling improved financial flexibility."
+   }
+  }
+ ],
+ "2024-03-26": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2024-03-26",
+   "accession": "0000876167-24-000057",
+   "items_found": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.4,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Progress reports another strong quarter with management expressing confidence."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "financial fortification",
+     "forward growth"
+    ],
+    "summary": "Progress reports another strong quarter with management expressing confidence in future growth through strategic financial moves."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "supplemental data availability",
+     "website update"
+    ],
+    "summary": "The company will provide additional information on their website before a scheduled conference call."
+   }
+  }
+ ],
+ "2024-04-08": [
+  {
+   "filing_type": "10Q",
+   "ticker": "PRGS",
+   "date": "2024-04-08",
+   "quarter": "Q2",
+   "accession": "0000876167-24-000080",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "strong product demand",
+     "acquisition integration",
+     "international growth"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "The company reports strong business momentum driven by acquisitions and robust product demand, particularly in international markets."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "rapidly changing environment",
+     "uncertainties",
+     "risks beyond control"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights risks related to a rapidly changing environment, uncertainties, and factors outside their control."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "PRGS reports strong business momentum despite highlighting risks in a rapidly changing environment."
+   }
+  }
+ ],
+ "2024-06-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2024-06-25",
+   "accession": "0000876167-24-000097",
+   "items_found": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.4,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Progress reports strong second quarter results, driven by robust product demand."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "execution excellence",
+     "forward growth"
+    ],
+    "summary": "Progress reports strong second quarter results, driven by robust product demand and effective execution, with management expressing optimism for continued growth."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "supplemental data availability",
+     "website update"
+    ],
+    "summary": "The company will provide additional information on their website before a scheduled conference call."
+   }
+  }
+ ],
+ "2024-07-08": [
+  {
+   "filing_type": "10Q",
+   "ticker": "PRGS",
+   "date": "2024-07-08",
+   "quarter": "Q3",
+   "accession": "0000876167-24-000127",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "neutral",
+    "key_themes": [
+     "constant currency impact",
+     "acquisition integration",
+     "subscription contract renewals"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "The company reports stable revenue with slight fluctuations across different regions and product lines, highlighting the impact of constant currency and the integration of the MarkLogic acquisition."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "rapidly changing environment",
+     "uncertainties",
+     "risks beyond control"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights risks related to a rapidly changing environment, uncertainties, and factors outside their control."
+   },
+   "overall": {
+    "sentiment": -0.15,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "PRGS reports stable revenue with slight fluctuations, while highlighting risks in a rapidly changing and uncertain environment."
+   }
+  }
+ ],
+ "2024-08-07": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2024-08-07",
+   "accession": "0000876167-24-000138",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "regulatory",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Progress Software Corporation received notification from the SEC concluding their matter."
+   },
+   "item_7_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "business_update",
+    "market_impact": "positive",
+    "key_themes": [
+     "SEC investigation conclusion",
+     "no enforcement action"
+    ],
+    "summary": "Progress Software Corporation received notification from the SEC concluding their investigation without recommending an enforcement action."
+   }
+  }
+ ],
+ "2024-09-09": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2024-09-09",
+   "accession": "0001552781-24-000522",
+   "items_found": [
+    "1.01",
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01",
+    "2.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.5333333333333333,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "Progress Software Corporation announces the acquisition of ShareFile, while suspending its quarterly cash dividend."
+   },
+   "item_1_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "acquisition",
+    "market_impact": "positive",
+    "key_themes": [
+     "collaboration software",
+     "document-centric use cases",
+     "strategic growth"
+    ],
+    "summary": "Progress Software Corporation enters into an agreement to acquire ShareFile, a business unit known for its collaboration software, aiming to enhance its offerings in document-centric use cases."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "business momentum",
+     "strategic acquisitions",
+     "customer focus"
+    ],
+    "summary": "Progress announces the acquisition of ShareFile, highlighting strategic alignment and enhanced capabilities in AI-powered collaboration, reflecting strong business momentum and optimism."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "negative",
+    "key_themes": [
+     "suspension of quarterly cash dividend",
+     "execution of purchase agreement"
+    ],
+    "summary": "The company announces the suspension of its quarterly cash dividend and the execution of a purchase agreement."
+   }
+  }
+ ],
+ "2024-09-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2024-09-24",
+   "accession": "0000876167-24-000140",
+   "items_found": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.4,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Progress reports strong Q3 results, exceeding guidance."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "acquisition"
+    ],
+    "summary": "Progress reports strong Q3 results, exceeding guidance, and anticipates closing the ShareFile acquisition soon."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "supplemental data availability",
+     "website update"
+    ],
+    "summary": "The company will provide additional information on their website before a scheduled conference call."
+   }
+  }
+ ],
+ "2024-10-08": [
+  {
+   "filing_type": "10Q",
+   "ticker": "PRGS",
+   "date": "2024-10-08",
+   "quarter": "Q4",
+   "accession": "0000876167-24-000160",
+   "mda": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "key_themes": [
+     "strong product demand",
+     "acquisition impact",
+     "constant currency growth"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "The company reports modest growth in revenue driven by strong software license sales and the integration of MarkLogic, with a cautiously optimistic outlook."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "rapidly changing environment",
+     "uncertainties",
+     "risks beyond control"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights risks related to a rapidly changing environment, uncertainties, and factors outside their control."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "neutral",
+    "summary": "PRGS reports modest growth in revenue but faces significant uncertainties in a rapidly evolving market."
+   }
+  }
+ ],
+ "2024-10-31": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2024-10-31",
+   "accession": "0001552781-24-000575",
+   "items_found": [
+    "2.01",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "neutral",
+    "event_category": "deal",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The company announced the completion of a transaction."
+   },
+   "item_7_01": {
+    "sentiment": 0.5,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "closing of the Transaction"
+    ],
+    "summary": "The company announced the completion of a transaction."
+   }
+  }
+ ],
+ "2025-01-21": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2025-01-21",
+   "accession": "0000876167-25-000009",
+   "items_found": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.35,
+    "tone": "optimistic",
+    "event_category": "guidance",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Progress reports strong annual recurring revenue growth and positive outlook."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "acquisition integration",
+     "customer success"
+    ],
+    "summary": "Progress reports strong annual recurring revenue growth and positive outlook, highlighting successful integration of ShareFile and continued strategic investments."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "supplemental data availability",
+     "website update"
+    ],
+    "summary": "The company will provide additional information on their website before a scheduled conference call."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "PRGS",
+   "filed_date": "2025-01-21",
+   "period_end": "2024-11-30",
+   "accession": "0000876167-25-000010",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "key_themes": [
+     "AI infrastructure",
+     "product diversification",
+     "international presence"
+    ],
+    "growth_signals": [
+     "acquisitions of Ipswitch, Chef Software, Kemp Technologies, MarkLogic, and ShareFile",
+     "expansion of product portfolio",
+     "utilization of share repurchases"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "technology",
+     "financial",
+     "geopolitical",
+     "integration"
+    ],
+    "key_risks": [
+     "rapid technological changes",
+     "dependence on OpenEdge products",
+     "intense industry competition",
+     "open source software risks",
+     "acquisition integration challenges"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "acquisitions",
+     "revenue growth",
+     "international operations"
+    ],
+    "growth_signals": [
+     "revenue up 8% YoY",
+     "services revenue up 30% YoY",
+     "maintenance revenue up 2% YoY"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "summary": "PRGS exhibits strong business optimism with growth in various revenue streams and strategic initiatives, despite facing significant risks from rapid technological changes and intense competition."
+   }
+  }
+ ],
+ "2025-03-31": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2025-03-31",
+   "accession": "0000876167-25-000051",
+   "items_found": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.4,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Progress reports strong first quarter results with robust growth in recurring revenue."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "integration progress",
+     "customer resilience"
+    ],
+    "summary": "Progress reports strong first quarter results with robust growth in recurring revenue and operational efficiency, highlighting successful ShareFile integration and resilient customer relationships."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "supplemental data availability",
+     "website update"
+    ],
+    "summary": "The company will provide additional information on their website before a scheduled conference call."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "PRGS",
+   "date": "2025-03-31",
+   "quarter": "Q1",
+   "accession": "0000876167-25-000052",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "acquisition integration",
+     "software license decline",
+     "geographic expansion"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "The company expresses optimism about its business momentum, driven by the recent acquisition of ShareFile and geographic expansion, despite noting a decline in software license revenue."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "rapidly changing environment",
+     "uncertainties",
+     "risks beyond control"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights risks related to a rapidly changing environment, uncertainties, and factors outside their control."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "neutral",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "PRGS maintains an optimistic outlook despite highlighting uncertainties in the market."
+   }
+  }
+ ],
+ "2025-06-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2025-06-30",
+   "accession": "0000876167-25-000084",
+   "items_found": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.4,
+    "tone": "optimistic",
+    "event_category": "guidance",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Progress Software reports strong performance and increased guidance."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "integration success",
+     "acquisition"
+    ],
+    "summary": "Progress Software reports robust growth, raises guidance, and successfully integrates acquisitions, signaling strong business momentum and optimism."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "supplemental data availability",
+     "website update"
+    ],
+    "summary": "The company will provide additional information on their website before a scheduled conference call."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "PRGS",
+   "date": "2025-06-30",
+   "quarter": "Q2",
+   "accession": "0000876167-25-000085",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "acquisition impact",
+     "SaaS growth",
+     "international expansion"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "The company reports strong business momentum driven by the acquisition of ShareFile, highlighting robust SaaS growth and continued international expansion."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "rapidly changing environment",
+     "uncertainties",
+     "risks beyond control"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights risks related to a rapidly changing environment, uncertainties, and factors outside their control."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "PRGS reports strong business momentum but faces uncertainties in a rapidly changing environment."
+   }
+  }
+ ],
+ "2025-07-22": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2025-07-22",
+   "accession": "0001552781-25-000224",
+   "items_found": [
+    "1.01",
+    "1.02",
+    "2.03",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.55,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Progress Software Corporation announces a new credit facility, enhancing financial flexibility."
+   },
+   "item_1_01": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "credit_facility",
+    "market_impact": "positive",
+    "key_themes": [
+     "expansion of credit capacity",
+     "flexibility in borrowing"
+    ],
+    "summary": "Progress Software Corporation enters into a new credit agreement to enhance its financial flexibility and support general corporate purposes."
+   },
+   "item_7_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "business_update",
+    "market_impact": "positive",
+    "key_themes": [
+     "new credit facility",
+     "financial flexibility"
+    ],
+    "summary": "Progress announced a new credit facility, signaling improved financial flexibility."
+   }
+  }
+ ],
+ "2025-09-29": [
+  {
+   "filing_type": "8K",
+   "ticker": "PRGS",
+   "date": "2025-09-29",
+   "accession": "0000876167-25-000142",
+   "items_found": [
+    "2.02",
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02",
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.4,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Progress Software reports exceptional third-quarter performance with strong revenue growth."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "successful integration",
+     "investment in innovation"
+    ],
+    "summary": "Progress Software reports exceptional third-quarter performance with strong revenue growth and ARR, highlighting successful integration of ShareFile and investment in AI capabilities."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "business_update",
+    "market_impact": "neutral",
+    "key_themes": [
+     "supplemental data availability",
+     "website update"
+    ],
+    "summary": "The company will provide additional information on their website before a scheduled conference call."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "PRGS",
+   "date": "2025-09-29",
+   "quarter": "Q3",
+   "accession": "0000876167-25-000143",
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "acquisition impact",
+     "software license growth",
+     "SaaS expansion"
+    ],
+    "forward_looking": "positive",
+    "business_momentum": "accelerating",
+    "summary": "The company reports strong business momentum driven by the acquisition of ShareFile and growth in software licenses and SaaS offerings."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "rapidly changing environment",
+     "uncertainties",
+     "risks beyond control"
+    ],
+    "change_vs_prior": "unknown",
+    "summary": "Management highlights risks related to a rapidly changing environment, uncertainties, and factors outside their control."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "growth",
+    "market_impact": "positive",
+    "summary": "PRGS reports strong business momentum but faces uncertainties in a rapidly changing environment."
+   }
+  }
+ ]
+}

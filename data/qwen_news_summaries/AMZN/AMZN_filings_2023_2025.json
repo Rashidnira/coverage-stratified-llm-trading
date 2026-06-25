@@ -1,0 +1,1106 @@
+{
+ "2023-02-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "AMZN",
+   "date": "2023-02-02",
+   "accession": "0001018724-23-000002",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "other",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Despite facing short-term economic uncertainties, Amazon remains optimistic about its future prospects."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "long-term optimism",
+     "customer experience improvement"
+    ],
+    "summary": "Despite facing short-term economic uncertainties, Amazon remains optimistic about long-term growth driven by improvements in customer experiences and ongoing innovations."
+   }
+  }
+ ],
+ "2023-02-03": [
+  {
+   "filing_type": "10K",
+   "ticker": "AMZN",
+   "filed_date": "2023-02-03",
+   "period_end": "2022-12-31",
+   "accession": "0001018724-23-000004",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "key_themes": [
+     "customer-centric strategy",
+     "global expansion",
+     "technology innovation"
+    ],
+    "growth_signals": [
+     "serving diverse customer sets",
+     "expansion of AWS services",
+     "investment in human capital"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "regulatory",
+     "geopolitical",
+     "operational",
+     "legal"
+    ],
+    "key_risks": [
+     "intense competition",
+     "international regulatory challenges",
+     "geopolitical instability",
+     "inventory management",
+     "data protection laws"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "long-term growth",
+     "customer experience improvement",
+     "technology investment"
+    ],
+    "growth_signals": [
+     "increasing operating income",
+     "efficiently managing costs",
+     "expanding product and service offerings"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.3,
+    "tone": "optimistic",
+    "summary": "Amazon demonstrates an optimistic outlook with a focus on customer-centric strategies, global expansion, and technological innovation, despite facing significant risks in competition, regulation, geopolitics, operations, and legal compliance."
+   }
+  }
+ ],
+ "2023-04-27": [
+  {
+   "filing_type": "8K",
+   "ticker": "AMZN",
+   "date": "2023-04-27",
+   "accession": "0001018724-23-000006",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Amazon highlights strong performance across various segments, emphasizing improvements."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "customer focus",
+     "business improvement",
+     "technology investment"
+    ],
+    "summary": "Amazon highlights strong performance across various segments, emphasizing improvements in customer experience and technology investments."
+   }
+  }
+ ],
+ "2023-04-28": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AMZN",
+   "date": "2023-04-28",
+   "quarter": "Q2",
+   "accession": "0001018724-23-000008",
+   "mda": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "key_themes": [
+     "cost management",
+     "marketing strategy",
+     "investment in technology"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Amazon maintains a stable business momentum with a focus on cost management and strategic marketing initiatives."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "operational",
+     "legal"
+    ],
+    "key_risks": [
+     "inventory management challenges",
+     "payments-related risks",
+     "evolving business model volatility"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Amazon highlights ongoing operational and regulatory challenges, particularly around inventory management and payment systems, alongside the inherent volatility of its rapidly evolving business model."
+   },
+   "overall": {
+    "sentiment": -0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Despite maintaining stable business momentum, Amazon faces ongoing operational and regulatory challenges."
+   }
+  }
+ ],
+ "2023-08-03": [
+  {
+   "filing_type": "8K",
+   "ticker": "AMZN",
+   "date": "2023-08-03",
+   "accession": "0001018724-23-000010",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Amazon reported a strong quarter with robust sales growth across segments."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cost optimization",
+     "cloud leadership"
+    ],
+    "summary": "Amazon reported a strong quarter with robust sales growth across segments, highlighting improvements in customer service and cloud technology advancements."
+   }
+  }
+ ],
+ "2023-08-04": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AMZN",
+   "date": "2023-08-04",
+   "quarter": "Q3",
+   "accession": "0001018724-23-000012",
+   "mda": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "key_themes": [
+     "cost management",
+     "marketing strategy",
+     "investment in technology"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Amazon maintains a stable business momentum with a focus on managing costs and enhancing marketing strategies while continuing to invest in technology."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "operational",
+     "legal"
+    ],
+    "key_risks": [
+     "inventory management challenges",
+     "payments-related risks",
+     "evolving business model volatility"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Amazon highlights ongoing operational and regulatory challenges, particularly around inventory management and payment systems, while noting the inherent volatility in its rapidly evolving business model."
+   },
+   "overall": {
+    "sentiment": -0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Despite maintaining stable business momentum, Amazon faces ongoing operational and regulatory challenges."
+   }
+  }
+ ],
+ "2023-09-13": [
+  {
+   "filing_type": "8K",
+   "ticker": "AMZN",
+   "date": "2023-09-13",
+   "accession": "0001018724-23-000014",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The filing indicates a management change involving the departure of certain officers."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "executive_departure",
+    "market_impact": "neutral",
+    "key_themes": [
+     "management change",
+     "departure of certain officers"
+    ],
+    "summary": "The filing indicates a management change involving the departure of certain officers at Amazon."
+   }
+  }
+ ],
+ "2023-10-26": [
+  {
+   "filing_type": "8K",
+   "ticker": "AMZN",
+   "date": "2023-10-26",
+   "accession": "0001018724-23-000016",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Amazon reported a strong third quarter with significant improvements in operations."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "cost efficiency",
+     "innovation in AWS"
+    ],
+    "summary": "Amazon reported a strong third quarter with significant improvements in operating income and free cash flow, driven by robust advertising revenue and continued innovation in AWS."
+   }
+  }
+ ],
+ "2023-10-27": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AMZN",
+   "date": "2023-10-27",
+   "quarter": "Q4",
+   "accession": "0001018724-23-000018",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "cost reduction",
+     "marketing strategy",
+     "asset impairments"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Amazon maintains a stable business momentum with cautious cost management and strategic marketing efforts, while facing challenges from asset impairments."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "operational",
+     "legal"
+    ],
+    "key_risks": [
+     "inventory management challenges",
+     "payments-related risks",
+     "evolving business model volatility"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Amazon highlights ongoing operational and regulatory challenges, particularly around inventory management and payment systems, while noting the inherent volatility in its rapidly evolving business model."
+   },
+   "overall": {
+    "sentiment": -0.2,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Amazon reports a cautiously managed quarter with stable business momentum amid ongoing operational and regulatory challenges."
+   }
+  }
+ ],
+ "2023-11-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "AMZN",
+   "date": "2023-11-01",
+   "accession": "0001104659-23-113444",
+   "items_found": [
+    "1.01",
+    "2.03",
+    "9.01",
+    "1.02"
+   ],
+   "items_analyzed": [
+    "1.01"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Amazon enters into a significant agreement that signals a strategic partnership."
+   },
+   "item_1_01": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "partnership",
+    "market_impact": "positive",
+    "key_themes": [
+     "strategic collaboration",
+     "business expansion"
+    ],
+    "summary": "Amazon enters into a significant agreement that signals a strategic partnership aimed at expanding its business reach."
+   }
+  }
+ ],
+ "2024-02-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "AMZN",
+   "date": "2024-02-01",
+   "accession": "0001018724-24-000006",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Amazon reported a strong fourth quarter with record-breaking sales and improved performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "customer experience improvements",
+     "new business progress"
+    ],
+    "summary": "Amazon reported a strong fourth quarter with record-breaking sales and improved operating income, highlighting advancements in customer service and new business growth."
+   }
+  }
+ ],
+ "2024-02-02": [
+  {
+   "filing_type": "10K",
+   "ticker": "AMZN",
+   "filed_date": "2024-02-02",
+   "period_end": "2023-12-31",
+   "accession": "0001018724-24-000008",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "key_themes": [
+     "customer-centric strategy",
+     "global expansion",
+     "technology innovation"
+    ],
+    "growth_signals": [
+     "serving diverse customer sets",
+     "expansion of AWS services",
+     "investment in human capital"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "regulatory",
+     "geopolitical",
+     "operational",
+     "supply chain"
+    ],
+    "key_risks": [
+     "intense competition",
+     "international regulatory challenges",
+     "geopolitical instability",
+     "operational inefficiencies",
+     "supply chain disruptions"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "long-term growth",
+     "customer experience improvement",
+     "technology investment"
+    ],
+    "growth_signals": [
+     "increasing operating income",
+     "efficiently managing costs",
+     "expanding product and service offerings"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.3,
+    "tone": "optimistic",
+    "summary": "Amazon demonstrates an optimistic outlook with a strong focus on customer-centric strategies and technological advancements, despite facing significant risks in competition, regulation, geopolitics, operations, and supply chains."
+   }
+  }
+ ],
+ "2024-04-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "AMZN",
+   "date": "2024-04-30",
+   "accession": "0001018724-24-000081",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Amazon reported strong financial performance driven by improvements in customer experience."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "customer experience improvements",
+     "renewed business momentum",
+     "AI capabilities driving growth"
+    ],
+    "summary": "Amazon reported strong financial performance driven by improvements in customer experience and renewed business momentum across various segments."
+   }
+  }
+ ],
+ "2024-05-01": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AMZN",
+   "date": "2024-05-01",
+   "quarter": "Q2",
+   "accession": "0001018724-24-000083",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "macro headwinds",
+     "inventory management",
+     "tax uncertainties"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Amazon acknowledges potential risks and uncertainties while maintaining a stable business momentum."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "regulatory",
+     "geopolitical"
+    ],
+    "key_risks": [
+     "intense competition",
+     "international expansion risks",
+     "regulatory compliance"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Amazon highlights ongoing intense competition, risks associated with expanding into new markets and technologies, and regulatory and geopolitical challenges."
+   },
+   "overall": {
+    "sentiment": -0.2,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Amazon maintains a cautious outlook amid acknowledged risks and stable business conditions."
+   }
+  }
+ ],
+ "2024-05-14": [
+  {
+   "filing_type": "8K",
+   "ticker": "AMZN",
+   "date": "2024-05-14",
+   "accession": "0001104659-24-061143",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The filing indicates a departure of a director or certain officer without specifics."
+   },
+   "item_5_02": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "executive_departure",
+    "market_impact": "neutral",
+    "key_themes": [
+     "departure",
+     "leadership continuity signals"
+    ],
+    "summary": "The filing indicates a departure of a director or certain officer without specifying further details."
+   }
+  }
+ ],
+ "2024-08-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "AMZN",
+   "date": "2024-08-01",
+   "accession": "0001018724-24-000128",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Amazon reports strong growth across segments, highlighting robust AWS performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "reacceleration in AWS growth",
+     "expansion of services and offerings",
+     "customer engagement initiatives"
+    ],
+    "summary": "Amazon reports strong growth across segments, highlighting robust AWS performance and various strategic initiatives."
+   }
+  }
+ ],
+ "2024-08-02": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AMZN",
+   "date": "2024-08-02",
+   "quarter": "Q3",
+   "accession": "0001018724-24-000130",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "fluctuations in foreign exchange rates",
+     "global economic conditions",
+     "competition"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Amazon acknowledges potential risks and uncertainties while maintaining a stable business momentum."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "regulatory",
+     "geopolitical"
+    ],
+    "key_risks": [
+     "intense competition",
+     "international expansion risks",
+     "regulatory compliance"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Amazon highlights ongoing intense competition, risks associated with expanding into new markets and technologies, and regulatory and geopolitical challenges."
+   },
+   "overall": {
+    "sentiment": -0.2,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Amazon maintains a cautious outlook amid acknowledged risks and stable business conditions."
+   }
+  }
+ ],
+ "2024-10-31": [
+  {
+   "filing_type": "8K",
+   "ticker": "AMZN",
+   "date": "2024-10-31",
+   "accession": "0001018724-24-000158",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Amazon reports strong third-quarter results, highlighting robust sales growth."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "product launches",
+     "expansion plans"
+    ],
+    "summary": "Amazon reports strong third-quarter results, highlighting robust sales growth and operational improvements across segments, while emphasizing upcoming holiday season initiatives and technological advancements."
+   }
+  }
+ ],
+ "2024-11-01": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AMZN",
+   "date": "2024-11-01",
+   "quarter": "Q4",
+   "accession": "0001018724-24-000161",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "fluctuations in foreign exchange rates",
+     "global economic conditions",
+     "competition"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Amazon acknowledges potential risks and uncertainties while maintaining a stable business momentum."
+   },
+   "risk_factors": {
+    "sentiment": -0.6,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "regulatory",
+     "geopolitical"
+    ],
+    "key_risks": [
+     "intense competition",
+     "international expansion risks",
+     "regulatory compliance"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Amazon highlights ongoing intense competition, risks associated with expanding into new markets and technologies, and regulatory and geopolitical challenges."
+   },
+   "overall": {
+    "sentiment": -0.2,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Amazon maintains a cautious outlook amid acknowledged risks and stable business conditions."
+   }
+  }
+ ],
+ "2025-02-06": [
+  {
+   "filing_type": "8K",
+   "ticker": "AMZN",
+   "date": "2025-02-06",
+   "accession": "0001018724-25-000002",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Amazon reported a highly successful fourth quarter with strong sales growth."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "remarkable innovation",
+     "strong demand",
+     "successful holiday season"
+    ],
+    "summary": "Amazon reported a highly successful fourth quarter with strong sales growth and significant innovation across all segments, particularly in AWS."
+   }
+  }
+ ],
+ "2025-02-07": [
+  {
+   "filing_type": "10K",
+   "ticker": "AMZN",
+   "filed_date": "2025-02-07",
+   "period_end": "2024-12-31",
+   "accession": "0001018724-25-000004",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "key_themes": [
+     "customer-centric strategy",
+     "global expansion",
+     "technology innovation"
+    ],
+    "growth_signals": [
+     "serving diverse customer sets",
+     "expansion of AWS services",
+     "investment in human capital"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "regulatory",
+     "geopolitical",
+     "operational",
+     "supply chain"
+    ],
+    "key_risks": [
+     "intense competition",
+     "international regulatory challenges",
+     "geopolitical instability",
+     "operational inefficiencies",
+     "supply chain disruptions"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "long-term growth",
+     "customer experience improvement",
+     "technology investment"
+    ],
+    "growth_signals": [
+     "increasing operating income",
+     "efficiently managing costs",
+     "expanding product and service offerings"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "optimistic",
+    "summary": "Amazon demonstrates an optimistic outlook with a strong focus on customer-centric strategies and technological advancements, despite facing significant risks in competition, regulation, geopolitics, operations, and supply chains."
+   }
+  }
+ ],
+ "2025-05-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "AMZN",
+   "date": "2025-05-01",
+   "accession": "0001018724-25-000034",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Amazon reported strong growth across segments, highlighting significant innovations."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "innovation",
+     "customer experience improvement",
+     "expansion"
+    ],
+    "summary": "Amazon reported strong growth across segments, highlighting significant innovations and expansions aimed at enhancing customer experiences."
+   }
+  }
+ ],
+ "2025-05-02": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AMZN",
+   "date": "2025-05-02",
+   "quarter": "Q2",
+   "accession": "0001018724-25-000036",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "global economic conditions",
+     "customer demand and spending",
+     "competition"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Amazon acknowledges potential risks and uncertainties while maintaining a stable business momentum."
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "regulatory",
+     "geopolitical"
+    ],
+    "key_risks": [
+     "intense competition",
+     "international regulatory challenges",
+     "geopolitical instability"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Amazon highlights ongoing intense competition, regulatory hurdles in international markets, and geopolitical risks as key concerns."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Amazon maintains a cautious outlook amid acknowledged risks and stable business conditions."
+   }
+  }
+ ],
+ "2025-07-31": [
+  {
+   "filing_type": "8K",
+   "ticker": "AMZN",
+   "date": "2025-07-31",
+   "accession": "0001018724-25-000084",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Amazon reports strong second quarter performance"
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "AI advancements",
+     "business growth",
+     "customer engagement"
+    ],
+    "summary": "Amazon reports strong second quarter performance, highlighting significant progress in AI technology and continued business expansion."
+   }
+  }
+ ],
+ "2025-08-01": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AMZN",
+   "date": "2025-08-01",
+   "quarter": "Q3",
+   "accession": "0001018724-25-000086",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "fluctuations in foreign exchange rates",
+     "customer demand and spending",
+     "competition"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Amazon acknowledges potential risks and uncertainties while maintaining a stable business momentum."
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "regulatory",
+     "geopolitical"
+    ],
+    "key_risks": [
+     "intense competition",
+     "international regulatory challenges",
+     "geopolitical instability"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Amazon highlights ongoing intense competition, regulatory hurdles in international markets, and geopolitical risks as key concerns."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Amazon maintains a cautious outlook amid acknowledged risks and stable business conditions."
+   }
+  }
+ ],
+ "2025-10-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "AMZN",
+   "date": "2025-10-30",
+   "accession": "0001018724-25-000121",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Amazon reports robust growth across all segments, particularly in AWS."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "AI innovation",
+     "growth momentum"
+    ],
+    "summary": "Amazon reports robust growth across all segments, particularly in AWS, fueled by strong AI adoption and continuous innovation."
+   }
+  }
+ ],
+ "2025-10-31": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AMZN",
+   "date": "2025-10-31",
+   "quarter": "Q4",
+   "accession": "0001018724-25-000123",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "fluctuations in foreign exchange rates",
+     "customer demand and spending",
+     "competition"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Amazon acknowledges potential risks and uncertainties while maintaining a stable business momentum."
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "competition",
+     "regulatory",
+     "geopolitical"
+    ],
+    "key_risks": [
+     "intense competition",
+     "international regulatory challenges",
+     "geopolitical instability"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Amazon highlights ongoing intense competition, regulatory hurdles in international markets, and geopolitical risks as key concerns."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Amazon maintains a cautious outlook amid acknowledged risks and stable business conditions."
+   }
+  }
+ ]
+}

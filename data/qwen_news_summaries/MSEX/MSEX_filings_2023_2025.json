@@ -1,0 +1,1453 @@
+{
+ "2023-02-03": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2023-02-03",
+   "accession": "0001174947-23-000155",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Middlesex Water Company announces a quarterly dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Middlesex Water Company announces a quarterly dividend, reflecting strong financial position and commitment to shareholder value."
+   }
+  }
+ ],
+ "2023-02-08": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2023-02-08",
+   "accession": "0001174947-23-000170",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_category": "other",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Middlesex Water Company announces a discount offering for participants."
+   },
+   "item_8_01": {
+    "sentiment": 0.5,
+    "tone": "optimistic",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "discount offering",
+     "investment plan participants"
+    ],
+    "summary": "Middlesex Water Company announces a 3% discount offering for participants in their investment plan."
+   }
+  }
+ ],
+ "2023-02-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2023-02-24",
+   "accession": "0001174947-23-000257",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Middlesex Water reported strong operational performance and highlighted ongoing success."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "infrastructure investments",
+     "dividend growth"
+    ],
+    "summary": "Middlesex Water reported strong operational performance and highlighted ongoing investments in infrastructure and consistent dividend growth."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "MSEX",
+   "filed_date": "2023-02-24",
+   "period_end": "2022-12-31",
+   "accession": "0001174947-23-000258",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "regulated water utility",
+     "wastewater systems",
+     "contract operations"
+    ],
+    "growth_signals": [
+     "enhanced treatment process completion",
+     "interconnected regional systems",
+     "applications for additional wells"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "operational",
+     "financial",
+     "climate",
+     "legal"
+    ],
+    "key_risks": [
+     "weather conditions affecting water supply",
+     "contamination of water sources",
+     "rate increase approval delays",
+     "compliance costs",
+     "capital market access"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "regulatory compliance",
+     "capital investment",
+     "rate adjustments"
+    ],
+    "growth_signals": [
+     "$102 million planned capital investment in 2023",
+     "expected revenue increase of $27.7 million from rate hikes"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "cautious",
+    "summary": "MSEX operates in regulated water utilities and wastewater systems with planned investments and expected revenue growth, but faces significant regulatory, operational, financial, climate, and legal risks."
+   }
+  }
+ ],
+ "2023-04-28": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2023-04-28",
+   "accession": "0001174947-23-000650",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Middlesex Water Company announces a quarterly dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Middlesex Water Company announces a quarterly dividend, reflecting strong financial position and commitment to rewarding shareholders."
+   }
+  }
+ ],
+ "2023-05-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2023-05-01",
+   "accession": "0001174947-23-000675",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Management acknowledges strong regulatory support but expresses caution."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "neutral",
+    "key_themes": [
+     "cost pressures",
+     "macro headwinds",
+     "regulatory support"
+    ],
+    "summary": "Management acknowledges strong regulatory support but expresses caution over cost pressures and macroeconomic challenges."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSEX",
+   "date": "2023-05-01",
+   "quarter": "Q2",
+   "accession": "0001174947-23-000678",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "operational",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "Regulatory changes impacting rates and services",
+     "Operational challenges due to aging infrastructure",
+     "Economic conditions affecting demand and costs"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing regulatory scrutiny, operational challenges with aging infrastructure, and economic uncertainties as key risks."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a neutral stance amid stable conditions but emphasizes ongoing cautiousness due to regulatory scrutiny and operational challenges."
+   }
+  }
+ ],
+ "2023-05-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2023-05-24",
+   "accession": "0001104659-23-064114",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Middlesex Water Company successfully held its annual shareholder meeting."
+   },
+   "item_8_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "annual meeting",
+     "director elections",
+     "executive compensation approval",
+     "audit committee actions"
+    ],
+    "summary": "Middlesex Water Company successfully held its annual shareholder meeting where key corporate governance decisions were made."
+   }
+  }
+ ],
+ "2023-07-20": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2023-07-20",
+   "accession": "0001104659-23-082704",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Middlesex Water Company announces a quarterly dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Middlesex Water Company announces a quarterly dividend, reflecting strong financial position and commitment to shareholder value."
+   }
+  }
+ ],
+ "2023-07-28": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2023-07-28",
+   "accession": "0001174947-23-000931",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Middlesex Water reports positive Q2 results driven by strong demand and regulatory factors."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "regulatory approval",
+     "infrastructure investment"
+    ],
+    "summary": "Middlesex Water reports positive Q2 results driven by strong demand and regulatory approvals, with optimism around ongoing investments and successful PFAS treatment facility."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSEX",
+   "date": "2023-07-28",
+   "quarter": "Q3",
+   "accession": "0001174947-23-000933",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "operational",
+     "legal"
+    ],
+    "key_risks": [
+     "regulatory changes affecting rate increases",
+     "transition of leadership",
+     "capital investment risks"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights regulatory challenges, leadership transition, and capital investment risks."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a neutral stance amid regulatory challenges, leadership changes, and capital concerns."
+   }
+  }
+ ],
+ "2023-10-20": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2023-10-20",
+   "accession": "0001174947-23-001222",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Middlesex Water Company announces an increased quarterly dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "dividend increase",
+     "shareholder benefits"
+    ],
+    "summary": "Middlesex Water Company announces an increased quarterly dividend, reflecting positive financial performance and commitment to rewarding shareholders."
+   }
+  }
+ ],
+ "2023-11-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2023-11-02",
+   "accession": "0001174947-23-001304",
+   "items_found": [
+    "8.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "negative",
+    "urgency": "high",
+    "summary": "Middlesex Water Company identifies a material weakness in its internal controls."
+   },
+   "item_8_01": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "event_type": "other",
+    "market_impact": "negative",
+    "key_themes": [
+     "material weakness in internal controls",
+     "revised audit report",
+     "remediation needed"
+    ],
+    "summary": "Middlesex Water Company identifies a material weakness in its internal controls over financial reporting and plans to amend previous filings."
+   }
+  }
+ ],
+ "2023-11-08": [
+  {
+   "filing_type": "10Q",
+   "ticker": "MSEX",
+   "date": "2023-11-08",
+   "quarter": "Q4",
+   "accession": "0001174947-23-001366",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "operational",
+     "technology"
+    ],
+    "key_risks": [
+     "material weakness in internal controls",
+     "ineffective IT general controls",
+     "lack of sufficient IT control processes"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing concerns about material weaknesses in internal controls and ineffective IT general controls, emphasizing the need for remediation."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a cautious stance due to ongoing material weaknesses in internal controls."
+   }
+  }
+ ],
+ "2023-11-09": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2023-11-09",
+   "accession": "0001174947-23-001372",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_category": "management",
+    "market_impact": "negative",
+    "urgency": "medium",
+    "summary": "Management acknowledges challenges in managing resources and executing succession."
+   },
+   "item_2_02": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "event_type": "earnings_release",
+    "market_impact": "negative",
+    "key_themes": [
+     "cost pressures",
+     "macro headwinds"
+    ],
+    "summary": "Management acknowledges challenges in managing resources and executing succession plans amid cost increases and regulatory impacts."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSEX",
+   "date": "2023-11-09",
+   "quarter": "Q4",
+   "accession": "0001174947-23-001376",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "operational",
+     "legal"
+    ],
+    "key_risks": [
+     "regulatory changes affecting rate increases",
+     "dependency on regulatory approvals for financings",
+     "transition risk due to CEO retirement"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "The company highlights regulatory challenges, operational uncertainties, and leadership transition risks."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "MSEX maintains a stable position amid regulatory challenges and operational uncertainties."
+   }
+  }
+ ],
+ "2024-01-29": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2024-01-29",
+   "accession": "0001174947-24-000136",
+   "items_found": [
+    "8.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Middlesex Water Company announces a quarterly dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder returns"
+    ],
+    "summary": "Middlesex Water Company announces a quarterly dividend, reflecting strong financial position and commitment to shareholder value."
+   }
+  }
+ ],
+ "2024-02-29": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2024-02-29",
+   "accession": "0001174947-24-000278",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Middlesex Water reported positive operational outcomes despite challenges."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "infrastructure investment",
+     "regulatory compliance",
+     "dividend growth",
+     "new leadership"
+    ],
+    "summary": "Middlesex Water reported positive operational outcomes despite challenges, highlighting investments in infrastructure, regulatory compliance, and a strong dividend history, while welcoming new leadership."
+   }
+  }
+ ],
+ "2024-03-01": [
+  {
+   "filing_type": "10K",
+   "ticker": "MSEX",
+   "filed_date": "2024-03-01",
+   "period_end": "2023-12-31",
+   "accession": "0001174947-24-000281",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "water utility services",
+     "regulated systems",
+     "contract operations"
+    ],
+    "growth_signals": [
+     "enhanced treatment process completion",
+     "new PFAS compliance measures",
+     "interconnected regional systems"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "operational",
+     "financial",
+     "climate",
+     "legal"
+    ],
+    "key_risks": [
+     "weather conditions affecting water supply",
+     "contamination of water sources",
+     "rate increase approval delays",
+     "compliance costs",
+     "capital market access"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "regulatory compliance",
+     "capital investment",
+     "rate increases"
+    ],
+    "growth_signals": [
+     "$75 million planned investment in 2024",
+     "approved base rate increase of $15.4 million"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.3,
+    "tone": "optimistic",
+    "summary": "MSEX maintains an optimistic outlook with significant planned investments and approved rate increases, despite facing regulatory and operational challenges."
+   }
+  }
+ ],
+ "2024-04-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2024-04-25",
+   "accession": "0001174947-24-000589",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Middlesex Water Company announces a quarterly dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Middlesex Water Company announces a quarterly dividend, reflecting strong financial position and commitment to shareholder value."
+   }
+  }
+ ],
+ "2024-05-08": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2024-05-08",
+   "accession": "0001174947-24-000711",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Middlesex Water reports strong first quarter results, driven by regulatory support."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "infrastructure investments",
+     "growth",
+     "regulatory support"
+    ],
+    "summary": "Middlesex Water reports strong first quarter results, driven by regulatory support and operational improvements."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSEX",
+   "date": "2024-05-08",
+   "quarter": "Q2",
+   "accession": "0001174947-24-000713",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "regulatory environment",
+     "economic conditions",
+     "operational challenges"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Middlesex Water Company maintains a stable business momentum with cautious optimism, focusing on regulatory compliance and operational efficiency amid uncertain economic conditions."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last annual report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Middlesex Water Company maintains a stable business momentum with cautious optimism, noting no new material risks."
+   }
+  }
+ ],
+ "2024-05-22": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2024-05-22",
+   "accession": "0001104659-24-064336",
+   "items_found": [
+    "5.07",
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.5,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Middlesex Water Company held its annual shareholder meeting where directors were"
+   },
+   "item_8_01": {
+    "sentiment": 0.5,
+    "tone": "neutral",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "annual meeting",
+     "director elections",
+     "executive compensation approval",
+     "audit committee actions"
+    ],
+    "summary": "Middlesex Water Company held its annual shareholder meeting where directors were elected and executive compensation was approved."
+   }
+  }
+ ],
+ "2024-07-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2024-07-24",
+   "accession": "0001174947-24-000904",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "low",
+    "summary": "Middlesex Water Company announces a quarterly dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "financial health",
+     "shareholder value"
+    ],
+    "summary": "Middlesex Water Company announces a quarterly dividend, reflecting strong financial position and commitment to shareholder value."
+   }
+  }
+ ],
+ "2024-07-31": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2024-07-31",
+   "accession": "0001174947-24-000932",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Middlesex Water reports strong second quarter results."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "investment in infrastructure",
+     "regulatory support"
+    ],
+    "summary": "Middlesex Water reports strong second quarter results, driven by increased revenues and operational improvements, while emphasizing continued investment in infrastructure and regulatory compliance."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSEX",
+   "date": "2024-07-31",
+   "quarter": "Q3",
+   "accession": "0001174947-24-000934",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "regulatory environment",
+     "economic conditions",
+     "operational challenges"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Middlesex Water Company maintains a stable business momentum with cautious optimism, highlighting potential risks and operational challenges while emphasizing regulatory and economic influences."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last annual report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Middlesex Water Company maintains a stable business momentum with cautious optimism, noting no new material risks."
+   }
+  }
+ ],
+ "2024-10-24": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2024-10-24",
+   "accession": "0001174947-24-001163",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Middlesex Water Company announces an increased quarterly dividend."
+   },
+   "item_8_01": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "dividend_announcement",
+    "market_impact": "positive",
+    "key_themes": [
+     "dividend increase",
+     "shareholder benefits"
+    ],
+    "summary": "Middlesex Water Company announces an increased quarterly dividend, reflecting positive financial performance."
+   }
+  }
+ ],
+ "2024-10-31": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2024-10-31",
+   "accession": "0001174947-24-001199",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Middlesex Water reported robust financial performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "rate increases",
+     "dividend growth"
+    ],
+    "summary": "Middlesex Water reported robust financial performance driven by rate increases and strong customer demand, while also increasing its dividend for the 52nd consecutive year."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSEX",
+   "date": "2024-10-31",
+   "quarter": "Q4",
+   "accession": "0001174947-24-001201",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "regulatory environment",
+     "economic conditions",
+     "operational challenges"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Middlesex Water Company maintains a stable business momentum with cautious optimism, highlighting potential risks and operational challenges while emphasizing regulatory and economic influences."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last annual report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Middlesex Water Company maintains a stable business momentum with cautious optimism, noting no new material risks."
+   }
+  }
+ ],
+ "2025-02-28": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2025-02-28",
+   "accession": "0001174947-25-000249",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Middlesex Water Company reports strong financial performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "infrastructure investment",
+     "regulatory support"
+    ],
+    "summary": "Middlesex Water Company reports strong financial performance driven by robust demand and strategic investments, positioning the company for continued growth."
+   }
+  },
+  {
+   "filing_type": "10K",
+   "ticker": "MSEX",
+   "filed_date": "2025-02-28",
+   "period_end": "2024-12-31",
+   "accession": "0001174947-25-000251",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "water utility services",
+     "regional expansion",
+     "customer diversification"
+    ],
+    "growth_signals": [
+     "produced approximately 67% of our 2024 consolidated operating revenues",
+     "produced approximately 24% of our 2024 consolidated operating revenues",
+     "produced approximately 3% of our 2024 consolidated operating revenues",
+     "produced approximately 1% of our 2024 consolidated operating revenues"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "operational",
+     "financial",
+     "legal",
+     "climate"
+    ],
+    "key_risks": [
+     "weather conditions affecting water supply",
+     "water contamination",
+     "rate increase approval",
+     "compliance costs",
+     "capital market access"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "infrastructure investment",
+     "rate increases",
+     "acquisition"
+    ],
+    "growth_signals": [
+     "$15.4 million increase in annual operating revenues",
+     "investment of approximately $93 million in 2025"
+    ],
+    "forward_looking": "positive"
+   },
+   "overall": {
+    "sentiment": 0.3,
+    "tone": "optimistic",
+    "summary": "MSEX exhibits optimism in its business and MDA sections, highlighting growth opportunities through regional expansion and customer diversification, despite significant regulatory, operational, financial, legal, and climate-related risks."
+   }
+  }
+ ],
+ "2025-05-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2025-05-01",
+   "accession": "0001174947-25-000675",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Middlesex Water Company reports strong first quarter results, highlighting success."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "selective and sustainable growth",
+     "infrastructure investment"
+    ],
+    "summary": "Middlesex Water Company reports strong first quarter results, highlighting successful acquisitions and continued investment in infrastructure."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSEX",
+   "date": "2025-05-01",
+   "quarter": "Q2",
+   "accession": "0001174947-25-000677",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "regulatory environment",
+     "economic conditions",
+     "operational challenges"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Middlesex Water Company maintains a stable business momentum with cautious optimism, focusing on regulatory compliance and operational efficiency amid economic uncertainties."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last annual report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Middlesex Water Company maintains a stable business momentum with cautious optimism, noting no new material risks."
+   }
+  }
+ ],
+ "2025-05-12": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2025-05-12",
+   "accession": "0001104659-25-047384",
+   "items_found": [
+    "1.01",
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "1.01",
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.3,
+    "tone": "optimistic",
+    "event_category": "deal",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Middlesex Water Company enters into an agreement to sell shares for capital expenditure."
+   },
+   "item_1_01": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "credit_facility",
+    "market_impact": "positive",
+    "key_themes": [
+     "capital expenditures",
+     "plant equipment",
+     "general corporate purposes"
+    ],
+    "summary": "Middlesex Water Company enters into an agreement to sell shares for capital expenditures and general corporate purposes."
+   },
+   "item_8_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "legal opinion",
+     "registration statement"
+    ],
+    "summary": "The company is filing a legal opinion regarding the legality of the shares in connection with an offering."
+   }
+  }
+ ],
+ "2025-07-31": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2025-07-31",
+   "accession": "0001174947-25-001118",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Middlesex Water Company reports positive earnings, highlighting successful rate"
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "rate increases",
+     "customer growth",
+     "infrastructure investment"
+    ],
+    "summary": "Middlesex Water Company reports positive earnings, highlighting successful rate cases and continued investment in infrastructure."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSEX",
+   "date": "2025-07-31",
+   "quarter": "Q3",
+   "accession": "0001174947-25-001119",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "regulatory environment",
+     "economic conditions",
+     "operational challenges"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Middlesex Water Company maintains a stable business momentum with cautious optimism, focusing on regulatory compliance and operational efficiency amid economic and operational challenges."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last annual report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Middlesex Water Company maintains a stable business momentum with cautious optimism, noting no new material risks."
+   }
+  }
+ ],
+ "2025-10-31": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2025-10-31",
+   "accession": "0001628280-25-047818",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Middlesex Water Company reports third quarter earnings with continued focus on strategic initiatives."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "selective and sustainable growth",
+     "infrastructure investment",
+     "dividend increase"
+    ],
+    "summary": "Middlesex Water Company reports third quarter earnings with continued focus on strategic acquisitions and infrastructure investments, alongside a dividend increase."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "MSEX",
+   "date": "2025-10-31",
+   "quarter": "Q4",
+   "accession": "0001628280-25-047821",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "regulatory challenges",
+     "economic uncertainty",
+     "operational risks"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Middlesex Water Company maintains a stable business momentum amid cautious optimism, highlighting regulatory challenges, economic uncertainties, and operational risks."
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [],
+    "key_risks": [],
+    "change_vs_prior": "unchanged",
+    "summary": "No new material risks have been identified since the last annual report."
+   },
+   "overall": {
+    "sentiment": 0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Middlesex Water Company sustains a steady business trajectory with a cautiously optimistic outlook."
+   }
+  }
+ ],
+ "2025-12-22": [
+  {
+   "filing_type": "8K",
+   "ticker": "MSEX",
+   "date": "2025-12-22",
+   "accession": "0001628280-25-058529",
+   "items_found": [
+    "5.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.3,
+    "tone": "neutral",
+    "event_category": "management",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "The company appointed a new independent director and amended employment agreements."
+   },
+   "item_5_02": {
+    "sentiment": 0.3,
+    "tone": "neutral",
+    "event_type": "board_change",
+    "market_impact": "neutral",
+    "key_themes": [
+     "new board member",
+     "compensation arrangements"
+    ],
+    "summary": "The company appointed a new independent director and amended employment agreements for two executives."
+   }
+  }
+ ]
+}

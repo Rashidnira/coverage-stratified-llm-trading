@@ -1,0 +1,1296 @@
+{
+ "2023-02-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2023-02-02",
+   "accession": "0000320193-23-000005",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Apple reported despite facing macroeconomic challenges and supply constraints."
+   },
+   "item_2_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "macro headwinds",
+     "long-term focus"
+    ],
+    "summary": "Despite facing macroeconomic challenges and supply constraints, Apple reported strong performance in services and maintained a positive outlook."
+   }
+  }
+ ],
+ "2023-02-03": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AAPL",
+   "date": "2023-02-03",
+   "quarter": "Q1",
+   "accession": "0000320193-23-000006",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "materialization of existing risks",
+     "business impact",
+     "financial condition impact"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights existing risks without indicating significant changes since the last report."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a neutral stance, highlighting stable conditions with unchanged risks."
+   }
+  }
+ ],
+ "2023-05-04": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2023-05-04",
+   "accession": "0000320193-23-000063",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Apple reported strong performance in Services and iPhone despite challenging eco"
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "investment in sustainability",
+     "confidence in future"
+    ],
+    "summary": "Apple reported strong performance in Services and iPhone despite challenging economic conditions, showing optimism and confidence in future growth."
+   }
+  }
+ ],
+ "2023-05-05": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AAPL",
+   "date": "2023-05-05",
+   "quarter": "Q2",
+   "accession": "0000320193-23-000064",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "materialization of existing risks",
+     "business impact",
+     "financial condition impact"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights existing risks without indicating significant changes since the last report."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a neutral stance, highlighting stable conditions with unchanged risks."
+   }
+  }
+ ],
+ "2023-05-10": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2023-05-10",
+   "accession": "0001140361-23-023909",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "deal",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Apple has completed the issuance and sale of various notes to raise capital."
+   },
+   "item_8_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "debt issuance",
+     "financial management"
+    ],
+    "summary": "Apple has completed the issuance and sale of various notes to raise capital."
+   }
+  }
+ ],
+ "2023-08-03": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2023-08-03",
+   "accession": "0000320193-23-000075",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Apple reported strong services revenue and an all-time high in active device installs."
+   },
+   "item_2_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "emerging market growth",
+     "services momentum"
+    ],
+    "summary": "Apple reported strong services revenue and an all-time high in active device installations, highlighting robust performance in emerging markets and ongoing innovation."
+   }
+  }
+ ],
+ "2023-08-04": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AAPL",
+   "date": "2023-08-04",
+   "quarter": "Q3",
+   "accession": "0000320193-23-000077",
+   "mda": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "key_themes": [],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": ""
+   },
+   "risk_factors": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "materialization of existing risks",
+     "business impact",
+     "financial condition impact"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights existing risks without indicating significant changes since the last report."
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Management maintains a neutral stance, highlighting stable conditions with unchanged risks."
+   }
+  }
+ ],
+ "2023-11-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2023-11-02",
+   "accession": "0000320193-23-000104",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Apple reports strong earnings with record revenues in iPhone and Services"
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "product lineup",
+     "customer loyalty",
+     "environmental goals"
+    ],
+    "summary": "Apple reports strong earnings with record revenues in iPhone and Services, highlighting robust product lineup and customer loyalty, while emphasizing environmental commitments."
+   }
+  }
+ ],
+ "2023-11-03": [
+  {
+   "filing_type": "10K",
+   "ticker": "AAPL",
+   "filed_date": "2023-11-03",
+   "period_end": "2023-09-30",
+   "accession": "0000320193-23-000106",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "product diversification",
+     "service expansion",
+     "international presence"
+    ],
+    "growth_signals": [
+     "timely introduction of innovative new products",
+     "expanding market opportunities",
+     "large portfolio of issued and registered intellectual property rights"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "macroeconomic",
+     "geopolitical",
+     "supply chain",
+     "operational",
+     "legal"
+    ],
+    "key_risks": [
+     "adverse macroeconomic conditions",
+     "restrictions on international trade",
+     "natural disasters",
+     "industrial accidents",
+     "cybersecurity attacks"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "foreign currency impact",
+     "product performance",
+     "services growth"
+    ],
+    "growth_signals": [
+     "Services net sales increased 9%",
+     "new product launches"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "cautious",
+    "summary": "Apple shows optimism in business growth through diversification and service expansion but expresses significant caution regarding various operational and external risks."
+   }
+  }
+ ],
+ "2024-02-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2024-02-01",
+   "accession": "0000320193-24-000005",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "high",
+    "summary": "Apple reported strong earnings driven by robust iPhone sales and record-breaking performance."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "margin expansion",
+     "innovation commitment"
+    ],
+    "summary": "Apple reported strong earnings driven by robust iPhone sales and record-breaking Services revenue, with management expressing confidence in future growth and continued investment in innovation."
+   }
+  }
+ ],
+ "2024-02-02": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AAPL",
+   "date": "2024-02-02",
+   "quarter": "Q1",
+   "accession": "0000320193-24-000006",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "macroeconomic conditions",
+     "product introductions",
+     "currency fluctuations"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Apple reports stable business momentum with cautious outlook amid macroeconomic challenges and varied regional performance."
+   },
+   "risk_factors": {
+    "sentiment": -0.75,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "legal",
+     "technology"
+    ],
+    "key_risks": [
+     "intense regulatory scrutiny",
+     "antitrust investigations",
+     "compliance with new laws"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Apple faces ongoing regulatory and legal challenges, particularly related to antitrust investigations and compliance with new digital market regulations."
+   },
+   "overall": {
+    "sentiment": -0.275,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Apple maintains stable business momentum but with a cautiously optimistic outlook due to ongoing regulatory and legal challenges."
+   }
+  }
+ ],
+ "2024-05-02": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2024-05-02",
+   "accession": "0000320193-24-000067",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Apple reported strong earnings, highlighted by record-breaking services revenue"
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "forward-looking optimism",
+     "product launches"
+    ],
+    "summary": "Apple reported strong earnings, highlighted by record-breaking services revenue and an increased focus on upcoming product announcements and technological advancements."
+   }
+  }
+ ],
+ "2024-05-03": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2024-05-03",
+   "accession": "0001140361-24-024352",
+   "items_found": [
+    "7.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "regulatory",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Apple received preliminary court approval for a proposed settlement."
+   },
+   "item_7_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "legal settlement",
+     "court approval"
+    ],
+    "summary": "Apple received preliminary court approval for a proposed settlement in shareholder derivative lawsuits."
+   }
+  },
+  {
+   "filing_type": "10Q",
+   "ticker": "AAPL",
+   "date": "2024-05-03",
+   "quarter": "Q2",
+   "accession": "0000320193-24-000069",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "macroeconomic headwinds",
+     "currency fluctuations",
+     "product lifecycle impacts"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "decelerating",
+    "summary": "Apple reports cautious outlook amid macroeconomic challenges and currency impacts, with mixed performance across segments."
+   },
+   "risk_factors": {
+    "sentiment": -0.75,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "legal",
+     "technology"
+    ],
+    "key_risks": [
+     "intense regulatory scrutiny",
+     "antitrust investigations",
+     "compliance with new regulations"
+    ],
+    "change_vs_prior": "increased",
+    "summary": "Apple highlights increased regulatory scrutiny, ongoing antitrust issues, and compliance challenges with new regulations as key risks."
+   },
+   "overall": {
+    "sentiment": -0.275,
+    "tone": "cautious",
+    "business_stage": "declining",
+    "market_impact": "negative",
+    "summary": "Apple faces a challenging quarter with a cautious outlook due to macroeconomic pressures and increased regulatory risks."
+   }
+  }
+ ],
+ "2024-08-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2024-08-01",
+   "accession": "0000320193-24-000080",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Apple reported strong earnings driven by robust demand and continued innovation"
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "innovation",
+     "customer loyalty"
+    ],
+    "summary": "Apple reported strong earnings driven by robust demand and continued innovation, highlighting the success of new software updates and high customer satisfaction."
+   }
+  }
+ ],
+ "2024-08-02": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AAPL",
+   "date": "2024-08-02",
+   "quarter": "Q3",
+   "accession": "0000320193-24-000081",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "product introductions",
+     "macroeconomic conditions",
+     "currency fluctuations"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Apple discusses the impact of new product launches and macroeconomic factors on their business, maintaining a cautious tone."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "materialization of various risks",
+     "adverse effects on business and stock price",
+     "no significant change in risk factors"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights potential adverse impacts from various risks without specifying new or increased threats."
+   },
+   "overall": {
+    "sentiment": -0.15,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "neutral",
+    "summary": "Apple addresses the effects of new product launches and macroeconomic conditions while emphasizing ongoing cautiousness regarding potential risks."
+   }
+  }
+ ],
+ "2024-08-26": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2024-08-26",
+   "accession": "0001140361-24-038601",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Luca Maestri transitions from CFO to lead Corporate Services teams."
+   },
+   "item_5_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "Luca Maestri is transitioning from CFO to leading Corporate Services teams, while Kevan Parekh is set to take over as CFO."
+   }
+  }
+ ],
+ "2024-09-10": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2024-09-10",
+   "accession": "0001140361-24-040659",
+   "items_found": [
+    "7.01"
+   ],
+   "items_analyzed": [
+    "7.01"
+   ],
+   "overall": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "event_category": "regulatory",
+    "market_impact": "negative",
+    "urgency": "high",
+    "summary": "Apple faces a significant one-time tax charge due to a recent court ruling."
+   },
+   "item_7_01": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "event_type": "business_update",
+    "market_impact": "negative",
+    "key_themes": [
+     "legal challenges",
+     "tax implications",
+     "financial impact"
+    ],
+    "summary": "Apple faces a significant one-time tax charge due to a recent court ruling, impacting its financial outlook."
+   }
+  }
+ ],
+ "2024-10-31": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2024-10-31",
+   "accession": "0000320193-24-000120",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Apple reported strong earnings driven by robust iPhone sales and new product launch."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "product innovation",
+     "customer loyalty"
+    ],
+    "summary": "Apple reported strong earnings driven by robust iPhone sales and new product launches, highlighting continued customer satisfaction and market leadership."
+   }
+  }
+ ],
+ "2024-11-01": [
+  {
+   "filing_type": "10K",
+   "ticker": "AAPL",
+   "filed_date": "2024-11-01",
+   "period_end": "2024-09-28",
+   "accession": "0000320193-24-000123",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "key_themes": [
+     "product diversification",
+     "service expansion",
+     "international presence"
+    ],
+    "growth_signals": [
+     "timely introduction of innovative new products",
+     "expanding market opportunities",
+     "cloud services",
+     "digital content services",
+     "payment services"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "macroeconomic",
+     "geopolitical",
+     "supply chain",
+     "cybersecurity",
+     "operational"
+    ],
+    "key_risks": [
+     "adverse macroeconomic conditions",
+     "restrictions on international trade",
+     "natural disasters",
+     "cybersecurity attacks",
+     "industrial accidents"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "product launches",
+     "macroeconomic conditions",
+     "services growth"
+    ],
+    "growth_signals": [
+     "services net sales increased 13%",
+     "total gross margin increased 2%"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.06,
+    "tone": "cautious",
+    "summary": "Apple shows optimism in product diversification and service expansion but faces significant risks from macroeconomic and geopolitical factors."
+   }
+  }
+ ],
+ "2025-01-03": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2025-01-03",
+   "accession": "0001140361-25-000228",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Apple Inc. appoints Kevan Parekh as the new Chief Financial Officer."
+   },
+   "item_5_02": {
+    "sentiment": 0.7,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "Apple Inc. appoints Kevan Parekh as the new Chief Financial Officer, signaling continued stability and experienced leadership."
+   }
+  }
+ ],
+ "2025-01-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2025-01-30",
+   "accession": "0000320193-25-000007",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Apple reported an all-time high revenue and EPS, driven by strong demand."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "product innovation",
+     "services growth"
+    ],
+    "summary": "Apple reported an all-time high revenue and EPS, driven by strong demand for its products and services, and highlighted future innovations like Apple Intelligence."
+   }
+  }
+ ],
+ "2025-01-31": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AAPL",
+   "date": "2025-01-31",
+   "quarter": "Q1",
+   "accession": "0000320193-25-000008",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "macroeconomic conditions",
+     "product introductions",
+     "currency fluctuations"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Apple reports stable business momentum with cautious outlook due to macroeconomic uncertainties and currency impacts."
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "legal",
+     "technology"
+    ],
+    "key_risks": [
+     "complex and changing laws and regulations",
+     "antitrust investigations and litigation",
+     "intense media, political and regulatory scrutiny"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Apple highlights ongoing regulatory challenges, legal risks from antitrust investigations, and technological scrutiny as key concerns."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "negative",
+    "summary": "Apple maintains stable business operations but faces significant regulatory and legal challenges, leading to a cautiously pessimistic outlook."
+   }
+  }
+ ],
+ "2025-05-01": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2025-05-01",
+   "accession": "0000320193-25-000055",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Apple reported strong earnings driven by robust services growth and a new product launch."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "customer loyalty",
+     "environmental progress"
+    ],
+    "summary": "Apple reported strong earnings driven by robust services growth and a new all-time high in active device installations."
+   }
+  }
+ ],
+ "2025-05-02": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AAPL",
+   "date": "2025-05-02",
+   "quarter": "Q2",
+   "accession": "0000320193-25-000057",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "macroeconomic challenges",
+     "tariff impacts",
+     "product launches"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Apple reports stable business momentum with cautious outlook due to macroeconomic challenges and tariff impacts, while highlighting new product launches."
+   },
+   "risk_factors": {
+    "sentiment": -0.7,
+    "tone": "cautious",
+    "risk_categories": [
+     "geopolitical",
+     "macroeconomic",
+     "supply_chain",
+     "climate",
+     "operational"
+    ],
+    "key_risks": [
+     "international trade restrictions",
+     "natural disasters",
+     "cybersecurity threats",
+     "public health issues"
+    ],
+    "change_vs_prior": "increased",
+    "summary": "AAPL highlights increased risks related to geopolitical tensions, trade restrictions, natural disasters, and cybersecurity threats."
+   },
+   "overall": {
+    "sentiment": -0.25,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "negative",
+    "summary": "AAPL reports stable business momentum but with an increased focus on heightened risks, particularly concerning geopolitical tensions and trade restrictions."
+   }
+  }
+ ],
+ "2025-05-12": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2025-05-12",
+   "accession": "0001140361-25-018400",
+   "items_found": [
+    "8.01",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "8.01"
+   ],
+   "overall": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_category": "deal",
+    "market_impact": "neutral",
+    "urgency": "low",
+    "summary": "Apple has completed the issuance of various notes to raise capital."
+   },
+   "item_8_01": {
+    "sentiment": 0.0,
+    "tone": "neutral",
+    "event_type": "other",
+    "market_impact": "neutral",
+    "key_themes": [
+     "debt issuance",
+     "financial strategy"
+    ],
+    "summary": "Apple has completed the issuance of various notes to raise capital."
+   }
+  }
+ ],
+ "2025-07-09": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2025-07-09",
+   "accession": "0001140361-25-025275",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Sabih Khan is set to take over as Chief Operating Officer from Jeff Williams."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "Sabih Khan is set to take over as Chief Operating Officer from Jeff Williams, signaling smooth leadership transition at Apple."
+   }
+  }
+ ],
+ "2025-07-25": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2025-07-25",
+   "accession": "0001140361-25-027340",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Apple Inc. appoints Sabih Khan as the new Chief Operating Officer."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "Apple Inc. appoints Sabih Khan as the new Chief Operating Officer, signaling continued stability and experience within the company's leadership."
+   }
+  }
+ ],
+ "2025-07-31": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2025-07-31",
+   "accession": "0000320193-25-000071",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Apple reported strong June quarter results with double-digit growth in key areas"
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "customer satisfaction",
+     "forward-looking optimism"
+    ],
+    "summary": "Apple reported strong June quarter results with double-digit growth in key areas, highlighting robust demand and customer loyalty."
+   }
+  }
+ ],
+ "2025-08-01": [
+  {
+   "filing_type": "10Q",
+   "ticker": "AAPL",
+   "date": "2025-08-01",
+   "quarter": "Q3",
+   "accession": "0000320193-25-000073",
+   "mda": {
+    "sentiment": 0.2,
+    "tone": "cautious",
+    "key_themes": [
+     "macroeconomic challenges",
+     "tariff impacts",
+     "product launches"
+    ],
+    "forward_looking": "neutral",
+    "business_momentum": "stable",
+    "summary": "Apple discusses ongoing challenges from macroeconomic conditions and tariffs while highlighting product launches, maintaining a cautious tone."
+   },
+   "risk_factors": {
+    "sentiment": -0.5,
+    "tone": "cautious",
+    "risk_categories": [
+     "regulatory",
+     "competition",
+     "macroeconomic"
+    ],
+    "key_risks": [
+     "materialization of known or unknown factors",
+     "adverse effects on business, reputation, operations, financial condition, and stock price"
+    ],
+    "change_vs_prior": "unchanged",
+    "summary": "Management highlights ongoing risks that could adversely affect the company without noting significant changes since the last report."
+   },
+   "overall": {
+    "sentiment": -0.1,
+    "tone": "cautious",
+    "business_stage": "stable",
+    "market_impact": "negative",
+    "summary": "Apple faces ongoing challenges from macroeconomic conditions and tariffs."
+   }
+  }
+ ],
+ "2025-10-30": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2025-10-30",
+   "accession": "0000320193-25-000077",
+   "items_found": [
+    "2.02",
+    "9.01"
+   ],
+   "items_analyzed": [
+    "2.02"
+   ],
+   "overall": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_category": "earnings",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Apple reported strong earnings driven by robust demand for its latest product line."
+   },
+   "item_2_02": {
+    "sentiment": 0.8,
+    "tone": "optimistic",
+    "event_type": "earnings_release",
+    "market_impact": "positive",
+    "key_themes": [
+     "strong demand",
+     "product launches",
+     "customer loyalty"
+    ],
+    "summary": "Apple reported strong earnings driven by robust demand for its latest product lineup and continued customer satisfaction."
+   }
+  }
+ ],
+ "2025-10-31": [
+  {
+   "filing_type": "10K",
+   "ticker": "AAPL",
+   "filed_date": "2025-10-31",
+   "period_end": "2025-09-27",
+   "accession": "0000320193-25-000079",
+   "rf_not_applicable": false,
+   "business": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "product diversification",
+     "service expansion",
+     "international presence"
+    ],
+    "growth_signals": [
+     "continual and timely introduction of innovative new products",
+     "expanding market opportunities",
+     "cloud services",
+     "digital content services",
+     "payment services"
+    ]
+   },
+   "risk_factors": {
+    "sentiment": -0.8,
+    "tone": "cautious",
+    "risk_categories": [
+     "macroeconomic",
+     "geopolitical",
+     "supply chain",
+     "climate",
+     "legal"
+    ],
+    "key_risks": [
+     "adverse macroeconomic conditions",
+     "restrictions on international trade",
+     "natural disasters",
+     "cybersecurity attacks",
+     "intellectual property disputes"
+    ]
+   },
+   "mda": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "key_themes": [
+     "product launches",
+     "services growth",
+     "international sales dynamics"
+    ],
+    "growth_signals": [
+     "Services net sales increased 14%",
+     "Mac net sales up 12%",
+     "Total net sales grew 6%"
+    ],
+    "forward_looking": "neutral"
+   },
+   "overall": {
+    "sentiment": 0.13333333333333333,
+    "tone": "optimistic",
+    "summary": "Apple shows optimism in business growth and product diversification, but faces significant risks from macroeconomic and geopolitical factors."
+   }
+  }
+ ],
+ "2025-12-05": [
+  {
+   "filing_type": "8K",
+   "ticker": "AAPL",
+   "date": "2025-12-05",
+   "accession": "0001140361-25-044561",
+   "items_found": [
+    "5.02"
+   ],
+   "items_analyzed": [
+    "5.02"
+   ],
+   "overall": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_category": "management",
+    "market_impact": "positive",
+    "urgency": "medium",
+    "summary": "Jennifer Newstead is set to take over as Apple's general counsel, signaling continued leadership strength."
+   },
+   "item_5_02": {
+    "sentiment": 0.6,
+    "tone": "optimistic",
+    "event_type": "executive_appointment",
+    "market_impact": "positive",
+    "key_themes": [
+     "role changed",
+     "leadership continuity signals"
+    ],
+    "summary": "Jennifer Newstead is set to take over as Apple's general counsel, signaling continued strong leadership within the company."
+   }
+  }
+ ]
+}
