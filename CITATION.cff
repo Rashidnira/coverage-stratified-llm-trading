@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this dataset or benchmark, please cite the FinBench paper."
+title: "FinBench: A Coverage-Stratified Benchmark Framework for LLM-Based Trading Agents"
+type: dataset
+authors:
+  - family-names: "Rashid"
+    given-names: "M."
+  - family-names: "Chowdhury"
+    given-names: "I."
+  - family-names: "Subat"
+    given-names: "A."
+  - family-names: "Hong"
+    given-names: "L."
+  - family-names: "Ye"
+    given-names: "G."
+  - family-names: "Hossain"
+    given-names: "K. S. M. T."
+repository-code: "https://github.com/Rashidnira/coverage-stratified-llm-trading"
+preferred-citation:
+  type: article
+  title: "FinBench: A coverage-stratified benchmark framework for LLM-based trading agents"
+  authors:
+    - family-names: "Rashid"
+      given-names: "M."
+    - family-names: "Chowdhury"
+      given-names: "I."
+    - family-names: "Subat"
+      given-names: "A."
+    - family-names: "Hong"
+      given-names: "L."
+    - family-names: "Ye"
+      given-names: "G."
+    - family-names: "Hossain"
+      given-names: "K. S. M. T."
+  journal: "Data and Information Management"
+  year: 2026
+  notes: "Forthcoming"

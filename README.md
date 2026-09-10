@@ -17,3 +17,11 @@ A coverage-stratified, multi-source dataset for evaluating large language model 
 ## Repository contents
 - **`10_Sources_Master_Data/`** — per-firm daily signals for all ten sources; one directory per ticker (2023–2025).
 - **`Data_Labeling_for_Classification/`** — supervised BUY/HOLD/SELL labels defined by a ±0.5% band on the next-day market-adjusted return; `train_2023_2024.jsonl` and `test_2025.jsonl`.
+
+## Citation
+
+If you use this dataset or benchmark, please cite:
+
+> Rashid, M., Chowdhury, I., Subat, A., Hong, L., Ye, G., & Hossain, K. S. M. T. (2026).
+> FinBench: A coverage-stratified benchmark framework for LLM-based trading agents.
+> *Data and Information Management*. Forthcoming.
